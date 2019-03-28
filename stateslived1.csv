@@ -1,0 +1,51 @@
+state,visited
+Alabama,10
+Alaska,15
+Arkansas,20
+Arizona,10
+California,15
+Colorado,20
+Connecticut,21
+Delaware,25
+Florida,30
+Georgia,21
+Hawaii,25
+Iowa,30
+Idaho,31
+Illinois,35
+Indiana,40
+Kansas,31
+Kentucky,35
+Louisiana,40
+Maine,41
+Maryland,45
+Massachusetts,50
+Michigan,41
+Minnesota,45
+Missouri,50
+Mississippi,51
+Montana,55
+North Carolina,60
+North Dakota,51
+Nebraska,55
+New Hampshire,60
+New Jersey,61
+New Mexico,65
+Nevada,70
+New York,61
+Ohio,65
+Oklahoma,70
+Oregon,10
+Pennsylvania,15
+Rhode Island,20
+South Carolina,10
+South Dakota,10
+Tennessee,15
+Texas,20
+Utah,31
+Virginia,46
+Vermont,56
+Washington,70
+Wisconsin,14
+West Virginia,66
+Wyoming,19
