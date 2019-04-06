@@ -1,0 +1,994 @@
+Hotel ID,Hotel Name,Total Rating,Overall Customers
+107956,Extended Stay America - Houston - Northwest,29.3,10
+108038,Hilton University of Houston,16.38888888888889,18
+239853,BEST WESTERN PLUS Downtown Inn & Suites Houston,20.333333333333332,24
+1158926,Hilton Garden Inn Houston Energy Corridor,27.428571428571427,35
+107915,Drury Inn & Suites Houston Near The Galleria,22.789473684210527,19
+1218737,La Quinta Inn & Suites Houston - Normandy,27.5,2
+559491,Holiday Inn Express Houston East,22.75,4
+266158,Super 8 Houston/Hobby Airport/I-45,20.0,4
+108057,Residence Inn Houston Clear Lake,17.615384615384617,13
+223137,La Quinta Inn Houston Northwest,18.4,5
+1200103,Hotel Sorella CITYCENTRE,29.5,28
+283873,"Hotel Icon, Autograph Collection",20.083333333333332,132
+107924,Courtyard by Marriott Houston Westchase,14.923076923076923,13
+98952,Four Seasons Hotel Houston,20.21794871794872,78
+98920,Houston Marriott Westchase,19.710526315789473,38
+223151,Hampton Inn and Suites Houston Medical Center - Reliant Park,22.375,16
+99081,Crowne Plaza Houston - Brookhollow,18.346153846153847,26
+223158,Quality Inn & Suites West Chase,20.0,3
+258634,Scottish Inn & Suites Reliant Park/Six Flags,20.25,4
+107863,Extended Stay America - Houston - Westchase - Westheimer,8.5,2
+223164,Homewood Suites by Hilton Houston - Clear Lake,23.0,11
+108149,Drury Inn & Suites Houston Hobby,22.17241379310345,29
+585164,Residence Inn Houston West/Energy Corridor,25.0,6
+99067,"Four Points by Sheraton Houston, Memorial City",23.333333333333332,15
+223154,Hampton Inn Houston - Near The Galleria,20.916666666666668,24
+99106,La Quinta Inn Houston Medical / Reliant Center,15.782608695652174,23
+815515,Scottish Inns & Suites - Willowbrook,34.0,1
+650546,Symphony Inn & Suites,19.0,1
+596014,Staybridge Suites Houston West / Energy Corridor,29.285714285714285,7
+223141,Comfort Suites Westchase,19.384615384615383,13
+256700,Sun Suites of Hobby / Clearlake,18.88888888888889,9
+223179,Holiday Inn Express Hotel & Suites Houston Hwy 59S/Hillcroft,17.5,6
+108020,BEST WESTERN Heritage Inn,21.3,10
+256702,Sun Suites Of Westchase,12.25,12
+108150,Courtyard by Marriott Houston Hobby Airport,14.461538461538462,26
+223149,Hampton Inn Houston Hobby Airport,16.4,5
+558146,Star Inn & Suites,14.0,2
+266326,Super 8 Houston/Downtown/I-610,1.0,1
+486939,Hampton Inn & Suites Houston-Westchase,24.75,4
+258635,Sun Suites Of Greenspoint,17.5,4
+223148,Baymont Inn & Suites Houston,18.444444444444443,18
+107884,Americas Best Value Inn & Suites - Houston/Northwest,8.0,7
+595438,Extended Stay America - Houston - Katy Freeway - Energy Corridor,23.5,2
+99132,Hilton Houston Westchase,21.64516129032258,31
+98989,DoubleTree by Hilton Houston Hobby Airport,19.16,25
+488773,Airport Inn And Suites,30.0,1
+98940,Houston Inn and Suites,13.0,5
+98962,Holiday Inn Houston Near The Galleria,15.9375,16
+239859,Studio 6 Houston Northwest,12.0,2
+107846,Montecito Apartment Suites,20.0,1
+223156,Comfort Inn Houston,12.8,10
+107802,Econo Lodge,20.0,3
+226728,Interstate Motor Lodge,30.0,1
+107903,Howard Johnson Express Inn - Houston,9.333333333333334,12
+98976,Hotel Preet Northwest,4.8,5
+596446,Texan Inn & Suites,26.0,1
+266125,Hobby Inn and Suites,11.2,5
+122746,Londale Hotel,21.333333333333332,3
+142353,Econo Lodge Medical Center,10.375,8
+226721,Studio 6 Houston - Westchase,4.0,1
+107713,Ramada Houston Southwest,12.4,5
+223135,Travelodge Houston - Intercontinental,14.6,5
+107769,Fairfield Inn & Suites Houston I-45 North,10.666666666666666,3
+223183,InTown Suites Houston Northwest / Cy-Fair (XHW) - Houston,10.0,1
+223184,InTown Suites Highway 290,6.5,2
+239858,Studio 6 Houston-Hobby,21.333333333333332,3
+98937,Astro Inn,2.0,1
+244313,Motel 6 Houston - Westchase,18.333333333333332,3
+239355,Super 8 Houston/I-10/Federal Road,9.4,5
+107999,Quality Inn & Suites West - Energy Corridor,18.333333333333332,3
+1146238,Value Place Airtex,31.5,2
+73463,Downtowner Inn and Suites,19.428571428571427,7
+99031,America's Inn,11.2,5
+1382899,Value Place I-10 West,10.0,1
+99051,Motel 6 Houston West - Katy,13.285714285714286,7
+98972,Ramada Inn North Houston,10.7,10
+239857,Studio 6 Houston - Spring,6.0,4
+240481,Super 8 Motel - Houston/I-10W@Hwy6,6.2,5
+247110,Quality Suites Bush/IAH Airport West,12.25,4
+109734,Quality Inn & Suites Galleria/Westchase,14.833333333333334,6
+98934,Knights Inn Houston,8.608695652173912,23
+277895,Howard Johnson Clearlake,15.666666666666666,9
+99013,Baymont Inn Houston Hobby Airport,15.904761904761905,21
+244316,Studio 6 Houston West,29.5,2
+73470,Greenway Inn & Suites,7.411764705882353,17
+141893,Hampton Inn & Suites,11.352941176470589,17
+244314,Motel 6 Houston Reliant Park,15.0,8
+108006,Quality Inn Houston,18.666666666666668,6
+141902,Days Inn West Houston,9.7,10
+107911,Hotel 31 Houston Near the Galleria,13.541666666666666,24
+244196,Preet Inn,10.0,2
+240435,Red Carpet Inn Houston,6.5,4
+99024,Venetian Inn & Suites Houston Airport,22.4,5
+254040,Moonlight Inn and Suites,13.25,4
+99101,Sheraton North Houston at George Bush Intercontinental,15.215686274509803,51
+223182,InTown Suites Houston Intercontinental,2.0,1
+239848,Americas Best Value Inn & Suites-Houston North,5.0,1
+649739,Camelot Inn & Suites,23.5,2
+98986,Hospitality Inn,20.0,1
+217739,Wellesley Suites Memorial,2.0,3
+108029,Houston Days Inn Downtown / Medical Center,5.0,1
+558038,Regency Inn & Suites,17.75,4
+603138,Scottish Inn & Suites Houston - Eastex Freeway,6.0,1
+98970,Brentwood Inn,9.0,5
+107751,Knights Inn Houston Raceway/Bush Airport,17.0,2
+240440,Passport Inn & Suites Houston,7.0,2
+223138,Americas Best Value Classic Inn & Suites- Downtown,4.5,2
+223194,Scottish Inn & Suites,13.25,4
+292556,Holiday Inn Express Houston - Hobby Airport,16.866666666666667,15
+98981,Holiday Inn Houston Southwest-Hwy 59S @ Beltway 8,16.4,5
+98964,Holiday Inn Houston Hobby Airport,26.25,8
+98936,Courtyard by Marriott Houston Brookhollow,19.5,12
+223180,Comfort Inn Hwy. 290/NW,23.7,10
+108145,Hotel Marquis,14.333333333333334,12
+1484167,Palace Inn Sam Houston Parkway North,29.0,1
+653244,Galleria Garden Hotel/Apartments,14.666666666666666,3
+252340,Super 8 Houston /I-10 & 610,24.0,2
+1514581,"Park Inn by Radisson, Houston North",16.6,10
+503400,BEST WESTERN PLUS Sam Houston Inn & Suites,28.333333333333332,3
+99017,La Quinta Inn Houston East,14.25,4
+108047,Rodeway Inn & Suites Hwy 290 NW,14.5,4
+1155392,Athens Hotel Suites,25.357142857142858,14
+223175,Red Roof Inn - Houston Northwest,17.0,3
+223157,Holiday Inn Express Northwest / Brookhollow,21.0,3
+559409,Regency Suites Bush Airport,12.866666666666667,15
+244310,Motel 6 Houston Hobby Airport,3.0,1
+240483,Super 8 Houston / Brookhollow / NW,18.8,15
+107930,Candlewood Suites Houston by the Galleria,17.6875,16
+108060,Candlewood Suites Houston/Clear Lake,19.333333333333332,3
+240441,Red Carpet Inn Hobby Airport,8.5,2
+223176,Residence Inn Intercontinental Airport at Greenspoint,16.285714285714285,7
+258875,Comfort Suites,16.571428571428573,7
+223140,Comfort Suites,21.25,4
+99041,La Quinta Inn Houston Wilcrest,20.6,10
+1577352,Baymont Inn and Suites Houston I-45 North,12.5,2
+99073,Comfort Inn & Suites Greenway Plaza/SW Freeway,13.166666666666666,6
+107867,Residence Inn Houston Westchase,14.5,8
+107812,BEST WESTERN Windsor Suites,21.6,5
+217741,Red Roof Inn Houston IAH Airport,8.666666666666666,6
+109748,Residence Inn Houston Medical Center/Reliant Park,17.423076923076923,26
+223136,La Quinta Inn & Suites Houston Southwest,17.5,8
+223177,Quality Inn & Suites Reliant Park/Medical Center,22.5,6
+239356,Americas Best Value Inn & Suites Houston FM 1960/I-45,26.333333333333332,6
+223169,Microtel Inn & Suites by Wyndham Houston,10.75,12
+99015,La Quinta Inn Houston Cy-Fair,18.428571428571427,7
+116265,Best Western Plus - North Houston Inn & Suites,23.375,8
+107718,America's Inn,12.75,4
+1485278,Quality Inn & Suites North,26.0,3
+99014,Days Inn Houston,16.6,10
+109742,Hampton Inn Houston Northwest,18.0,6
+1212489,Candlewood Suites Houston Medical Center,30.0,2
+108010,Comfort Inn East,21.6,5
+240437,Country Inn & Suites Houston Hobby Airport,18.125,8
+1146180,Days Inn Houston,19.0,4
+107859,Comfort Suites - Near the Galleria,17.2,10
+107994,Crossland Economy Studios - Houston - Northwest,31.5,2
+107993,Crossland Economy Studios - Houston - West Oaks,9.0,1
+223172,Red Roof Inn Houston West,22.166666666666668,6
+107913,Extended Stay America - Houston - Galleria - Westheimer,17.5,2
+124460,Comfort Suites Willowbrook / Technology Corridor,12.0,1
+223144,Courtyard by Marriott Houston Northwest,20.375,8
+98999,Courtyard Houston I-10 West/Energy Corridor,20.09090909090909,11
+223150,"Hampton Inn Houston - I-10W, Energy Cor",13.88888888888889,9
+223143,Courtyard Houston Intercontinental Airport,14.6,5
+107834,Hyatt Place Houston/Greenspoint/IAH Airport,23.233333333333334,30
+257022,BEST WESTERN Fountainview Inn & Suites Near Galleria,12.0,1
+1724101,Howard Johnson Houston,32.0,1
+108148,Holiday Inn Houston Intercontinental Airport,24.25,28
+223192,Extended Stay America - Houston - Med. Ctr. - Reliant Pk. - Braeswood Blvd.,18.3125,16
+108066,Crowne Plaza Hotel Houston- Medical Center,23.928571428571427,14
+107957,TownePlace Suites Central/Northwest Freeway,20.333333333333332,3
+73481,Holiday Inn Express - Houston,25.0,1
+217746,Extended Stay America - Houston - Galleria - Uptown,20.2,15
+107990,Extended Stay America - Houston - Greenway Plaza,18.285714285714285,7
+1416435,TownePlace Suites Houston Intercontinental Airport,25.88888888888889,9
+107844,Residence Inn Houston by The Galleria,20.476190476190474,21
+109751,Hampton Inn - Brookhollow,20.9,10
+98997,Hilton Houston Southwest,15.925,40
+1549134,Houston Marriott South at Hobby Airport,23.333333333333332,3
+1733514,Candlewood Suites Houston IAH / Beltway 8,34.0,1
+223153,Hampton Inn & Suites Houston-Cypress Station,21.75,4
+223152,Hampton Inn Houston - Willowbrook Mall,18.0,3
+223165,Homewood Suites by Hilton Houston - Westchase,20.615384615384617,13
+98959,Holiday Inn Houston Reliant Park Area,18.823529411764707,34
+107783,Comfort Suites Bush Intercontinental Airport,16.473684210526315,19
+108002,HYATT house Houston/Energy Corridor,26.695652173913043,23
+99120,BEST WESTERN Plaza Hotel & Suites at Medical Center Houston,22.866666666666667,15
+268149,Courtyard by Marriott Houston Downtown,18.433333333333334,30
+98987,Marriott Houston Airport at George Bush Intercontinental,18.78481012658228,79
+257507,Four Points by Sheraton Houston Southwest,16.863636363636363,44
+240439,Hilton Garden Inn Houston / Bush Intercontinental Airport,18.19047619047619,21
+98996,Hilton Houston Plaza/Medical Center,18.8,30
+107929,Candlewood Suites Houston Westchase,21.6,5
+107711,Extended Stay America - Houston - Willowbrook - HWY 249,19.8,5
+1197126,Holiday Inn Express Hotel & Suites Houston West-Energy Corridor,19.428571428571427,7
+107776,Quality Suites North,27.0,3
+223171,Super 8 Houston,18.0,2
+123943,Days Inn Houston - Galleria Mall,20.727272727272727,11
+107947,La Quinta Inn & Suites Houston West Park 10,24.0,3
+108142,John F. Kennedy Inn and Suites,24.586206896551722,29
+1236696,Super 8 IAH West / Greenspoint,28.55263157894737,38
+240436,Carefree Inn Medical Center,18.166666666666668,6
+268145,Holiday Inn Express Houston - Memorial Park Area,11.8,5
+223142,Country Inn & Suites Intercontinental Airport,13.166666666666666,24
+1645644,Fairfield Inn & Suites Houston Intercontinental Airport,35.0,1
+223155,La Quinta Inn & Suites Willowbrook,22.0,3
+111618,Renaissance Houston Hotel Greenway Plaza,19.8,50
+223159,Holiday Inn Express Houston-Downtown Convention Center,21.678571428571427,28
+223139,HYATT house Houston/Galleria,18.083333333333332,36
+124937,La Quinta Inn Houston Greenway Plaza,21.0625,16
+258636,Alden-Houston,16.623376623376622,77
+107954,TownePlace Suites Houston I-10 West/Energy Corridor,16.8,5
+107908,Fairfield Inn Houston / Westchase,25.333333333333332,3
+223228,Holiday Inn Express Houston-NW (Highway 290 and FM 1960),7.2,5
+657890,Homewood Suites by Hilton Houston West-Energy Corridor,28.333333333333332,3
+99103,Sheraton Suites Houston Near The Galleria,21.175675675675677,74
+98954,DoubleTree Suites by Hilton Houston by the Galleria,20.333333333333332,60
+223166,Homewood Suites by Hilton Houston - Willowbrook Mall,13.625,8
+223193,Wingate by Wyndham Houston / Willowbrook,21.647058823529413,17
+1103488,Sheraton Houston West,26.733333333333334,15
+878451,MainStay Suites Texas Medical Center/Reliant Park,24.294117647058822,17
+99066,Springhill Suites Houston Medical Center/Reliant Park,20.037037037037038,27
+1649109,Houston Marriott Energy Corridor,30.0,4
+1657341,Courtyard Houston Medical Center,27.0,1
+645215,La Quinta Inn & Suites Houston 1960,20.0,2
+98944,Hilton Houston Post Oak,22.09090909090909,110
+99114,Westin Galleria Houston Hotel,17.64367816091954,87
+98943,Doubletree Hotel Houston Downtown,20.964912280701753,57
+108061,SpringHill Suites Houston Brookhollow,18.11111111111111,9
+223147,Fairfield Inn & Suites Houston I-10 West / Energy Corridor,19.666666666666668,6
+108004,Houston Days Inn & Suites,8.0,1
+1575212,Holiday Inn Houston West Energy Corridor,34.0,1
+288460,Courtyard Houston-West University,21.545454545454547,22
+223189,Crestwood Suites Houston 290-Galleria,23.523809523809526,21
+98991,Houston Marriott Medical Center,19.764705882352942,51
+223134,SpringHill Suites Houston Hobby Airport,20.615384615384617,13
+665163,Courtyard by Marriott Houston by the Galleria,26.53125,32
+107982,Holiday Inn Houston Northwest Willowbrook,19.375,8
+107826,Houston Marriott North,18.225,40
+99058,Hilton Houston NASA Clear Lake,23.09433962264151,53
+1440365,Sleep Inn & Suites,24.666666666666668,3
+671200,La Quinta Inn & Suites Houston Hobby Airport,9.0,3
+277894,Homewood Suites by Hilton HOU Intercontinental Airport,16.0,7
+99007,Doubletree Houston Intercontinental Airport,24.02127659574468,47
+99010,JW Marriott Houston,19.285714285714285,91
+220094,Sonesta ES Suites Houston,23.0,13
+107991,Drury Inn & Suites Houston West,23.4375,16
+1026192,Comfort Suites Hobby Airport Houston,28.5,6
+812523,La Quinta Inn & Suites Houston - Westchase,32.5,2
+226753,Super 8 Houston/NASA/Webster Area,18.09090909090909,11
+99135,Westin Oaks Houston at the Galleria,17.765625,64
+293234,Holiday Inn Express Hotel & Suites Houston Medical Center,22.75,24
+99110,The Lancaster,16.511111111111113,45
+286987,Inn at the Ballpark,19.0,70
+1237172,Candlewood Suites Houston NW - Willowbrook,34.0,1
+99116,Crowne Plaza Houston Downtown,19.23404255319149,47
+107856,La Quinta Inn & Suites Houston Galleria Area,17.6,20
+98956,Holiday Inn Hotel & Suites Houston Medical Center,22.87878787878788,33
+286988,Residence Inn Houston West University,21.571428571428573,21
+268151,Residence Inn by Marritt Houston Downtown /Convention Center,15.4375,16
+239865,BEST WESTERN Northwest Inn & Suites,17.083333333333332,12
+1100784,Jesse H. Jones Rotary House International,23.5,4
+266145,Residence Inn Houston Northwest/Willowbrook,25.071428571428573,14
+530458,La Quinta Inn & Suites Houston Clay Road,23.333333333333332,6
+631349,Hampton Inn & Suites Houston-Bush Intercontinental Airport,20.40909090909091,22
+622987,Modern B&B,22.761904761904763,21
+1478311,Homewood Suites by Hilton Houston Northwest Cy-Fair,32.0,2
+223173,Red Roof Inn - Houston - Westchase,8.0,4
+99006,Hyatt Regency Houston,17.66355140186916,107
+608401,Homewood Suites Houston near the Galleria,23.454545454545453,22
+1511925,La Quinta Inn & Suites Houston Channelview,32.0,1
+570279,Hilton Garden Inn Houston Galleria,22.057142857142857,35
+223227,Wingate by Wyndham Bush Intercontinental Airport IAH,23.8,10
+518371,Hilton Garden Inn Houston Westbelt,23.666666666666668,9
+525232,Club Quarters in Houston,18.30188679245283,53
+223146,Extended Stay America - Houston - Westchase - Richmond,6.0,1
+99060,Omni Houston Hotel,16.482758620689655,87
+223145,Embassy Suites Houston - Near the Galleria,17.366666666666667,30
+99137,Hilton Houston North,19.977777777777778,45
+99055,Omni Houston Hotel Westside,21.01818181818182,55
+596013,Indigo Houston at the Galleria,23.194444444444443,72
+99054,Houston Marriott West Loop by the Galleria,19.076923076923077,39
+219703,Sheraton Houston Brookhollow Hotel,19.266666666666666,60
+641273,Hotel ZaZa Houston,23.03361344537815,119
+1015206,Crowne Plaza Suites Houston - Near Sugar Land,26.051546391752577,97
+107836,The St. Regis Houston,24.620689655172413,87
+578694,Days Inn and Suites Houston Hobby Airport,25.0,4
+1205162,Element by Westin Houston Vintage Park,29.19047619047619,42
+108141,La Quinta Inn & Suites Houston Bush IAH South,19.58823529411765,17
+247108,Hilton Garden Inn Houston Northwest,25.125,32
+615260,Hotel Granduca,25.8125,32
+99109,The Houstonian,19.168539325842698,89
+1438752,Embassy Suites Houston - Energy Corridor,29.470588235294116,17
+1573321,SpringHill Suites Houston Intercontinental Airport,32.5,14
+73445,BEST WESTERN PLUS Westchase Mini-Suites,28.666666666666668,6
+98979,Crowne Plaza Houston River Oaks,24.46875,32
+266157,Magnolia Hotel Houston,25.85551330798479,526
+1200768,"Country Inn & Suites By Carlson San Antonio Airport, TX",25.363636363636363,22
+1353074,Four Points by Sheraton San Antonio Northwest,18.0,11
+1674220,Comfort Suites San Antonio NW Near Six Flags,19.0,2
+1438859,Courtyard San Antonio SeaWorld/Westover Hills,27.4,15
+611291,Hampton Inn & Suites San Antonio-Airport,23.78125,32
+99455,Hyatt Regency San Antonio,19.79245283018868,212
+570285,Hotel Contessa,22.59159159159159,333
+1175533,La Quinta Inn & Suites San Antonio The Dominion,19.0,4
+240451,Drury Inn & Suites San Antonio Northwest Medical Center,20.266666666666666,75
+1200881,Wyndham La Cascada,23.875,16
+223058,Red Roof Inn San Antonio - Airport,21.272727272727273,22
+108703,Hyatt Place San Antonio Northwest,20.64,50
+223712,La Quinta Inn & Suites San Antonio Airport,21.89189189189189,37
+223706,Hampton Inn San Antonio Downtown (River Walk),18.5375,80
+108382,Residence Inn San Antonio Airport,19.363636363636363,22
+108936,Pear Tree Inn San Antonio Northeast,21.46153846153846,13
+108736,Extended Stay Deluxe - San Antonio - Colonnade,14.692307692307692,13
+1165284,Sleep Inn & Suites at Six Flags,27.57894736842105,19
+99420,Courtyard by Marriott San Antonio Airport,20.125,16
+223696,Red Roof Inn San Antonio West Sea World,17.0,21
+108533,Fairfield Inn San Antonio Airport/North Star Mall,16.294117647058822,17
+1562631,Candlewood Suites San Antonio NW Near Seaworld,5.0,1
+273367,Quality Inn & Suites Northwoods,13.75,8
+108534,Drury Inn & Suites San Antonio Airport,19.805555555555557,36
+465532,Super 8 San Antonio/Riverwalk Area,24.5,4
+1021483,Days Inn San Antonio at Palo Alto,20.77777777777778,18
+1164501,Comfort Inn & Suites Near Medical Center,22.2,10
+108206,Days Inn San Antonio Southeast,11.5,2
+590753,American Motel,17.5,6
+240452,Park Inn San Antonio North,1.0,1
+259215,Budget Lodge Inn & Suites,1.0,1
+99418,Americas Best Value Inn-AT&T Center,8.6,5
+108577,Sierra Royale,2.8333333333333335,12
+604553,Motel 6 San Antonio - Bandera Road,14.625,8
+244322,Motel 6 San Antonio West - Seaworld,22.875,8
+240457,Passport Inn San Antonio,30.0,1
+99527,Motel 6 San Antonio NW-Medical Center,9.8,5
+1465109,Holiday Inn San Antonio NW - Seaworld Area,26.4,20
+99508,Knights Inn San Antonio East,6.5,2
+223690,InTown Suites San Antonio East,8.0,2
+223703,Econo Lodge Central San Antonio,5.0,1
+223687,Villager Lodge San Antonio,4.285714285714286,7
+108935,Holiday Inn Express San Antonio North (I-35 and Judson),21.0,1
+99497,Days Inn NW Medical Center,26.5,8
+293240,Rodeway Inn San Antonio Near AT&T Center,9.75,4
+108608,Days Inn Fiesta Park,8.285714285714286,7
+831103,Economy Inn San Antonio,11.666666666666666,3
+501431,Delux Inn San Antonio,6.0,1
+108939,Quality Inn & Suites San Antonio East,12.88888888888889,9
+643318,Alamo Lodge,5.5,10
+260945,InTown Suites San Antonio West,11.0,4
+108857,Knights Inn San Antonio/Medical Center/Fiesta Area,8.375,8
+99502,Knights Inn San Antonio/Fort Sam Houston,6.0,1
+577395,Budget Suites of America San Antonio,19.3,10
+472231,Rodeway Inn near Ft. Sam Houston,8.0,1
+99501,Hallmark Inn & Suites,17.5,2
+530411,Rodeway Inn & Suites Fiesta Park,12.192307692307692,26
+108219,Travelodge San Antonio ATT Center / I-10 E,7.25,4
+247839,Motel 6 San Antonio North,14.5,4
+491073,Travel Inn,22.0,4
+99431,American Inn & Suites Lackland,9.894736842105264,19
+99536,Red Roof Inn Lackland,10.761904761904763,21
+222987,Days Inn Downtown/Riverwalk,8.09375,32
+108933,Days Inn San Antonio,19.166666666666668,6
+99445,Holiday Inn San Antonio Downtown,19.296296296296298,81
+99521,Super 8 Downtown Riverwalk,10.2,15
+108303,Econo Lodge Inn & Suites Coliseum,17.75,4
+239967,Studio 6 San Antonio - Six Flags,14.909090909090908,11
+239973,Motel 6 San Antonio - Ft. Sam Houston,17.5,4
+108938,Days Inn San Antonio/Coliseum/AT&T Center,8.5,2
+108253,Super 8 San Antonio/ATT Center/Coliseum Area,7.428571428571429,7
+123710,Oak Hills Medical Center Hotel,10.266666666666667,15
+108426,Days Inn Airport,17.857142857142858,7
+239968,Studio 6 San Antonio - Medical Center,17.1,10
+244319,Motel 6 San Antonio East,9.5,2
+244321,Motel 6 San Antonio South,13.333333333333334,3
+99414,Town House Motel - Airport,13.0,5
+240568,Super 8 San Antonio Airport,13.0,5
+99514,Rodeway Inn at Six Flags,9.5,4
+108642,Baymont San Antonio Wurzbach / Medical Center,12.8,15
+1209962,Motel 6 San Antonio Medical Center South,20.8,5
+108941,Econo Lodge East,17.8,5
+99513,Rodeway Inn Downtown,13.18918918918919,37
+260935,InTown Suites San Antonio Northeast,17.5,4
+108934,HomeGate Studios & Suites San Antonio Fiesta Park,10.875,24
+108255,Ramada Limited Downtown,10.36,25
+99506,Motel 6 San Antonio Northeast,13.6,5
+108252,Super 8 San Antonio/Downtown I-10 East,12.75,4
+239972,Motel 6 San Antonio - Fiesta,15.615384615384615,13
+550977,Econo Lodge,11.428571428571429,7
+1743841,San Pedro Motel,7.0,1
+249576,La Villita Inn San Antonio,14.615384615384615,13
+483322,Rose Park Inn,32.0,1
+108171,Holiday Inn Lackland,19.772727272727273,22
+99452,Mid Towne Inn and Suites,14.25,12
+239974,Budgetel Inn & Suites,20.0,3
+259218,Carefree Inn Lackland,16.535714285714285,28
+631249,Holiday Inn Express Hotel & Suites San Antonio South,22.5,4
+99487,Marriott San Antonio Riverwalk,17.568421052631578,95
+99472,La Quinta Inn San Antonio South Park,15.666666666666666,12
+99515,Mi Casa Inn & Suites,8.0,6
+1486231,SpringHill Suites San Antonio Medical Center/Six Flags,21.714285714285715,7
+122790,Homestead Studio Suites - San Antonio - Airport,11.05,20
+240487,Super 8 - Sea World / Medical Center,16.571428571428573,7
+108931,Comfort Inn Fiesta Park Area,16.428571428571427,7
+108158,Travelodge San Antonio Lackland,18.2,15
+99446,Quality Inn & Suites Near Fort Sam Houston,21.142857142857142,7
+108943,Comfort Suites San Antonio at Rittiman,22.652173913043477,23
+1164348,Holiday Inn Express Hotel & Suites San Antonio,29.0,4
+108791,Days Inn San Antonio Northwest / Seaworld,19.357142857142858,28
+1163830,Sleep Inn & Suites near Seaworld,14.0,3
+645210,Value Place San Antonio,31.5,2
+1177260,Quality Inn Medical Center,19.4,5
+73250,Extend A Suites-San Antonio,2.0,1
+1209478,Motel 6 -San Antonio Downtown - Market Square,18.75,12
+225490,Microtel Inn & Suites by Wyndham San Antonio North East,14.125,16
+1014760,Hotel Mimosa Riverwalk,15.03225806451613,31
+99439,Hampton Inn San Antonio NW/Sea World Area,16.2,15
+99417,La Quinta Inn San Antonio AlamoDome South,16.857142857142858,14
+108154,Quality Inn Downtown South,28.0,1
+99464,La Quinta Inn San Antonio Sea World Ingram Park,12.371428571428572,35
+216867,Days Inn San Antonio - Interstate Highway 35 North,11.857142857142858,7
+99419,Red Roof Inn San Antonio I-10 East,10.916666666666666,12
+497952,Americas Best Value Inn - San Antonio / Lackland AFB,9.428571428571429,7
+254917,Quality Suites,14.6,5
+122791,Candlewood Suites - San Antonio NW Medical Center,14.210526315789474,19
+534695,Regency Inn & Suites San Antonio,13.3,10
+108831,Super 8 Motel Six Flags San Antonio,15.0,5
+1201142,Fairfield Inn & Suites San Antonio North/Stone Oak,28.0,1
+226014,La Quinta Inn San Antonio I-10 East,13.5,6
+1177887,Comfort Inn & Suites near the AT&T Center,24.727272727272727,11
+239971,Motel 6 San Antonio - Alamo Dome South,17.0,4
+614476,River Inn Motel,8.0,1
+99540,Travelodge San Antonio Alamo,11.88888888888889,54
+223229,Holiday Inn Express San Antonio Airport North,21.6,10
+99421,Courtyard San Antonio Medical Center,18.625,16
+108574,Sleep Inn Medical Center Northwest,13.157894736842104,19
+146138,The Fairmount,16.5,46
+621644,Quality Inn & Suites Bandera Point,20.944444444444443,18
+124464,Rodeway Inn at Lackland AFB,11.923076923076923,13
+534709,Econo Lodge Inn & Suites Fiesta Park,19.0,5
+99450,San Antonio Marriott Northwest,19.21212121212121,33
+108260,The Antonian,10.807692307692308,26
+252502,Holiday Inn Express Hotel & Suites San Antonio-Downtown Market Area,19.790697674418606,43
+108444,Super 8 San Antonio,15.363636363636363,11
+569882,Holiday Inn Express SeaWorld,21.23076923076923,26
+99441,Holiday Inn San Antonio International Airport,16.88095238095238,42
+99416,Crowne Plaza Airport,19.12,25
+223689,InTown Suites San Antonio Airport,11.0,4
+108251,Days Inn Alamo/Riverwalk,14.7,30
+248120,Alamo Inn Motel,18.833333333333332,36
+590278,Holiday Inn Express Hotel & Suites San Antonio I-10 Northwest,23.875,16
+320058,Travelodge San Antonio/Near Fort Sam/ATT Center,15.181818181818182,11
+108701,"Hawthorn Suites by Wyndham San Antonio, E Loop",28.5,2
+223662,Americas Best Value Inn - Medical Center,23.2,5
+1382269,Comfort Inn Near SeaWorld,23.363636363636363,11
+99485,La Quinta Inn San Antonio I-35 N at Rittiman Rd,17.181818181818183,11
+99476,La Quinta Inn San Antonio I-35 N at Toepperwein,16.272727272727273,11
+508084,Comfort Inn & Suites Airport,16.9375,16
+108562,Courtyard by Marriott San Antonio Airport / North Star Mall,17.25,12
+1139002,Holiday Inn Express San Antonio North,24.63157894736842,19
+99499,DoubleTree by Hilton San Antonio Downtown,25.571428571428573,7
+2549268,MainStay Suites,27.923076923076923,13
+99480,La Quinta Inn San Antonio Vance Jackson,17.076923076923077,13
+108233,Residence Inn San Antonio Downtown / Market Square,17.5,16
+108339,Fairfield Inn San Antonio Downtown/Market Square,17.736842105263158,38
+108522,Hill Country Inn & Suites,20.382882882882882,222
+99518,Hilton San Antonio Airport,18.61904761904762,42
+108391,Comfort Suites Airport North,24.6,10
+108922,M-Star San Antonio SeaWorld,22.545454545454547,11
+1212773,Wyndham Riverside Suites Hotel San Antonio,20.764705882352942,17
+99504,DoubleTree Hotel San Antonio Airport,17.544303797468356,79
+268525,Quality Inn near Seaworld,16.647058823529413,17
+108408,Hyatt Place San Antonio Airport,18.526315789473685,38
+108364,BEST WESTERN Alamo Suites,17.0,40
+108487,Pear Tree Inn San Antonio Airport,18.94736842105263,19
+73242,BEST WESTERN Ingram Park Inn,17.846153846153847,13
+223697,Hilton San Antonio Hill Country Hotel & Spa,15.88888888888889,162
+108676,Howard Johnson San Antonio/Near Balcones Heights,21.17391304347826,23
+1479977,Courtyard San Antonio Six Flags at The RIM,27.375,8
+676703,TownePlace Suites San Antonio Northwest,28.625,8
+953773,Comfort Suites North IH 35,24.333333333333332,12
+99495,Howard Johnson Inn & Suites San Antonio,19.05,20
+108932,BEST WESTERN PLUS Fiesta Inn,18.4,15
+99451,Holiday Inn Riverwalk,16.943396226415093,106
+1116329,Residence Inn San Antonio Seaworld,24.31578947368421,19
+108361,Courtyard by Marriott San Antonio Downtown/Market Square,17.43243243243243,37
+109753,Hilton Garden Inn San Antonio Airport,16.2,15
+108521,Holiday Inn Express San Antonio Airport,21.22222222222222,18
+247773,Riverwalk Plaza Hotel & Suites,24.61111111111111,18
+99434,Embassy Suites Hotel San Antonio Northwest / I-10,20.43243243243243,74
+247123,BEST WESTERN PLUS Hill Country Suites,19.27777777777778,18
+677533,Courtyard by Marriott San Antonio North,24.0,5
+277948,Holiday Inn Express Hotel & Suites San Antonio Rivercenter Area,21.666666666666668,33
+217757,El Tropicano Riverwalk Hotel,21.99236641221374,131
+881708,Fairfield Inn & Suites San Antonio SeaWorld/Westover Hills,25.6,20
+645211,La Quinta Inn & Suites San Antonio Medical Center,23.38095238095238,42
+108250,Crowne Plaza San Antonio Riverwalk,16.5472972972973,148
+108884,Ramada - San Antonio Sea World Area,21.41176470588235,17
+99470,La Quinta Inn San Antonio Market Square,15.28125,32
+1552856,Candlewood Suites San Antonio N - Stone Oak Area,17.75,8
+1382347,Aloft San Antonio Airport,23.692307692307693,39
+1657244,BEST WESTERN PLUS Palo Alto Inn & Suites,34.0,1
+877968,Staybridge Suites San Antonio NW near Six Flags Fiesta Texas,26.09090909090909,11
+99462,La Quinta Inn & Suites San Antonio Convention Cntr,18.833333333333332,54
+223708,Drury Inn & Suites San Antonio Northeast,24.875,16
+1144554,Homewood Suites by Hilton Hotel San Antonio North,21.2,10
+123557,Red Roof Inn San Antonio Downtown - Riverwalk,18.681318681318682,91
+99433,Embassy Suites Hotel San Antonio International Airport,22.220338983050848,59
+1676193,SpringHill Suites San Antonio SeaWorld/Lackland,31.25,4
+108306,Hotel Indigo San Antonio Riverwalk,25.266666666666666,30
+657967,BEST WESTERN Windsor Pointe Hotel & Suites,24.5,6
+675441,BEST WESTERN Posada Ana Inn-Airport,24.09090909090909,11
+575206,Super 8 San Antonio/I-37 South,18.0,4
+99531,The Menger Hotel,13.561085972850679,221
+1229785,BEST WESTERN PLUS San Antonio East Inn & Suites,27.5,2
+223057,SpringHill Suites San Antonio Medical Center/Northwest,11.0,13
+1200634,La Quinta Inn & Suites San Antonio Northwest,26.0,4
+99437,Four Points by Sheraton San Antonio Airport,19.428571428571427,7
+645212,Courtyard by Marriott San Antonio SeaWorld/Lackland,14.11111111111111,9
+112240,Omni San Antonio Hotel,20.371681415929203,113
+223716,Homewood Suites by Hilton San Antonio Northwest,20.55,20
+1156873,La Quinta Inn & Suites San Antonio Fiesta TX,26.833333333333332,6
+99468,La Quinta Inn San Antonio Lackland,17.72972972972973,37
+99489,"O'Brien Historic Hotel, an Ascend Collection Hotel",17.30841121495327,107
+123556,Hyatt Place San Antonio/Riverwalk,24.597014925373134,67
+1236032,Drury Inn & Suites Near La Cantera Parkway,28.0,20
+112231,Homewood Suites by Hilton San Antonio-Riverwalk/Downtown,16.19298245614035,114
+99494,Marriott Plaza San Antonio,20.0,146
+108908,BEST WESTERN PLUS Posada Ana Inn - Medical Center,18.857142857142858,7
+1028312,Comfort Suites Stone Oak,26.25,24
+1477755,BEST WESTERN PLUS Atrea Hotel & Suites,17.333333333333332,3
+617387,Residence Inn San Antonio North-Stone Oak,21.3,10
+657719,Staybridge Suites San Antonio Sunset Station,24.79245283018868,53
+223715,Hampton Inn San Antonio - Northwoods,17.5,8
+1100734,Courtyard San Antonio Riverwalk,22.47826086956522,23
+553469,Crockett Hotel,22.363636363636363,110
+1006634,La Quinta Inn & Suites San Antonio North Stone Oak,12.0,5
+1479635,Residence Inn San Antonio Six Flags at The RIM,34.5,2
+123559,Drury Inn & Suites Riverwalk,22.47019867549669,302
+223230,Staybridge Suites San Antonio Airport,23.65625,32
+1390173,SpringHill Suites San Antonio Airport,23.5,10
+108763,Staybridge Suites San Antonio NW-Colonnade,23.214285714285715,28
+498346,Hyatt Wild Oak Ranch,24.435643564356436,101
+223669,La Quinta Inn & Suites San Antonio Downtown,15.903225806451612,62
+99458,Omni La Mansion del Rio,18.724358974358974,312
+1566913,Staybridge Suites San Antonio Sea World,33.0,4
+320049,Drury Inn & Suites San Antonio North,22.4,10
+258651,Hotel Valencia Riverwalk,18.67558528428094,299
+99530,Hilton Palacio del Rio,18.84269662921348,178
+858424,Grand Hyatt San Antonio,23.229007633587788,131
+1514210,Four Points by Sheraton San Antonio Downtown,21.625,8
+1688532,Holiday Inn San Antonio North-Hill Country,32.0,5
+1146124,Hotel Indigo San Antonio At The Alamo,30.1875,16
+112227,Sheraton Gunter Hotel San Antonio,18.79874213836478,159
+99453,Hyatt Regency Hill Country Resort and Spa,18.579646017699115,226
+99488,San Antonio Marriott Rivercenter,19.404761904761905,168
+112229,Hotel Havana,28.5,2
+108254,Residence Inn San Antonio Downtown/Alamo Plaza,20.50588235294118,85
+656713,TownePlace Suites San Antonio Airport,26.15,20
+239912,BEST WESTERN PLUS Sunset Suites - Riverwalk,23.01923076923077,104
+269651,Riverwalk Vista,23.564885496183205,131
+1673679,Hyatt Place San Antonio-North/Stone Oak,27.5,2
+288617,Mokara Hotel and Spa,20.923728813559322,118
+1584731,JW Marriott San Antonio Hill Country Resort & Spa,25.529411764705884,85
+1140713,Comfort Suites Alamo/Riverwalk,26.8,30
+625299,Drury Plaza Hotel Riverwalk,26.7434554973822,382
+108571,Westin La Cantera Hill Country Resort,17.056338028169016,213
+99535,The Westin Riverwalk,19.03717472118959,269
+109353,Staybridge Suites Dallas - Addison,22.75,24
+224228,Homewood Suites Dallas-Market Center,15.8,15
+109345,Hotel Lumen - a Kimpton Hotel,24.0,54
+1493264,Holiday Inn Express Hotel & Suites Dallas (Galleria Area),26.857142857142858,7
+622920,Maple Manor Hotel,26.5609756097561,41
+111538,Cooper Hotel & Conference Center,23.833333333333332,6
+109438,Residence Inn Dallas Central Expressway,18.75,8
+109571,La Quinta Inn & Suites Dallas Addison Galleria,16.91304347826087,23
+109487,BEST WESTERN Cityplace Inn,16.818181818181817,11
+109474,Holiday Inn Express Hotel & Suites Dallas Park Central Northeast,18.666666666666668,6
+98638,Doubletree Dallas Near the Galleria,21.095238095238095,21
+109367,Dallas Marriott Suites Medical/Market Center,23.065573770491802,61
+98690,Motel 6 - Dallas - Market Center,18.142857142857142,7
+224237,InTown Suites Dallas / Market Center,7.0,2
+223056,Motel 6 Dallas Southwest,8.0,1
+260923,InTown Suites Dallas North / Plano,9.0,2
+109352,Budget Suites of America-Dallas,10.571428571428571,7
+589369,Carefree Inn Dallas,22.5,2
+239867,BEST WESTERN PLUS Northwest Inn & Suites,19.0,3
+109479,Days Inn & Suites,6.2,5
+98733,Embassy Suites Hotel Dallas Love Field,26.639344262295083,61
+224240,HYATT house Dallas/Lincoln Park,17.405405405405407,37
+109062,Days Inn Dallas DFW,9.727272727272727,11
+109407,Super 8 Dallas/East,17.666666666666668,6
+109277,Econo Lodge Dallas Airport North,5.5,2
+224236,InTown Suites Dallas Northeast,12.666666666666666,3
+98652,Americas Best Value Inn,7.0,1
+109455,Suburban Extended Stay,7.166666666666667,6
+98663,Howard Johnson Inn - Dallas,11.833333333333334,6
+109309,Super 8 Dallas,11.0,2
+109427,Extended Stay Deluxe - Dallas - Market Center,23.375,8
+224222,Suburban Extended Stay Dallas,14.444444444444445,9
+114948,Luxe Stoneleigh Hotel & Spa,24.609375,64
+98609,Hotel Indigo Dallas Downtown,26.71590909090909,88
+98666,Quality Inn Dallas Market Center,12.125,16
+209356,Holiday Inn Select Dallas Central (North Park Area),13.352941176470589,17
+98664,Radisson Hotel Dallas East,14.538461538461538,13
+98623,Super 8 Dallas/Love Field/Mkt Ctr Area,17.0,2
+109075,Terra Cotta Inn,24.0,1
+224235,Studio 6 Dallas Northeast,10.4,5
+1147227,NATIONAL AT 2929 WYCLIFF,11.0,1
+656704,Delux Inn Express & Suites,1.0,1
+98617,Americas Best Value Inn & Suites-North Dallas,10.0,4
+98728,The Westin Galleria Dallas,18.864583333333332,96
+557588,Sleep Inn Addison,22.0,1
+98657,Studio 6 Dallas-Richardson/North,20.0,4
+258628,Sun Suites Of Dallas,14.0,2
+239871,Studio 6 Dallas Northwest,14.5,2
+98695,Hotel Dallas Mockingbird,6.5,6
+1214715,Holiday Inn Express Dallas East,25.0,6
+98721,Motel 6 Dallas - Forest Lane,6.0,1
+98640,DoubleTree by Hilton Hotel Dallas - Campbell Centre,17.97872340425532,47
+98644,Embassy Suites Hotel Dallas - Park Central Area,19.041666666666668,24
+109371,Holiday Inn Express Hotel & Suites Dallas/Stemmons Fwy(I-35 E),16.444444444444443,9
+109379,Sterling Hotel,10.767441860465116,43
+585414,Hyatt Regency DFW,21.641304347826086,92
+217717,Homestead Studio Suites - Dallas - North - Park Central,16.133333333333333,15
+98719,Sheraton Suites Market Center,19.12087912087912,91
+1176822,Days Inn & Suites Plano Medical Center/Dallas,22.0,1
+109426,Springhill Suites Dallas Downtown West End,21.97872340425532,47
+98713,Days Inn Market Center Dallas,11.5,4
+109035,Extended Stay America - Dallas - Greenville Ave.,16.0,1
+109453,Motel 6 Dallas,19.8,10
+98678,Howard Johnson Inn - Dallas,8.5,2
+109039,Candlewood Suites Dallas Park Central,22.0,1
+656305,Americas Best Value Inn,20.666666666666668,3
+223045,Comfort Inn & Suites,19.333333333333332,12
+98622,SpringHill Suites NW Hwy at Stemmons/I-35E,24.666666666666668,15
+109493,Candlewood Suites - Dallas by the Galleria,19.444444444444443,9
+109399,Comfort Inn & Suites Market Center,16.2,20
+1221734,Days Inn North Dallas Hotel,11.0,1
+223632,Motel 6 Park Central,14.666666666666666,6
+98628,Courtyard by Marriott NW Hwy at Stemmons/I-35E,10.6,5
+109325,Comfort Suites Park Central,16.4,15
+98647,Embassy Suites Hotel Dallas-Market Center,13.848484848484848,33
+98627,Courtyard by Marriott Dallas LBJ at Josey,22.46153846153846,13
+109389,Fairfield Inn Dallas Market Center,18.105263157894736,19
+611182,La Quinta Inn Dallas LBJ/Central,25.5,8
+98704,Knights Inn Market Center,26.25,4
+109412,InterContinental Dallas,17.88,100
+73644,BEST WESTERN Market Center,14.381818181818181,55
+98606,The Fairmont Dallas,20.607407407407408,135
+98685,La Quinta Inn Dallas East (I-30),19.583333333333332,12
+223887,Residence Inn Dallas Park Central,26.105263157894736,19
+98686,La Quinta Inn & Suites Dallas North Central,21.526315789473685,19
+109456,Wyndham Dallas Love Field,24.636363636363637,11
+98683,La Quinta Inn Dallas Uptown,21.894736842105264,19
+1218038,Dallas Addison Marriott Quorum By the Galleria,21.384615384615383,39
+224241,Hilton Garden Inn Dallas/Market Center,19.551020408163264,49
+217716,Homestead Studio Suites - Dallas - North Addison - Tollway,9.0,2
+122699,Hyatt Place Dallas-North,22.0,30
+659532,Ritz-Carlton Dallas,26.149253731343283,67
+98730,Holiday Inn Dallas Market Center,24.275862068965516,29
+109454,Hotel Lawrence,17.494505494505493,91
+109339,Homestead Studio Suites - Dallas - Plano,23.428571428571427,7
+652607,Doubletree by Hilton Dallas Market Center,22.0,28
+109789,Ramada-Dallas Love Field,22.761904761904763,21
+98631,Crowne Plaza Dallas Market Center,18.045454545454547,44
+223053,BEST WESTERN PLUS Dallas Hotel & Conference Center,20.085365853658537,82
+109391,Wingate by Wyndham Dallas / Love Field,15.0,15
+109351,Courtyard by Marriott Dallas Central Expressway,22.0,12
+122715,Omni Dallas Hotel at Park West,22.214953271028037,107
+1235854,Comfort Suites Dallas,32.5,2
+98651,Hampton Inn Dallas North / I-35 East At Walnut Hill,22.384615384615383,13
+224227,Homewood Suites by Hilton Dallas - Park Central Area,24.5,4
+543081,Extended Stay America - Dallas - North - Park Central,9.75,4
+109374,Residence Inn Dallas Market Center,17.083333333333332,12
+224218,Embassy Suites Dallas - Near the Galleria,20.9,30
+98639,Sheraton Dallas Hotel by the Galleria,17.855072463768117,69
+109370,Courtyard by Marriott Dallas Market Center,15.705882352941176,17
+109334,Fairfield Inn Dallas Park Central,21.916666666666668,12
+601262,Belmont Hotel,21.53968253968254,63
+224130,HYATT house Dallas/Uptown,19.6,40
+98641,Hilton Dallas Lincoln Centre,20.75581395348837,86
+98717,The Westin Park Central,18.3,60
+109452,MCM Elegante Hotel and Suites,15.8,35
+109336,Hyatt Place Dallas / Park Central,24.06451612903226,31
+109231,Fairfield Inn Dallas North,18.142857142857142,14
+98655,Hawthorn Suites by Wyndham Dallas Love Field,27.09090909090909,44
+1526976,Aloft Dallas Downtown,26.065573770491802,61
+98650,Crowne Plaza Hotel Dallas Downtown,24.26086956521739,23
+98629,Rosewood Crescent Hotel,18.275,40
+259593,Hotel ZaZa Dallas,21.612903225806452,93
+98679,Hyatt Regency Dallas,18.93846153846154,195
+258626,Le Meridien Dallas by the Galleria,25.39622641509434,53
+109404,Candlewood Suites - Dallas Market Center,19.653846153846153,26
+600113,W Dallas Victory Hotel,19.105960264900663,151
+98726,Rosewood Mansion on Turtle Creek,21.90625,96
+98731,Hilton Anatole,19.652439024390244,164
+98727,Warwick Melrose Hotel Dallas,20.305882352941175,85
+98710,Renaissance Dallas Hotel,20.819277108433734,83
+1113787,"The Joule, Dallas",24.716216216216218,74
+602600,Hotel Palomar Dallas - a Kimpton Hotel,25.092198581560282,141
+114942,Adolphus Hotel,23.004716981132077,212
+111530,Sheraton Dallas Hotel,22.720588235294116,136
+122703,Grand Hyatt DFW,25.38135593220339,118
+223680,Hampton Inn Austin - Airport,21.333333333333332,18
+108977,Homewood Suites by Hilton Austin-Arboretum / NW,26.48,25
+1382102,Courtyard Austin North/Parmer Lane,28.0,6
+109004,Courtyard by Marriott Austin Northwest/Arboretum,23.53846153846154,13
+604457,Residence Inn Austin Downtown / Convention Center,23.53125,32
+98474,The Driskill,19.942028985507246,138
+142074,Hotel San Jose,18.881720430107528,93
+109000,Drury Inn & Suites Austin North,21.542857142857144,35
+108966,La Quinta Inn & Suites Austin Mopac North,17.26923076923077,26
+223620,Staybridge Suites Austin Arboretum,25.695652173913043,46
+108961,Residence Inn Austin South,24.058823529411764,17
+223707,SpringHill Suites Austin South,22.44,25
+108965,La Quinta Inn & Suites Austin Southwest at Mopac,16.875,8
+240526,Country Inn & Suites By Carlson Austin-North,10.272727272727273,22
+108974,Country Garden Inn and Suites,23.0,1
+108994,Hawthorn Suites - Austin South,4.0,4
+111390,Wellesley Inn & Suites Austin Town Lake,7.666666666666667,6
+98462,The Oak Inn,6.5,12
+1221539,Budget Lodge of Austin,11.0,1
+226433,Motel 6 Austin North,18.428571428571427,7
+98472,Best Value Inn Austin South,13.923076923076923,13
+223683,"Hawthorn Suites by Wyndham Austin, Riverside Dr",15.5,10
+243922,Motel 6 Austin South - Airport,16.8,10
+142349,Comfort Suites Downtown South,21.846153846153847,13
+223685,Hearthside Extended Stay Studios and Suites,5.0,1
+291290,Sands Motel of Austin,8.0,1
+226434,Motel 6 Austin Central - North,18.875,8
+217730,Extended Stay America - Austin - Northwest - Research Park,22.22222222222222,9
+109001,Crossland Economy Studios - Austin - West,15.0,7
+108990,Quality Inn & Suites Airport,14.222222222222221,9
+98441,Baymont Inn Austin North / Austin Highland Mall,16.894736842105264,19
+288725,Mountain Star Lodge and Hotel,14.3,20
+223684,Crestwood Suites Austin,10.25,24
+108998,Econo Lodge,7.9,10
+239891,Studio 6 Austin Northwest,11.428571428571429,7
+291283,Budget Inn Capitol,6.0,1
+239890,Studio 6 Austin Midtown,10.0,5
+291287,Heart of Texas Motel,13.333333333333334,6
+284421,InTown Suites Austin,8.75,4
+217731,Extended Stay America - Austin - North Central,7.666666666666667,6
+98405,American Inn,1.0,1
+288743,Bel-Air Motel,9.0,1
+243756,Motel 6 Austin Central - South/Univ of Texas,21.2,5
+109013,Days Inn Austin South,11.333333333333334,6
+108975,Ramada Limited Austin North,15.38888888888889,18
+108991,La Quinta Inn Austin North,17.714285714285715,14
+109008,BEST WESTERN PLUS Austin City Hotel,10.625,16
+98433,Holiday Inn Austin NW Plaza/Arboretum,21.025641025641026,39
+98467,Rodeway Inn University / Downtown,8.142857142857142,14
+142018,Econo Lodge Austin,15.428571428571429,7
+98443,La Quinta Inn Austin Oltorf,14.846153846153847,13
+608007,Super 8 Motel Austin Downtown,12.523809523809524,21
+98415,Red Roof Inn Austin North,13.444444444444445,9
+675150,Travelodge Austin,17.933333333333334,15
+73759,Baymont Inn & Suites Austin South,32.333333333333336,3
+217735,Extended Stay America - Austin - Downtown - Town Lake,14.323529411764707,34
+1635868,Howard Johnson Austin North,10.772727272727273,22
+109007,Comfort Inn,19.4375,16
+109010,Candlewood Suites - Austin Arboretum-Northwest,13.476190476190476,21
+223678,Comfort Suites Austin Airport,17.0,13
+108984,Holiday Inn Express Austin North Central,24.80952380952381,21
+1174687,aloft Austin at the Domain,24.692307692307693,26
+98439,La Quinta Inn Austin Highland Mall,12.266666666666667,15
+108988,Americas Best Value Inn,7.25,4
+225440,Holiday Inn Express Austin Airport,16.789473684210527,19
+217732,Red Roof Inn Austin - South,16.333333333333332,18
+288732,Austin Village Motor Inn,1.0,1
+108964,La Quinta Inn Austin Capitol,16.545454545454547,44
+109002,Courtyard Austin South,19.526315789473685,19
+98416,Days Inn Austin University / Downtown,15.61111111111111,18
+98424,"Howard Johnson Austin, TX",27.166666666666668,12
+223714,Extended Stay America - Austin - Arboretum - North,15.5,12
+108995,Fairfield Inn and Suites Austin - University Area,18.428571428571427,7
+108987,Holiday Inn Express Hotel & Suites Austin North,19.833333333333332,6
+109009,Candlewood Suites - Austin South,20.3,10
+220106,Quality Inn North Austin,18.058139534883722,86
+98413,Days Inn Austin Crossroads,16.73913043478261,23
+108963,Hotel Allandale,13.9,70
+223675,Hyatt Place Austin North Central,23.714285714285715,28
+109006,Comfort Suites NW Lakeline,24.818181818181817,11
+223679,Extended Stay America - Austin - Downtown - 6th St.,20.125,24
+108997,Extended Stay America - Austin - Arboretum,12.714285714285714,7
+98435,Holiday Inn Express & Suites Austin - Sunset Valley,19.125,24
+98438,La Quinta Inn Austin South / IH35,17.4,15
+111377,Austin Motel,17.38888888888889,72
+108976,Homewood Suites by Hilton Austin South / Airport,20.73913043478261,23
+1176838,Hilton Garden Inn Austin North,24.428571428571427,14
+1025910,Staybridge Suites Austin Airport,26.647058823529413,17
+252821,Fairfield Inn & Suites Austin Northwest,19.428571428571427,14
+109015,Super 8 Austin North,18.153846153846153,26
+98420,Embassy Suites Austin - Downtown/Town Lake Austin Texas,17.56,50
+108999,Ramada Austin Central,25.357142857142858,42
+142017,Super 8 Austin/University/Downtown,14.05,20
+108983,DoubleTree by Hilton Austin - University Area,19.845070422535212,71
+98426,Hampton Inn Austin - North (I-35 & Highway 183),20.375,16
+73763,BEST WESTERN Atrium North,15.428571428571429,14
+108972,SpringHill Suites Austin Northwest / Arboretum,17.53846153846154,13
+108979,Hampton Inn Austin/Airport Area South,21.6875,16
+526841,Holiday Inn Austin Midtown,26.90909090909091,11
+98457,Radisson Hotel & Suites Austin Downtown,18.352941176470587,102
+1201024,Staybridge Suites Austin NW,26.82608695652174,23
+1571800,Casulo Hotel,26.642857142857142,28
+1573301,Fairfield Inn and Suites Austin North / Parmer Lane,17.25,4
+111381,Courtyard Austin - University Area,21.545454545454547,33
+604455,Courtyard Austin Downtown/Convention Center,25.0,28
+108969,Habitat Suites Hotel,21.316666666666666,60
+111397,Hilton Garden Inn Austin Downtown/Convention Center,19.33684210526316,95
+98445,Lakeway Resort and Spa,21.271929824561404,114
+98464,Renaissance Austin Hotel,20.307692307692307,78
+108962,Residence Inn Austin Northwest / Arboretum,16.3,20
+108971,Hyatt Place Austin/Arboretum,22.1,30
+108996,Fairfield Inn and Suites Austin South,21.0,13
+98436,Hyatt Regency Austin,20.99337748344371,151
+181851,Barton Creek Resort & Spa,21.31967213114754,122
+223686,Hilton Austin Airport,19.045454545454547,44
+217734,InterContinental Stephen F. Austin,19.425373134328357,134
+566803,Holiday Inn Express & Suites Austin NW,24.428571428571427,7
+252313,SpringHill Suites Austin North / Parmer Lane,20.928571428571427,14
+98452,Sheraton Austin at the Capitol,18.348484848484848,66
+252820,Hilton Garden Inn Austin Northwest / Arboretum,18.352941176470587,17
+1173092,HYATT house Austin/Arboretum,22.61111111111111,36
+566802,Holiday Inn Austin Town Lake,18.033898305084747,59
+223691,Austin Marriott South,21.44,25
+98419,Embassy Suites Hotel Austin Central,18.810344827586206,58
+1224950,Hotel Saint Cecilia,26.846153846153847,13
+259008,Hampton Inn & Suites Austin Downtown,21.967032967032967,91
+223695,Residence Inn Austin North/Parmer Lane,17.444444444444443,9
+98418,Doubletree by Hilton Austin,17.6,55
+282698,Hilton Austin,21.81904761904762,210
+109012,La Quinta Inn & Suites Round Rock South,15.0,6
+111395,Omni Austin at South Park,20.0,77
+108967,La Quinta Inn & Suites Austin Airport,18.529411764705884,17
+570293,Wyndham Garden Austin,23.439393939393938,66
+82013,Mansion at Judges' Hill,16.294117647058822,51
+98463,Crowne Plaza Austin,18.693877551020407,49
+98453,Omni Austin Hotel Downtown,20.170212765957448,188
+615166,Hampton Inn & Suites Austin Cedar Park - Lakeline,23.470588235294116,17
+622833,Courtyard by Marriott Austin Airport,23.789473684210527,19
+108981,Embassy Suites Hotel Austin - Arboretum,20.09375,32
+1189576,AT&T Executive Education and Conference Center,24.725490196078432,51
+111393,Lake Austin Spa Resort,18.37735849056604,53
+108980,Hampton Inn Austin - Arboretum Northwest,26.863636363636363,44
+109413,The Magnolia Hotel Dallas,24.49206349206349,441
+557377,"Super 8 Austin Airport, South",26.46938775510204,98
+1675976,The Westin Austin at The Domain,28.833333333333332,18
+1023853,Super 8 - 183 Airport,27.961038961038962,77
+114938,Four Seasons Hotel Austin,20.873563218390803,87
+627514,Value Place Fort Worth Fossil,10.0,1
+109111,TownePlace Suites Fort Worth Southwest,10.8,5
+109205,Americas Best Value Inn Forth Worth,13.666666666666666,3
+98839,Quality Inn & Suites,22.5,24
+73551,Super 8 Fort Worth/Downtown Area,9.25,8
+224283,Hampton Inn Ft. Worth - Southwest I-20,19.375,8
+277885,Super 8 Meacham / North Fort Worth,21.5,16
+109187,Courtyard by Marriott Fort Worth University Drive,21.083333333333332,12
+109178,Crossland Economy Studios - Fort Worth - Fossil Creek,14.571428571428571,7
+109088,Residence Inn Fort Worth Fossil Creek,11.571428571428571,7
+109119,Extended Stay Deluxe - Fort Worth - Fossil Creek,21.0,3
+109211,Baymont Inn & Suites Fort Worth South,25.0,1
+98846,Motel 6 Ft. Worth South,7.5,2
+98850,Travelodge Midtown,3.6,5
+244412,Motel 6 Ft. Worth North,9.333333333333334,3
+547965,Regency Inn,14.428571428571429,7
+225117,Days Inn South Fort Worth,7.0,8
+73543,American Inn,11.8,5
+98854,Dalworth Inn,15.5,2
+244413,Motel 6 Ft. Worth West,26.0,1
+109214,Knights Inn Fort Worth,18.22222222222222,9
+98836,Days Inn Fort Worth West,15.0,1
+109215,Ambassador Suites,7.947368421052632,19
+109143,Holiday Inn Express Hotel & Suites Fort Worth West,22.285714285714285,7
+98847,Park Central Hotel,13.916666666666666,24
+226486,Motel 6 Ft. Worth East,16.5,2
+273401,Super 8 Fort Worth,10.0,3
+253357,Hotel Texas,9.714285714285714,21
+223888,Courtyard by Marriott Fort Worth Downtown/Blackstone,17.782608695652176,46
+224284,Quality Inn Fort Worth,22.0,4
+109138,Radisson Hotel Ft Worth - Fossil Creek,23.0,13
+294848,Courtyard by Marriott Fort Worth West/Lands End,18.2,5
+73560,BEST WESTERN Inn Fort Worth,9.666666666666666,3
+109201,Courtyard by Marriott Fort Worth Fossil Creek,5.333333333333333,3
+109116,Extended Stay Deluxe - Fort Worth - City View,12.625,8
+122709,American Airlines Training and Conference Center,12.75,8
+109175,Extended Stay America - Fort Worth - City View,12.2,5
+570264,Holiday Inn Express Suites Lake Worth NW Loop 820,26.25,4
+109093,Residence Inn Fort Worth University Drive/River Plaza,17.666666666666668,15
+225119,Microtel Inn & Suites by Wyndham Fort Worth South,20.375,8
+109100,La Quinta Inn & Suites Fort Worth Southwest,13.166666666666666,6
+124453,Comfort Suites North,18.6,5
+1101250,Hampton Inn & Suites Ft. Worth Burleson,5.0,1
+73572,Hotel Trinity InnSuites Fort Worth / DFW,14.307692307692308,26
+320560,Springhill Suites Fort Worth University,20.7,10
+241640,Super 8 Fort Worth North,19.8,5
+676564,Hampton Inn & Suites Fort Worth-West/I-30,22.666666666666668,9
+672597,Holiday Inn Express Fort Worth I-35 Western Center,22.181818181818183,11
+1027019,Holiday Inn Fort Worth North-Fossil Creek,24.714285714285715,7
+109156,Hilton Garden Inn Fort Worth North,21.84,25
+109174,Fairfield Inn Fort Worth Fossil Creek,22.529411764705884,17
+225116,Country Inn & Suites Fort Worth,17.23076923076923,13
+109104,Hyatt Place Fort Worth Cityview,22.45,40
+109130,Sheraton Fort Worth Hotel and Spa,20.405405405405407,37
+268223,Microtel Inn & Suites by Wyndham Ft. Worth North/At Fossil Creek,12.529411764705882,17
+223889,DFW Airport Marriott South,24.75,20
+224286,Homewood Suites by Hilton Ft. Worth-North at Fossil Creek,21.076923076923077,13
+543350,Residence Inn Fort Worth Cultural District,26.375,24
+223890,Residence Inn Fort Worth Alliance/Airport,21.181818181818183,11
+225120,Marriott Hotel & Golf Club at Champions Circle,15.97872340425532,47
+1515540,Comfort Suites Fort Worth,4.0,1
+98856,Renaissance Worthington Hotel Fort Worth,19.07777777777778,90
+1382903,Courtyard Fort Worth West at Cityview,32.0,3
+224285,Hampton Inn and Suites North Fort Worth - Alliance Airport,24.333333333333332,9
+109101,La Quinta Inn & Suites Fort Worth North,17.2,10
+676704,Candlewood Suites DFW South,25.266666666666666,15
+109228,Candlewood Suites - Fort Worth/Fossil Creek,17.22222222222222,9
+109173,Fairfield Inn & Suites Fort Worth University Drive,15.416666666666666,12
+109150,Holiday Inn Express Hotel & Suites Fort Worth (I-20),27.055555555555557,18
+1137002,Hampton Inn & Suites Fort Worth Fossil Creek,26.5,4
+1526953,"La Quinta Inn & Suites Ft. Worth - Forest Hill, TX",23.25,4
+647565,Embassy Suites Fort Worth Downtown,26.4,50
+114952,Stockyards Hotel,19.27027027027027,37
+189078,The Ashton Hotel,20.71153846153846,52
+98849,Hilton Fort Worth,18.226190476190474,84
+483873,Holiday Inn Express Hotel & Suites Fort Worth Downtown,26.09090909090909,11
+1465151,Staybridge Suites West Fort Worth,33.625,8
+1027025,Holiday Inn Dallas DFW Airport - South,29.11627906976744,86
+1514287,SpringHill Suites El Paso,29.428571428571427,7
+281755,Residence Inn El Paso,23.41176470588235,17
+108955,Days Inn El Paso,10.25,4
+777199,Omni Fort Worth Hotel,26.28125,64
+98827,Holiday Inn Express El Paso - Central,23.20689655172414,29
+675767,Homewood Suites El Paso Airport,14.6,5
+240001,Courtyard by Marriott El Paso Airport,24.875,16
+620239,Hilton Garden Inn El Paso,22.977272727272727,44
+108948,Quality Inn & Suites El Paso,20.083333333333332,24
+501984,Ramada Suites El Paso,20.5,14
+225031,Hyatt Place El Paso Airport,19.177777777777777,45
+98819,El Paso Marriott,21.07894736842105,38
+108945,Hampton Inn El Paso-Airport,24.128205128205128,39
+225039,La Quinta Inn & Suites El Paso East,19.11111111111111,9
+249793,BEST WESTERN Fort Worth Inn & Suites,27.53191489361702,47
+73595,Super 8 El paso Airport,16.0,14
+108946,Studio Plus Deluxe Studios - El Paso - West,10.75,4
+108958,Econo Lodge Inn & Suites,19.0,8
+108953,Extended Stay America - El Paso - Airport,13.5,6
+98809,Americas Best Value Inn,16.75,4
+1631049,Artisan Hotel El Paso,9.75,8
+244399,Motel 6 El Paso Central,5.666666666666667,3
+1235675,Doubletree Hotel El Paso Downtown/City Center,25.736842105263158,19
+98817,La Quinta Inn El Paso - Airport,17.923076923076923,13
+108959,Comfort Inn Airport East,17.235294117647058,17
+919225,Coral Motel,22.571428571428573,7
+98824,Ramada El Paso,3.0,1
+225036,InTown Suites El Paso,7.0,1
+98800,Cliff Inn,8.727272727272727,11
+98814,Howard Johnson Inn - El Paso,2.0,2
+240000,Motel 6 El Paso East,13.0,2
+73589,BEST WESTERN Sunland Park Inn,5.0,4
+108957,Comfort Suites,22.0,13
+225040,Motel 6 El Paso West,15.857142857142858,7
+225037,Studio 6 El Paso East,7.5,4
+98820,Mesa Inn,11.8,5
+490892,Microtel Inn & Suites by Wyndham El Paso West,20.5,8
+98804,Motel 6 El Paso-Airport-Fort Bliss,19.333333333333332,6
+108944,Chase Suite Hotel El Paso,19.566666666666666,30
+1175958,Sleep Inn El Paso,33.5,2
+288559,The Gardner Hotel & El Paso Hostel,14.833333333333334,6
+277881,Microtel Inn & Suites by Wyndham El Paso East,16.875,8
+108956,El Paso West Travelodge,14.666666666666666,3
+240621,Americas Best Value Inn - El Paso / Medical Center,16.0,1
+141894,Days Inn El Paso East,16.0,6
+635070,Holiday Inn Express Hotel & Suites I-10 East,20.88235294117647,17
+225038,La Quinta Inn & Suites El Paso Bartlett,12.3,10
+225032,Travelodge La Hacienda Airport,12.352941176470589,17
+98818,La Quinta Inn El Paso West,17.642857142857142,14
+98815,La Quinta Inn El Paso Lomaland,20.083333333333332,12
+98802,La Quinta Inn El Paso Cielo Vista,15.0,5
+225035,Red Roof Inn - El Paso West,10.727272727272727,11
+98825,Quality Inn Airport,24.166666666666668,6
+98805,Wyndham El Paso Airport,24.475409836065573,61
+98812,Holiday Inn El Paso-Airport I-10,19.75,16
+108947,Sleep Inn University,20.916666666666668,12
+652847,Wingate by Wyndham El Paso,24.416666666666668,12
+1485688,Hampton Inn & Suites El Paso West,18.5,4
+1479831,Fairfield Inn & Suites El Paso,31.5,4
+98821,Radisson Hotel El Paso Airport,20.896551724137932,29
+850464,GuestHouse International Suites El Paso,26.5,2
+225033,Microtel Inn & Suites by Wyndham El Paso Airport,24.916666666666668,12
+225041,Hawthorn Suites by Wyndham - El Paso,12.551724137931034,29
+225034,Red Roof Inn - El Paso East,25.25,4
+98810,Holiday Inn El Paso-Sunland & I-10 W.,23.325581395348838,43
+98798,Camino Real El Paso,15.44,75

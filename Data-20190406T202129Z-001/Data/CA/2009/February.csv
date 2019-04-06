@@ -1,0 +1,657 @@
+Hotel ID,Hotel Name,Total Rating,Overall Customers
+76049,Four Seasons Hotel Los Angeles at Beverly Hills,16.517241379310345,58
+82682,Courtyard by Marriott Los Angeles Woodland Hills,21.61111111111111,18
+76790,BEST WESTERN PLUS Eagle Rock Inn,21.25,8
+83988,Sea Rock Inn,16.666666666666668,6
+504815,Rodeway Inn Hollywood,12.1,20
+272668,Comfort Inn - Los Angeles / West Sunset Blvd.,18.907692307692308,65
+223054,Super 8 Motel Los Angeles Downtown,12.333333333333334,9
+577590,Vibe Hotel,16.405405405405407,37
+84513,Quality Inn & Suites by Convention Center,11.764705882352942,17
+611195,East West Suites,15.5,2
+549431,Americas Best Value Inn - Hollywood / Los Angeles,16.952380952380953,21
+113229,Highland Gardens Hotel,12.788732394366198,71
+576828,Valley Inn & Conference Center,13.026315789473685,38
+313508,Motel 6 Canoga Park,13.5,4
+256799,Colony Inn North Hollywood,12.333333333333334,6
+240156,Motel 6 Los Angeles - Van Nuys/Sepulveda,10.666666666666666,3
+939204,JJ Grand Hotel,15.0,2
+223050,Rotex Hotel And Condo,1.0,1
+84499,Hollywood Stars Inn,14.7,10
+235456,Good Nite Inn Sylmar,13.142857142857142,42
+282463,Americas Best Value Inn,11.0,1
+84320,Hotel Solaire Los Angeles,11.15625,32
+223044,Vagabond Inn Executive,9.606060606060606,33
+570050,Sunset Inn & Suites,13.0,15
+119492,Beverly Inn,10.833333333333334,12
+81120,BEST WESTERN Los Angeles Worldport Hotel,12.3,10
+559383,Hollywood Inn Express North,7.695652173913044,23
+84442,Travelodge Chatsworth,7.0,4
+535826,Paradise Lodge Hotel,12.0,1
+82305,Goldstar Inn,14.5,2
+82496,The Voyager Motor Inn,5.833333333333333,6
+119399,Hollywood Cityview Inn & Suites,15.333333333333334,3
+575416,Marina Seven Motel,10.8,5
+77761,Americas Best Value Inn & Suites-Los Angeles Downtown/S.W.,10.0,3
+613619,Paradise Inn & Suites,9.5,4
+217256,El Patio Inn,8.75,4
+1186068,Budget Inn Hollywood,10.0,2
+266004,Pacific Inn and Suites,14.333333333333334,6
+76446,Century Wilshire,7.0,23
+82498,Motel 6 Van Nuys,6.2,5
+549441,Hollywood Inn Express South,11.166666666666666,36
+271581,St. George Motor Inn,21.0,3
+78679,BEST WESTERN PLUS Mikado Hotel,7.5,4
+281769,Hollywood Studio Inn & Suites,11.5,4
+81285,Sunrise Hotel San Pedro,11.96875,32
+217240,Nite Inn at Universal City,6.375,8
+271479,Hometown Inn,13.8,5
+817023,777 Motor Inn,14.666666666666666,3
+271607,Monterey Inn,5.0,2
+235134,Super 8 Hollywood,9.666666666666666,33
+1225375,Ramada Los Angeles Convention Center,21.555555555555557,18
+271601,Del Mar Hotel,3.0,1
+291209,Los Feliz Motel,7.0,1
+271606,Islander Motel,4.0,2
+119390,Stars Inn,16.875,8
+271481,Travel Inn,19.0,1
+248069,Bevonshire Lodge Motel,12.68,25
+84365,Rodeway Inn Culver City,19.0,13
+77717,Dunes Inn - Wilshire,14.25,4
+77809,Kawada Hotel,11.529411764705882,51
+634746,Travelodge Sylmar/Magic Mountain Area,10.2,10
+77262,Hollywood Premiere Motel,1.0,1
+119434,The Claremont Hotel,12.23076923076923,13
+82304,Motel 6 Los Angeles Sylmar,15.25,4
+77260,Rodeway Inn,13.88888888888889,27
+77859,Stillwell Hotel,7.357142857142857,14
+84529,Rodeway Inn Los Angeles,10.090909090909092,22
+235430,BLVD Hotel & Suites,9.53125,64
+613137,Royal Pagoda Motel,17.35,20
+225809,Best Inn Hollywood,15.333333333333334,18
+84480,Ramada Wilshire Center,13.578947368421053,38
+77729,BEST WESTERN PLUS Dragon Gate Inn,13.452830188679245,53
+226148,Studio 6 Van Nuys,11.333333333333334,6
+84483,Oxford Palace Hotel,18.25,4
+119422,Liberty Hotel,17.0,16
+553344,Americas Best Value Inn - Los Angeles / Hollywood,17.375,8
+84434,Radisson Hotel Chatsworth,17.533333333333335,30
+276208,Cecil Hotel,10.196078431372548,51
+119414,L.A. Sky Boutique Hotel,15.92,25
+275366,Super 8 North Hollywood,14.545454545454545,11
+77753,The Historic Mayfair Hotel,10.901408450704226,71
+249692,Ritz Milner Hotel,14.024390243902438,41
+84515,Quality Inn Hollywood,15.138461538461538,65
+77844,Radisson Midtown at USC,11.5,22
+119464,La Mirage Inn,14.0,7
+1007413,Knights Inn Woodland Hills,16.0,1
+553345,Americas Best Value Inn & Suites Granada Hills,6.0,1
+239812,The Dixie Hollywood,12.64,50
+84517,Holiday Inn Express Century City,14.105263157894736,19
+235133,Super 8 Los Angeles / Alhambra,17.0,10
+77852,The Wilshire Hotel Los Angeles,13.24,75
+268977,Hollywood Downtowner Inn,14.445945945945946,74
+82684,Comfort Inn Near Warner Center,8.125,8
+632541,Comfort Inn and Suites near Universal Studios,21.53846153846154,13
+82633,Azul Inn,8.8125,16
+84553,Comfort Inn Near Universal Studios Hollywood,14.131578947368421,38
+76460,Staybridge Suites Chatsworth,8.666666666666666,9
+82494,Holiday Inn Express Van Nuys,18.0625,16
+119454,Saharan Motor Hotel,17.483870967741936,31
+240151,Motel 6 Los Angeles - Hollywood,16.142857142857142,49
+77829,Metro Plaza Hotel,15.947368421052632,57
+84286,Holiday Inn Express - Los Angeles Downtown West,13.0,6
+223051,Super 8 Los Angeles Airport/LAX,12.96875,32
+84437,Ramada Limited Canoga Park/Warner Center,15.066666666666666,15
+77870,Vagabond Inn Los Angeles-USC,15.55,20
+223049,Radisson Hotel at Los Angeles Airport,14.440677966101696,236
+113221,The LA Hotel Downtown,17.883116883116884,77
+82689,Warner Center Marriott Woodland Hills,13.692307692307692,26
+77247,BEST WESTERN Hollywood Plaza Inn,13.96103896103896,77
+81761,DoubleTree by Hilton Hotel San Pedro,20.0,29
+77282,Travelodge Hollywood-Vermont/Sunset,17.70212765957447,47
+502971,Hollywood City Inn,15.44578313253012,83
+78688,Sportsmen's Lodge Hotel,15.591549295774648,71
+76325,BEST WESTERN Canoga Park Motor Inn,19.5,8
+223042,Rodeway Inn Convention Center,18.238095238095237,21
+84428,Studio City Court Yard Hotel,12.73913043478261,23
+77923,Holiday Inn Los Angeles International Airport,13.686868686868687,99
+82578,Beverly Laurel Motor Hotel,13.169811320754716,53
+77798,Sheraton Los Angeles Downtown Hotel,17.253521126760564,71
+77277,Comfort Inn Near Hollywood Walk of Fame,20.958333333333332,24
+650376,O Hotel,18.333333333333332,24
+81768,Vagabond Inn San Pedro,18.11111111111111,63
+119388,Cadillac Hotel,12.403846153846153,104
+77714,DoubleTree by Hilton Hotel Los Angeles Downtown,18.484848484848484,66
+84555,BEST WESTERN PLUS Carlyle Inn,14.81081081081081,37
+240875,Clarion Inn,16.054545454545455,55
+82491,Airtel Plaza Hotel and Conference Center,15.285714285714286,49
+77866,Millennium Biltmore Hotel Los Angeles,15.141818181818183,275
+77237,Hollywood Hotel,12.253275109170305,229
+76793,Comfort Inn Near Old Town Pasadena - Eagle Rock,15.333333333333334,6
+119483,Courtyard Los Angeles Century City / Beverly Hills,16.21875,32
+77888,Hilton Checkers Hotel - Los Angeles,14.8125,80
+77708,BEST WESTERN PLUS Royal Palace Inn & Suites,12.476190476190476,42
+630945,Park Plaza Lodge Hotel,15.642857142857142,14
+223046,Miyako Hotel Los Angeles,13.153846153846153,91
+82148,BEST WESTERN PLUS Carriage Inn,13.275862068965518,29
+249696,The Standard Downtown LA,12.06081081081081,148
+77970,Travelodge Hotel at LAX,12.808988764044944,178
+82656,Hilgard House Hotel,17.63157894736842,19
+82679,BEST WESTERN Woodland Hills Inn,17.736842105263158,19
+77232,Dunes Inn - Sunset,12.75,4
+223013,Beverly Hills Plaza Hotel,12.820512820512821,39
+82636,Royal Palace Westwood,16.47826086956522,23
+272703,Hollywood Hills Hotel,19.534246575342465,73
+82318,Tarzana Inn,17.22222222222222,9
+133994,Coral Sands Motel,12.6,15
+124956,Figueroa Hotel,11.08411214953271,107
+81765,Crowne Plaza Los Angeles Harbor Hotel,16.971014492753625,69
+119382,Inn at Venice Beach,16.302325581395348,129
+77256,Days Inn Hollywood/Universal Studios,13.744186046511627,43
+84182,La Quinta Inn & Suites LAX,16.428571428571427,133
+84253,Crowne Plaza Los Angeles International Airport Hotel,15.961538461538462,130
+77931,Holiday Inn Express Los Angeles-LAX Airport,21.5,12
+248239,Super 8 Los Angeles / Culver City Area,20.6,5
+673130,Hampton Inn & Suites Los Angeles/Sherman Oaks,20.25,8
+76061,Crowne Plaza Beverly Hills,14.888198757763975,161
+82150,Courtyard Los Angeles Sherman Oaks,20.818181818181817,44
+76458,Ramada Chatsworth,15.5,8
+82650,Holiday Inn Express West Los Angeles,19.264705882352942,34
+82501,Venice Beach Suites & Hotel,17.41269841269841,63
+84505,Hollywood Celebrity Hotel,20.313333333333333,300
+84453,Residence Inn by Marriott Beverly Hills,19.443037974683545,79
+77274,Hollywood Roosevelt Hotel - A Thompson Hotel,14.67741935483871,341
+77787,Luxe City Center Hotel,17.390243902439025,41
+77874,The Westin Bonaventure Hotel & Suites,16.194444444444443,360
+77243,BEST WESTERN PLUS Hollywood Hills Hotel,14.794392523364486,107
+77917,Embassy Suites LAX North,16.584269662921347,89
+77944,Renaissance Los Angeles Airport Hotel,20.435643564356436,202
+208191,Four Points by Sheraton Los Angeles International Airport,12.98159509202454,163
+621153,Villa Delle Stelle,25.20689655172414,29
+76442,Hyatt Regency Century Plaza,17.99014778325123,203
+84167,Hilton Los Angeles Airport,17.658333333333335,240
+78037,Los Angeles Airport Marriott,19.243093922651934,181
+507339,Venice On The Beach Hotel,20.50943396226415,53
+119443,The Westin Los Angeles Airport,15.115241635687733,269
+638765,InterContinental Los Angeles Century City,22.770114942528735,87
+119479,Farmer's Daughter Hotel,15.467391304347826,184
+82686,Hilton Woodland Hills,13.210526315789474,38
+84522,Hotel Angeleno,21.654676258992804,139
+84440,Howard Johnson Inn & Suites - Reseda,20.75,32
+77700,W Los Angeles - Westwood,14.133858267716535,127
+119421,The Los Angeles Athletic Club,13.714285714285714,7
+274223,Wilshire Crest Hotel,9.75,8
+84561,Orlando Hotel,14.197530864197532,81
+77827,Luxe Sunset Boulevard Hotel,14.507246376811594,69
+224168,Loews Hollywood Hotel,4.0,2
+595476,Courtyard Los Angeles LAX/Century Boulevard,17.784313725490197,51
+84463,SLS Hotel at Beverly Hills,20.88888888888889,9
+81170,"Hotel Erwin, a Joie de Vivre hotel",20.666666666666668,6
+111751,Hotel Bel-Air,20.941176470588236,68
+249693,The Brentwood Inn,18.375,48
+78694,Hilton Los Angeles / Universal City,19.711026615969583,263
+78682,Beverly Garland's Holiday Inn,16.827814569536425,151
+78046,Sheraton Gateway Los Angeles,18.454935622317596,233
+77157,Rodeway Inn & Suites Pacific Coast Highway,5.0,1
+77270,Hollywood Orchid Suites,20.055555555555557,234
+77775,Hotel Palomar Los Angeles - Westwood - a Kimpton Hotel,25.201923076923077,104
+223041,Elan Hotel Los Angeles,19.583333333333332,192
+76083,Sofitel Los Angeles,17.958115183246072,191
+1049387,Holiday Inn Express Hotel & Suites Hollywood Walk of Fame,24.17142857142857,35
+77804,Omni Los Angeles at California Plaza,19.93984962406015,266
+84502,Magic Castle Hotel,19.66590909090909,440
+268158,SpringHill Suites San Diego Rancho Bernardo/Scripps Poway,17.7,20
+82868,Courtyard by Marriott San Diego Downtown,19.78688524590164,61
+112279,Sommerset Suites Hotel,16.566265060240966,83
+268157,Residence Inn San Diego Mission Valley,16.82300884955752,113
+658421,The Pearl Hotel,19.970588235294116,34
+80251,Ocean Park Inn,13.436974789915967,119
+83637,Holiday Inn Express Sea World,18.323943661971832,71
+80588,Vagabond Inn - San Diego Airport Marina,13.571428571428571,21
+80154,Holiday Inn San Diego - Mission Valley,14.243243243243244,37
+218939,Courtyard by Marriott Rancho Bernardo,22.466666666666665,15
+235416,Staybridge Suites San Diego - Sorrento Mesa,18.717391304347824,46
+225848,WorldMark San Diego - Mission Valley,19.0,1
+80570,San Diego Days Inn (Hollister),14.0,6
+78152,La Quinta Inn San Diego Scripps Poway,16.181818181818183,11
+119780,Beach Haven Inn,11.114285714285714,35
+224497,Holiday Inn Express Mira Mesa,13.6,10
+80033,San Diego - Days Inn Harbor View / Airport / Convention Ctr,12.307692307692308,13
+80360,Days Inn San Diego Downtown/Convention Center,13.692307692307692,13
+258654,Ocean Beach Cottages,3.2,15
+586465,Churchill Hotel San Diego,9.0,1
+119776,The Beach Place,13.5,4
+226607,La Petite Rouge Motel,9.0,1
+313514,Seaside Inn San Diego,11.2,5
+119734,Good Nite Inn Mission Valley,6.0588235294117645,17
+226602,E-Z 8 Motel Old Town,14.5,10
+217273,DoubleTree by Hilton Golf Resort San Diego,18.310344827586206,29
+119726,Super 8 San Diego/South Bay,9.777777777777779,9
+115612,Mission Bay Motel,11.857142857142858,7
+80615,Motel 6 - San Diego Airport/Harbor,12.176470588235293,17
+226611,Motel 6 San Diego Downtown,14.153846153846153,26
+635040,Travelodge,14.5,2
+119765,Friendship Hotel,15.0,3
+80249,Motel 6 San Diego North,2.0,1
+79913,BEST WESTERN PLUS Hacienda Hotel Old Town,14.828282828282829,99
+119762,Harborview Inn and Suites,8.069767441860465,43
+1201989,San Diego Downtown Lodge,7.0,5
+83092,Quality Inn San Diego,14.636363636363637,11
+80131,Crowne Plaza Hotel San Diego - Mission Valley,15.871212121212121,132
+80280,Days Inn Mission Valley,11.0,43
+123716,Howard Johnson Inn - San Diego,6.8,15
+224489,Prime Inn San Diego,24.0,1
+80192,Howard Johnson Express Inn - San Diego,4.909090909090909,11
+80126,Golden West,6.666666666666667,6
+1104554,Mission Bay RV Resort,2.0,1
+83372,Bay Inn and Suites,12.545454545454545,11
+590139,Hotel Occidental,21.01923076923077,52
+80019,BEST WESTERN Mission Bay Inn,11.694444444444445,36
+119748,Premier Inns Mission Valley,8.5,4
+80350,Ramada Plaza,13.46938775510204,49
+80276,Quality Inn Airport SeaWorld Area,9.933333333333334,30
+80246,Motel 6 San Diego Hotel Circle,11.32,25
+112280,Surfer Beach Hotel,13.377358490566039,106
+226601,Heritage Inn - Sea World San Diego,19.285714285714285,7
+83489,Super 8 Motel San Diego / Sea World,10.083333333333334,12
+79921,BEST WESTERN PLUS San Diego / Miramar Hotel,18.0,1
+79896,Beachcomber Shores,16.333333333333332,9
+80244,Mission Valley Resort,12.6875,64
+82436,Travelodge San Diego Downtown Convention Center,10.958333333333334,24
+80094,BEST WESTERN Golden Triangle Inn,14.571428571428571,14
+79880,California Suites Hotel,13.39344262295082,61
+254300,J Street Inn,10.272727272727273,11
+80014,Days Inn & Suites - Sea World/Airport,12.275,80
+80004,Comfort Suites Mission Valley,12.471698113207546,53
+79977,Comfort Inn & Suites Hotel Circle / SeaWorld,13.238095238095237,63
+83958,Residence Inn San Diego Sorrento Mesa/Sorrento Valley,20.36842105263158,19
+80096,Diamond Head Inn,13.945945945945946,37
+266323,Comfort Inn At The Harbor,13.875,16
+82443,Kona Kai Resort,11.951807228915662,83
+119735,Good Nite Inn Sea World,9.98360655737705,61
+1109434,Cabrillo Inn & Suites Airport,10.0,3
+80530,Four Points by Sheraton San Diego,15.947368421052632,57
+585279,Island Inn,20.666666666666668,3
+80189,Travelodge San Diego Mission Valley,12.9,20
+82688,Ramada Mission Valley / SDSU,13.05,20
+295745,WorldMark San Diego,8.222222222222221,9
+280605,BEST WESTERN Plus Cabrillo Garden Inn,15.30188679245283,53
+272663,Ocean Villa Inn,16.208333333333332,96
+83322,Quality Suites Otay Mesa,19.615384615384617,13
+119746,Point Loma Inn,11.32,25
+226612,Rodeway Inn Mission Valley,15.375,8
+119733,Hampton Inn San Diego/Del Mar,12.0,23
+623586,The Keating Hotel by Pininfarina,18.666666666666668,36
+80011,Courtyard by Marriott San Diego Sorrento Mesa/La Jolla,16.583333333333332,12
+83895,Comfort Suites I-15 Miramar,14.636363636363637,22
+119753,Americas Best Value Inn Loma Lodge,18.4,10
+650054,Porto Vista Hotel,15.7625,80
+80161,Holiday Inn Express San Diego N - Rancho Bernardo,14.619047619047619,21
+119716,La Pensione,15.196428571428571,112
+80311,Sheraton Mission Valley San Diego Hotel,16.487179487179485,78
+240889,DoubleTree by Hilton Hotel San Diego - Hotel Circle,12.04,75
+665258,Hard Rock Hotel San Diego,20.473684210526315,95
+79985,Holiday Inn Express San Diego Airport - Old Town,15.98,50
+83500,Pacific Shores Inn,16.97979797979798,99
+83259,Ramada Inn and Conference Center Qualcomm Stadium,13.435897435897436,39
+79942,BEST WESTERN Seven Seas,15.22549019607843,102
+80106,Pacific Inn Hotel & Suites,11.527272727272727,55
+80291,Doubletree Hotel San Diego Downtown,17.896551724137932,29
+223025,Ramada Inn & Suites Gaslamp/Convention Center,11.533333333333333,75
+81797,BEST WESTERN Americana Inn,19.5,4
+83711,HYATT house San Diego/Sorrento Mesa,15.179487179487179,39
+224353,Hampton Inn San Diego - Downtown,16.5,112
+119742,Western Inn & Suites,15.863636363636363,22
+80232,San Diego Marriott Mission Valley,18.227272727272727,44
+223776,San Diego Marriott Del Mar,18.93220338983051,59
+76741,Hilton San Diego Mission Valley,16.53409090909091,88
+223026,Hilton San Diego Gaslamp Quarter,16.69158878504673,214
+80618,Lafayette Hotel,13.25,88
+80223,Kings Inn Hotel,15.215686274509803,102
+79930,BEST WESTERN Yacht Harbor Hotel,15.25,16
+80593,Marina Inn and Suites,10.35897435897436,39
+119710,Comfort Inn Gaslamp / Convention Center,14.017241379310345,58
+82478,Ramada San Diego Airport,11.4,20
+501297,Howard Johnson Inn - San Diego Sea World / Airport,16.622222222222224,45
+80643,Hilton San Diego Airport/Harbor Island,15.651515151515152,66
+80167,Holiday Inn San Diego - On The Bay,14.763313609467456,169
+80423,Sheraton Suites San Diego,16.787037037037038,108
+80266,Inn at the Park,15.872340425531915,94
+285427,La Quinta Inn San Diego Mission Valley,17.964285714285715,56
+631235,Holiday Inn Express Hotel & Suites San Diego Otay Mesa,10.25,4
+119729,Americas Best Value Padre Trail Inn,6.642857142857143,14
+80582,The Horton Grand Hotel and Suites,12.028985507246377,69
+194176,Courtyard by Marriott San Diego Mission Valley/Hotel Circle,24.25,4
+80327,Radisson Hotel San Diego-Rancho Bernardo,17.62162162162162,37
+119721,Hilton San Diego Resort & Spa,15.080808080808081,198
+218777,Holiday Inn San Diego-Bayside,15.061538461538461,65
+556822,Days Hotel - Hotel Circle by SeaWorld,15.605095541401274,157
+80198,Hyatt Regency La Jolla,15.788617886178862,123
+82821,Residence Inn San Diego Downtown,16.4,25
+212059,Holiday Inn San Diego North Miramar,18.5,18
+518294,Hilton Garden Inn San Diego/Rancho Bernardo,21.0,37
+79873,Holiday Inn Express San Diego Downtown,20.61111111111111,36
+119768,Doubletree Hotel San Diego/Del Mar,19.09090909090909,77
+80733,Vagabond Inn San Diego (Hotel Circle),14.03225806451613,62
+218770,Rancho Bernardo Inn,17.073170731707318,123
+80133,Handlery Hotel San Diego,13.813432835820896,134
+79868,Bay Club Hotel & Marina,20.830188679245282,106
+79902,BEST WESTERN PLUS Bayside Inn,15.6,75
+80255,Old Town Inn,19.51963746223565,331
+80654,La Quinta Inn San Diego Old Town / Airport,17.81081081081081,37
+79981,Comfort Inn & Suites Zoo / SeaWorld Area,12.978947368421053,95
+287392,Omni San Diego Hotel,20.645569620253166,316
+482154,Hotel Solamar - a Kimpton Hotel,20.90990990990991,222
+79954,BEST WESTERN PLUS Island Palms Hotel & Marina,18.953020134228186,149
+79971,Catamaran Resort Hotel,14.203252032520325,246
+628619,The Sofia Hotel,21.369565217391305,138
+80193,Hyatt Regency Mission Bay,15.053030303030303,264
+601802,Wyndham Harbour Lights,21.142857142857142,7
+223220,Holiday Inn Express San Diego-Sorrento Valley,20.5,16
+83361,Bahia Resort Hotel,14.093984962406015,266
+112247,Balboa Park Inn,20.874172185430464,151
+112258,Gaslamp Plaza Suites,13.535211267605634,71
+80668,The US Grant,23.50862068965517,116
+258655,W San Diego,14.681592039800995,201
+112281,The Beach Cottages,14.487804878048781,41
+115598,DoubleTree by Hilton Hotel San Diego - Mission Valley,19.717741935483872,124
+83078,Residence Inn San Diego Central,21.955555555555556,45
+80590,The Westgate Hotel,19.80263157894737,76
+80109,Embassy Suites San Diego Bay - Downtown,16.5,120
+80219,Manchester Grand Hyatt San Diego,16.608695652173914,345
+80602,Town and Country Resort Hotel,12.707920792079207,202
+223973,Courtyard San Diego Central,17.692307692307693,26
+119730,Humphreys Half Moon Inn & Suites,15.218181818181819,275
+244513,Staybridge Suites San Diego Rancho Bernardo Area,16.692307692307693,26
+226619,Ocean Beach Hotel,16.156626506024097,83
+78135,Residence Inn San Diego Rancho Bernardo / Carmel Mountain Ranch,17.833333333333332,18
+80562,The Sheraton San Diego Hotel & Marina,14.333333333333334,291
+80129,Hampton Inn San Diego - Kearny Mesa,20.26923076923077,26
+115613,The Inn at Sunset Cliffs,19.527272727272727,55
+218780,"Westin Gaslamp Quarter, San Diego",5.0,1
+80113,Embassy Suites San Diego - La Jolla,20.145833333333332,96
+81352,BEST WESTERN Lamplighter Inn & Suites at SDSU,23.195488721804512,133
+119728,Paradise Point Resort & Spa,12.347533632286995,446
+79907,BEST WESTERN PLUS Blue Sea Lodge,16.55263157894737,76
+83245,Bristol Hotel,16.026315789473685,114
+119732,Hampton Inn San Diego Airport / SeaWorld,18.77777777777778,54
+83646,The Dana on Mission Bay,16.275641025641026,312
+1011240,Hilton San Diego Bayfront,20.36,25
+80227,San Diego Marriott Marquis & Marina,17.857707509881422,253
+574448,Britt Scripps Inn,24.0,11
+571835,Tower23 Hotel,21.204545454545453,88
+112253,Crystal Pier Hotel & Cottages,14.306451612903226,62
+80735,"Country Inn & Suites By Carlson, San Diego North",18.851063829787233,47
+113905,Westin San Diego,19.057971014492754,69
+678597,Hilton Garden Inn San Diego Del Mar,21.333333333333332,3
+268155,Residence Inn San Diego Scripps Poway Parkway,25.5,4
+543517,Homewood Suites by Hilton San Diego/Del Mar,23.51851851851852,81
+498304,San Diego Marriott Gaslamp Quarter,20.641025641025642,117
+119769,Dolphin Motel,22.0,101
+1027494,Courtyard by Marriott San Diego Airport/Liberty Station,26.944444444444443,18
+656430,Homewood Suites San Diego Airport - Liberty Station,25.742424242424242,66
+112273,Pacific Terrace Hotel,20.486646884272997,337
+781627,The Grand Del Mar,26.75,40
+123562,Dolce Hayes Mansion,18.774193548387096,31
+276205,The Comfort Inn San Jose International Airport,17.923076923076923,13
+582475,Horizon Inn,4.5,2
+81662,Executive Inn San Jose,6.428571428571429,7
+81691,Motel 6 San Jose South,9.5,2
+81653,Fontaine Inn Downtown / Fairgrounds,11.333333333333334,3
+1017214,Townhouse Motel,10.0,1
+81688,Motel 6 San Jose Airport,19.5,2
+1022963,Americas Best Value Inn,8.0,5
+81700,Santa Clara Inn,16.0,2
+81708,Vagabond Inn San Jose (SJC Airport),8.11111111111111,9
+81703,Staybridge Suites San Jose,20.736842105263158,19
+81659,Hotel Elan,13.11111111111111,9
+267662,Studios Inn,5.0,2
+1086739,Homestead Studio Suites,19.0,4
+81710,Motel 6 San Jose Convention Center,26.333333333333332,3
+81292,Motel 6 San Jose Airport Central,17.4,5
+81647,Days Inn San Jose Convention Center / Fairgrounds,8.5,4
+239815,BEST WESTERN PLUS Lanai Garden Inn and Suites,17.8,10
+119606,Valley Inn,12.666666666666666,3
+82283,Holiday Inn San Jose-Silicon Valley,16.4,10
+82208,Clarion Inn Silicon Valley,10.666666666666666,9
+81625,Ramada San Jose,13.85,20
+82321,Holiday Inn Express San Jose International Arpt,18.533333333333335,15
+225261,Super 8 Motel - San Jose Airport/Santa Clara Area,11.428571428571429,7
+223968,TownePlace Suites San Jose Cupertino,25.5,2
+119608,Valley Park Hotel,9.466666666666667,15
+82357,Silicon Valley Hotel San Jose Airport,17.130434782608695,46
+287394,Quality Inn Silicon Valley,20.666666666666668,12
+81642,BEST WESTERN - San Jose Airport Plaza,18.142857142857142,7
+82299,Holiday Inn Express San Jose Central City,16.4,5
+240060,Comfort Suites Airport,21.384615384615383,26
+81644,Courtyard by Marriott San Jose Airport,20.88888888888889,18
+631720,San Jose Airport Garden Hotel,15.085714285714285,35
+119667,Arena Hotel,17.67241379310345,58
+81695,Radisson San Jose Airport,15.05,20
+81656,Hotel De Anza,15.666666666666666,30
+81667,Fairfield Inn & Suites San Jose Airport,18.55263157894737,38
+82169,Residence Inn San Jose South,19.615384615384617,13
+225253,Hampton Inn And Suites San Jose,16.692307692307693,13
+81679,The Sainte Claire,17.035087719298247,57
+324321,Four Points by Sheraton San Jose Downtown,18.507042253521128,71
+82156,Holiday Inn San Jose-Airport,12.490196078431373,51
+119644,Homewood Suites by Hilton San Jose-Silicon Valley,21.6,20
+223967,San Jose Marriott,19.147540983606557,61
+81456,Steinhart,18.142857142857142,7
+119601,Coventry Motor Inn,20.626506024096386,83
+82116,Marina Motel,17.51219512195122,41
+119658,Castle Inn,17.702970297029704,404
+81450,The Ritz-Carlton,20.403508771929825,171
+112360,The Queen Anne Hotel,17.631067961165048,103
+224956,Inn at the Opera,16.910714285714285,56
+506418,"Hotel Vitale, a Joie de Vivre hotel",20.831223628691983,237
+80774,The Stratford,17.79268292682927,164
+80808,Beresford Arms,16.006944444444443,144
+81114,"Laurel Inn, a Joie de Vivre hotel",14.333333333333334,48
+618542,Orchard Garden Hotel,22.452380952380953,210
+112307,"Hotel Rex, a Joie de Vivre hotel",17.820289855072463,345
+291220,Carl Hotel,16.1,10
+112321,The Archbishop's Mansion,14.895833333333334,48
+80817,Vantaggio Suites Cosmo,8.851851851851851,27
+119636,Pensione International,5.0,1
+81379,Sonoma Inn,7.714285714285714,7
+658566,Ram's Hotel,6.0,1
+119663,Biltmore Hotel,3.0,2
+1015196,Aldrich Hotel,8.857142857142858,7
+603022,Twin Peaks Hotel,14.5,2
+674036,Vantaggio Suites Jefferson Square,17.333333333333332,3
+626656,Pontiac Hotel,6.0,3
+81524,Oasis Inn,10.583333333333334,12
+80978,Alpha Inn and Suites San Francisco,10.958333333333334,24
+81526,Verona,12.294117647058824,17
+119632,Roberts At The Beach Motel,7.333333333333333,15
+565629,Harcourt Hotel,8.857142857142858,7
+81480,Greenwich Inn,17.9,40
+320147,Americas Best Value Inn & Suites Union Square,10.75,4
+278862,Taylor Hotel,10.36111111111111,36
+240893,Mithila,9.19672131147541,61
+81985,Hotel Monaco San Francisco - a Kimpton Hotel,17.605381165919283,223
+291689,Aida Hotel,12.105263157894736,19
+549444,Beach Motel,7.375,8
+282764,Hotel Tropica,8.8,10
+80766,The Embassy Hotel,7.741935483870968,31
+944406,Travelodge San Francisco - Fishermans Wharf,7.695652173913044,23
+81487,Civic Center Inn,6.461538461538462,13
+252811,America's Best Inn San Francisco,12.578947368421053,19
+82105,Ramada Limited - San Francisco,8.68421052631579,38
+112304,Hotel Milano,11.520833333333334,48
+81246,Knights Inn - Downtown San Francisco,7.378378378378378,37
+1160921,Commodore Hotel,12.0,1
+80760,Foleys Inn,3.0,1
+81383,Star Motel,13.5,10
+226814,Ansonia Abby Hotel,6.153846153846154,13
+1119270,Cova Hotel,15.657142857142857,35
+81150,Mission Inn,6.611111111111111,18
+81256,Rodeway Inn Civic Center,10.433333333333334,30
+80757,Super 8 San Francisco / Fisherman's Wharf,11.235294117647058,17
+224957,Layne Hotel,18.884615384615383,78
+1214408,Alexis Park San Francisco,19.88235294117647,17
+291071,Surf Motel,8.538461538461538,13
+80987,Presidio Inn & Suites,9.703703703703704,27
+217844,The Orchard Hotel,18.95778364116095,758
+81503,Travelodge Golden Gate San Francisco,15.721311475409836,61
+80806,Union Square Plaza Hotel,14.50632911392405,79
+112335,Halcyon Hotel,14.423076923076923,26
+81251,The Opal San Francisco,15.907514450867051,173
+80799,Renoir Hotel,9.54601226993865,163
+571427,Synergy Avalon Mission Bay,29.0,1
+80768,Fitzgerald Hotel Union Square,11.36111111111111,36
+81007,Great Highway Motor Inn,15.071428571428571,14
+142261,Rodeway Inn Downtown,9.357142857142858,28
+81416,Hotel Majestic,14.44927536231884,69
+226829,Oceanview Motel,13.8125,16
+256730,Country Hearth Inn San Francisco,12.8,5
+1223830,Travelodge Central,9.701149425287356,87
+80756,Adante Hotel,15.28476821192053,151
+80950,Days Inn Lombard Street,10.88,25
+510378,The Gaylord,14.755555555555556,45
+80977,Motel 6 San Francisco Downtown,9.333333333333334,12
+124967,The Dakota Hotel,14.666666666666666,48
+288687,Americas Best Value Inn & Suites-SOMA,15.636363636363637,11
+217294,Hotel North Beach,14.588235294117647,17
+570865,Economy Inn Presidio,6.333333333333333,3
+119590,Capri Motel,9.692307692307692,13
+113927,Marina Inn,11.836065573770492,61
+119661,Inn on Broadway,14.080808080808081,99
+81782,Edwardian San Francisco Hotel,15.031746031746032,63
+81976,Astoria Hotel,17.78205128205128,78
+80821,Super 8 San Francisco/Union Square Area,8.954545454545455,22
+81212,Powell Hotel,15.898809523809524,168
+80788,Monarch Hotel,11.141176470588235,85
+267364,Americas Best Value Inn Golden Gate,16.8,30
+627267,Royal Pacific Motor Inn,17.1875,16
+119650,Francisco Bay Inn,11.134228187919463,149
+291695,All Star Hotel,14.5,2
+224955,Hotel Metropolis,13.278688524590164,122
+80930,Comfort Inn by the Bay,16.52061855670103,194
+82114,La Luna Inn,18.011494252873565,87
+81476,Town House,13.222222222222221,18
+81363,BEST WESTERN The Hotel California,15.943661971830986,142
+119625,BEST WESTERN PLUS Americania,16.0,2
+80879,Civic Center Motor Inn,17.69090909090909,55
+74059,Stanyan Park Hotel,14.956521739130435,23
+81049,Holiday Inn San Francisco Golden Gateway,16.932960893854748,179
+81241,Hotel Whitcomb,17.5188679245283,106
+80836,Hotel Beresford,15.530303030303031,66
+81004,Grant Plaza Hotel,12.15267175572519,131
+489082,University Club,16.666666666666668,3
+80920,Hotel Bijou,17.15028901734104,173
+1134288,Encore Express Hotel,6.333333333333333,6
+81035,Holiday Inn Civic Center (San Francisco),12.581632653061224,98
+112289,Beck's Motor Lodge,12.8,45
+81520,Hotel Union Square,17.22222222222222,162
+80771,The Herbert Hotel,16.423076923076923,52
+218776,The Pickwick Hotel San Francisco,14.505154639175258,97
+119626,Bay Bridge Inn,12.0,16
+141997,Hotel Mark Twain,13.46774193548387,124
+81367,Seal Rock Inn,13.647058823529411,34
+119640,Lombard Motor Inn,17.897435897435898,39
+478253,Hotel des Arts,15.487179487179487,156
+81418,Hotel Frank,4.0,1
+81038,Hilton San Francisco Financial District,19.494296577946766,263
+81177,Nob Hill Motor Inn,16.907356948228884,367
+80963,Days Inn San Francisco at the Beach,14.0,14
+226834,The Grant Hotel,18.406015037593985,133
+81459,Warwick San Francisco Hotel,17.808988764044944,89
+112328,CLIFT San Francisco,15.090909090909092,297
+81466,The Wharf Inn,16.96511627906977,86
+80753,Days Inn San Francisco Downtown/Civic Center Area,14.8125,16
+80823,Mystic Hotel by Charlie Palmer,13.0,5
+81237,Hilton San Francisco Fisherman's Wharf,16.980392156862745,102
+113942,Touchstone Hotel - City Center,15.5,2
+119593,Buena Vista Motor Inn,14.803030303030303,132
+81461,The Westin St. Francis,15.216911764705882,544
+80786,King George Hotel,13.089385474860336,179
+224951,SW Hotel,17.035714285714285,28
+243535,Hotel Fusion,19.933701657458563,181
+563989,Park Hotel,16.424242424242426,33
+112311,Jackson Court San Francisco,14.411764705882353,17
+223955,Courtyard San Francisco Downtown,20.535714285714285,112
+81141,Marriott San Francisco Fisherman's Wharf,17.636986301369863,146
+281778,Archstone South Market,13.5,2
+268240,Club Quarters San Francisco,16.415384615384614,130
+112320,Andrews Hotel,16.917910447761194,134
+279426,Hotel Adagio,14.906451612903226,310
+112338,Hotel Boheme,20.686046511627907,86
+81529,"Villa Florence, A JRK Hotel",15.217948717948717,156
+119623,Chelsea Motor Inn,20.273972602739725,73
+81531,Executive Hotel Vintage Court,12.062068965517241,145
+119643,"Hotel Del Sol, a Joie de Vivre hotel",17.54601226993865,163
+81042,Holiday Inn San Francisco Fishermans Wharf,15.89922480620155,258
+81377,Sir Francis Drake Hotel - a Kimpton Hotel,17.996124031007753,258
+81215,Prescott Hotel - a Kimpton Hotel,18.53216374269006,171
+311255,Geary Parkway Motel,9.7,10
+81087,Hyatt at Fisherman's Wharf,19.181372549019606,204
+81803,Hotel Vertigo,17.950819672131146,61
+80925,"Hotel Carlton, a Joie de Vivre hotel",20.28952772073922,487
+81103,Hyatt Regency San Francisco,17.6,245
+81169,The Mosser,18.40117994100295,339
+112303,Hotel Diva,15.734463276836157,177
+113923,"Hotel Kabuki, a Joie de Vivre hotel",19.756756756756758,111
+81315,San Francisco Marriott Marquis,20.008438818565402,237
+119657,Columbus Motor Inn,21.572192513368982,187
+81375,Sheraton Fisherman's Wharf Hotel,15.419618528610354,367
+81022,Harbor Court Hotel - a Kimpton Hotel,18.557142857142857,140
+81165,Hotel Abri,18.13186813186813,91
+81514,Hotel Triton - a Kimpton Hotel,15.064516129032258,124
+654030,Westin San Francisco Market Street,18.833865814696484,313
+81249,Redwood Inn,16.08910891089109,101
+80780,BEST WESTERN PLUS Tuscan Inn at Fisherman's Wharf,18.029612756264235,439
+112293,Cow Hollow Motor Inn and Suites,18.763636363636362,110
+81110,Taj Campton Place,16.454545454545453,77
+81209,"Phoenix Hotel, a Joie de Vivre hotel",18.572519083969464,131
+81082,Courtyard by Marriott Fisherman's Wharf,17.818181818181817,66
+80917,"Hotel Tomo, a Joie de Vivre hotel",21.926315789473684,95
+80747,Renaissance San Francisco Stanford Court Hotel,16.596491228070175,228
+291227,Ocean Park Motel,20.710526315789473,38
+81222,Radisson Hotel Fisherman's Wharf,15.195286195286196,297
+119665,Baldwin Hotel,20.619834710743802,121
+113928,Hotel Griffon,17.95744680851064,47
+217813,Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf,19.84967320261438,306
+113940,Petite Auberge a Joie de Vivre Hotel,17.926829268292682,164
+115617,Palace Hotel,18.031141868512112,289
+80802,Serrano Hotel - a Kimpton Hotel,17.845238095238095,252
+80793,Hotel Nikko San Francisco,17.674496644295303,298
+81444,JW Marriott San Francisco Union Square,18.31645569620253,237
+124765,San Francisco Marriott Union Square,18.376404494382022,178
+115623,InterContinental Mark Hopkins San Francisco,17.639830508474578,236
+81669,W San Francisco,16.704918032786885,183
+81204,Le Meridien San Francisco,23.22488038277512,209
+81295,Hilton San Francisco Union Square,18.251162790697673,215
+310867,Metro Hotel,15.592592592592593,27
+501344,Hotel Mayflower,23.416666666666668,60
+80937,Cornell Hotel de France,14.911111111111111,45
+81511,San Francisco at The Presidio Travelodge,16.88888888888889,27
+112347,The Kensington Park Hotel,19.732142857142858,112
+115625,The Huntington Hotel & Nob Hill Spa,18.829268292682926,41
+81397,The Fairmont San Francisco,19.7027027027027,259
+81019,Handlery Union Square Hotel,17.137741046831955,363
+676408,InterContinental San Francisco,22.702290076335878,131
+80999,Grand Hyatt San Francisco,17.788732394366196,284
+81192,Parc 55 Wyndham,18.322515212981745,493
+224958,Marines Memorial Club Hotel,20.0,20
+574449,"St. Regis Hotel, San Francisco",22.983606557377048,122
+224953,Four Seasons Hotel San Francisco,20.725806451612904,124
+247005,Suites at Fisherman's Wharf,21.655172413793103,29
+112373,"White Swan Inn, a Joie de Vivre Hotel",19.562130177514792,169
+80797,Hotel Palomar San Francisco - a Kimpton Hotel,17.327868852459016,244
+81409,The Inn at Union Square,21.18918918918919,148
+80990,"Galleria Park, a Joie de Vivre hotel",18.693430656934307,137
+81699,DoubleTree by Hilton San Jose,17.28846153846154,52
+225256,Moorpark Hotel,19.189655172413794,116
+81672,Hyatt Place San Jose/Downtown,16.34090909090909,44
+80983,Hotel Drisco,22.142241379310345,232
+82190,Hilton San Jose,16.48780487804878,41
+256800,Hotel Valencia - Santana Row,14.420454545454545,88
+1175274,"Fairmont Heritage Place, Ghirardelli Square",28.666666666666668,6
+81705,The Fairmont San Jose,17.326732673267326,101
+224948,Omni San Francisco Hotel,22.055696202531646,395
+268533,Argonaut Hotel - a Kimpton Hotel,18.4971363115693,873
+115644,Chancellor Hotel on Union Square,21.14409534127844,923
+81394,The Donatello Hotel,22.69918699186992,246

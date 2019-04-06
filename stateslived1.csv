@@ -1,51 +1,51 @@
 state,visited
-Alabama,10
-Alaska,15
-Arkansas,20
-Arizona,10
-California,15
-Colorado,20
-Connecticut,21
-Delaware,25
-Florida,30
-Georgia,21
-Hawaii,25
-Iowa,30
-Idaho,31
-Illinois,35
-Indiana,40
-Kansas,31
-Kentucky,35
-Louisiana,40
-Maine,41
-Maryland,45
-Massachusetts,50
-Michigan,41
-Minnesota,45
-Missouri,50
-Mississippi,51
-Montana,55
-North Carolina,60
-North Dakota,51
-Nebraska,55
-New Hampshire,60
-New Jersey,61
-New Mexico,65
-Nevada,70
-New York,61
-Ohio,65
-Oklahoma,70
-Oregon,10
-Pennsylvania,15
-Rhode Island,20
-South Carolina,10
-South Dakota,10
-Tennessee,15
-Texas,20
-Utah,31
-Virginia,46
-Vermont,56
-Washington,70
-Wisconsin,14
-West Virginia,66
-Wyoming,19
+Alabama,0
+Alaska,0
+Arkansas,0
+Arizona,21.64
+California,20.46
+Colorado,20.7
+Connecticut,0
+Delaware,0
+Florida,21.681
+Georgia,0
+Hawaii,0
+Iowa,0
+Idaho,0
+Illinois,22.31
+Indiana,21.328
+Kansas,0
+Kentucky,0
+Louisiana,0
+Maine,0
+Maryland,22.37085756
+Massachusetts,23.48837104
+Michigan,19.41131182
+Minnesota,0
+Missouri,0
+Mississippi,0
+Montana,0
+North Carolina,21.15392578
+North Dakota,0
+Nebraska,0
+New Hampshire,0
+New Jersey,0
+New Mexico,0
+Nevada,0
+New York,21.76472761
+Ohio,21.13030489
+Oklahoma,0
+Oregon,0
+Pennsylvania,21.41121659
+Rhode Island,0
+South Carolina,0
+South Dakota,0
+Tennessee,19.26073184
+Texas,21.73839703
+Utah,0
+Virginia,0
+Vermont,0
+Washington,22.15993453
+Wisconsin,0
+West Virginia,0
+Wyoming,0
