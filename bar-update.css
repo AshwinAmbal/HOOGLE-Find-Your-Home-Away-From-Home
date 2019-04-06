@@ -1,0 +1,33 @@
+
+#everything{
+	width:600px;
+	margin:20px;
+}
+#chart{
+	width:600px;
+	height:100vh;
+	margin-left: 50px;
+}
+.bar{
+	fill:#eaeaea;
+}
+text {
+  position: relative;
+}
+text.label{
+/*	fill: #777777;
+	color: #777777;*/
+	fill: #fff;
+	font-size: 35px;
+	font-weight: bold;
+}
+text.category{
+	fill: #FFF;
+	font-size: 25px;
+  margin-left: 1rem;
+}
+
+.chart-container {
+	padding: 20px;
+	background: #34495e;
+}

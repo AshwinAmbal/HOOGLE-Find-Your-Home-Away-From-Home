@@ -1,0 +1,71 @@
+path:hover
+{
+	fill-opacity: .7;
+}
+
+div.tooltip
+{
+ 	position: absolute;
+	text-align: center;
+	width: 60px;
+	height: 28px;
+	padding: 2px;
+	font: 12px sans-serif;
+	background: white;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+   font-family: "Bitter", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: inherit;
+}
+
+.legend
+{
+	position:absolute;
+	left:850px;
+	top:350px;
+}
+
+section {
+  height: 100vh;
+  width: 100vw;
+}
+
+
+.section-heatmap {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#heatmap_info_1 {
+  font-size: 1.5rem;
+}
+
+
+h1 {
+	font-size:150%;
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+h2 {
+	font-size: 12px;
+	font-style: italic;
+	color: gray;
+	margin-top:5px;
+	margin-bottom:5px;
+}
