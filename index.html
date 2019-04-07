@@ -15,8 +15,13 @@
 			Click any state to continue ...
 		</div>
 	</section>
-	<section>
+	<section class='hide'>
 		<div class="chart-container" id='bar-chart_2'>
+			<div class='badge'>
+				<div class='badge-common badge-warning' id='bar-chart-state'></div>
+				<div class='badge-common badge-primary' id='bar-chart-year'></div>
+				<div class='badge-common badge-secondary' id='bar-chart-month'></div>
+			</div>
 			<div id="chart"></div>
 		</div>
 	</section>
@@ -29,12 +34,16 @@
 			duration: 2000
 		})
 	}
+	function showBarChart() {
+		const hiddenSection = document.querySelector('section.hide')
+		if (hiddenSection !== null) {
+			hiddenSection.classList.remove('hide')
+		}
+	}
 	(function createHeatMap(){
 		var margin = { top: 20, right: 30, bottom: 60, left: 60 }
 			, width = 1440 - margin.left - margin.right
 			, height = 630 - margin.top - margin.bottom;
-		var scrollToDiv = document.querySelector('#bar-chart_2').offsetTop;
-		console.log(scrollToDiv)
 		// D3 Projection
 		var projection = d3.geo.albersUsa()
 			.translate([width / 2, height / 2])    // translate to center of screen
@@ -133,9 +142,9 @@
 							.style("top", (d3.event.pageY - 28) + "px");
 					})
 					.on("click", d => {
-						scrollSmooth(scrollToDiv)
-						console.log(d.properties)
-						drawChart(d.properties.AB)
+						showBarChart()
+						scrollSmooth(750)
+						drawChart(d.properties)
 					})
 
 					// fade out tooltip on mouse out

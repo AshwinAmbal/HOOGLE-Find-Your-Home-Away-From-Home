@@ -31,3 +31,39 @@ text.category{
 	padding: 20px;
 	background: #34495e;
 }
+
+
+.badge {
+  /* position: absolute; */
+  display: flex;
+
+  padding: 1em 2rem;
+  justify-content: space-around;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+}
+
+.badge-common {
+  padding: 1rem;
+}
+
+.badge-primary {
+  color: #fff;
+  background-color: #5383ff;
+  top: 10;
+  right: 50;
+}
+
+.badge-secondary {
+  color: #fff;
+  background-color: #595959;
+}
+
+.badge-warning {
+  color: #212529;
+  background-color: #f7b924;
+}

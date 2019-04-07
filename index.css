@@ -36,6 +36,7 @@ div.tooltip
 }
 
 section {
+  position: relative;
   height: 100vh;
   width: 100vw;
 }
@@ -68,4 +69,8 @@ h2 {
 	color: gray;
 	margin-top:5px;
 	margin-bottom:5px;
+}
+
+.hide {
+  display: none;
 }

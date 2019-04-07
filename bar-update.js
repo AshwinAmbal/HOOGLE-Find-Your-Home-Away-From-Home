@@ -8,43 +8,15 @@ const months = ["January", "February", "March","April", "May", "June", "July", "
 const years = ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012"]
 
 
-function sleep(ms) {
-  console.log('called sleep')
-  return new Promise(resolve => setTimeout(resolve, ms));
+function delay() {
+  return new Promise(resolve => setTimeout(resolve, 3000));
 }
 
-function random(max){
-  return (Math.random() * (5.0-0.5) + 0.5).toFixed(2)
- }
-
-// function getData(state){
-
-//    var arr = [];
-
-//    var names = Array.from({length: 10}, (e, i) => `Hotel ${i+1}`)
-
-
-//    for (var i = 0; i < 10; i++ ){
-//      arr.push({name: names[i], count: random()});
-//    }
-
-//    arr.sort(function (a, b) {
-//      if (a["Total Rating"] > b["Total Rating"]) {
-//        return -1;
-//      }
-//      if (a["Total Rating"] < b["Total Rating"]) {
-//        return 1;
-//      }
-//      return 0;
-//    });
-//    return arr;	// produces array of objects {name: "", count: 0}
-//  }
-
-
-
  // Create new chart
- var chart = new HorizontalChart('#chart');
-
+var chart = new HorizontalChart('#chart');
+const yearElement = document.querySelector('#bar-chart-year');
+const stateElement = document.querySelector('#bar-chart-state');
+const monthElement = document.querySelector('#bar-chart-month');
 
  // Draw the chart
 //  chart.draw(getData());
@@ -203,88 +175,29 @@ function random(max){
    }
  }
 
-function* getNextMonth() {
-  for(let month of months) {
-    yield month
-  }
-}
-
-function* getNextYear() {
-  for(let year of years) {
-    yield year
-  }
-}
-
 //  setInterval(function(){
 //    chart.draw(getData());
 //  }, 3000);
 let intervalYear = null
 let intervalMonth = null
-function drawChart(state) {
+function drawChart({AB: state, NAME}) {
 
-  d3.json(`data/${state}.json`, (err, data) => {
+ d3.json(`data/${state}.json`, async (err, data) => {
     if(err) {
       console.log(err)
     }
-    console.log(data)
-    const yearFn = getNextYear()
-    setInterval(() => {
-      const year = yearFn.next().value
-      const monthFn = getNextMonth()
-      if(year !== undefined) {
-        setInterval(() => {
-          const month = monthFn.next().value
-          console.log(year, month)
-          if (month !== undefined && year !== undefined) {
-            chart.draw(data[year][month])
-          }
-          }, 3000)
+
+    for (let year of years) {
+      for (let month of months) {
+        console.log(year, month)
+        yearElement.innerText = year
+        monthElement.innerText = month
+        stateElement.innerText = NAME
+        chart.draw(data[year][month])
+        await delay()
       }
-    })
+    }
   })
-
-
-
-
-  // await years.forEach(async year => {
-  //   await months.forEach(async month => {
-  //     d3.csv(fileName+year+'/'+month+'.csv', data => {
-  //       console.log('d3 data', year, month)
-  //       data.sort(function (a, b) {
-  //         if (a["Total Rating"] > b["Total Rating"]) {
-  //           return -1;
-  //         }
-  //         if (a["Total Rating"] < b["Total Rating"]) {
-  //           return 1;
-  //         }
-  //         return 0;
-  //       });
-  //       const finalData = data.slice(0,10)
-  //       chart.draw(finalData)
-  //     })
-  //     await sleep(300000)
-  //   })
-  // })
-
-
-    // const year = 2002
-    // const month = 'January'
-    // const filePath = `${fileName}${year}/${month}.csv`
-    // d3.csv(filePath, data => {
-    //   console.log(data)
-    //   data.sort(function (a, b) {
-    //     if (a["Total Rating"] > b["Total Rating"]) {
-    //       return -1;
-    //     }
-    //     if (a["Total Rating"] < b["Total Rating"]) {
-    //       return 1;
-    //     }
-    //     return 0;
-    //   });
-    //   const finalData = data.slice(0, 10)
-    //   console.log(finalData)
-    //   chart.draw(finalData)
-    // })
 }
 
 export default drawChart
