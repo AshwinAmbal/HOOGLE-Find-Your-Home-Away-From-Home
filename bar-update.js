@@ -61,7 +61,7 @@ function random(max){
    this.margin = {top: 0, right: 0, bottom: 0, left: 0};
    this.width = 600 - this.margin.left - this.margin.right;
    this.height = 500 - this.margin.top - this.margin.bottom;
-   this.categoryIndent = 5*15 + 5;
+   this.categoryIndent = 100;
    this.defaultBarWidth = 2000;
 
    this.color = d3.scale.ordinal()
@@ -218,33 +218,33 @@ function* getNextYear() {
 //  setInterval(function(){
 //    chart.draw(getData());
 //  }, 3000);
-
+let intervalYear = null
+let intervalMonth = null
 function drawChart(state) {
-  const yearFn = getNextYear()
-  setInterval(() => {
-    const monthFn = getNextMonth()
-    const year = yearFn.next().value
+
+  d3.json(`data/${state}.json`, (err, data) => {
+    if(err) {
+      console.log(err)
+    }
+    console.log(data)
+    const yearFn = getNextYear()
     setInterval(() => {
-      const fileName = `Data/${state}/`
-      const month = monthFn.next().value
-      const filePath = `${fileName}${year}/${month}.csv`
-      d3.csv(filePath, data => {
-        console.log(data)
-        data.sort(function (a, b) {
-          if (a["Total Rating"] > b["Total Rating"]) {
-            return -1;
+      const year = yearFn.next().value
+      const monthFn = getNextMonth()
+      if(year !== undefined) {
+        setInterval(() => {
+          const month = monthFn.next().value
+          console.log(year, month)
+          if (month !== undefined && year !== undefined) {
+            chart.draw(data[year][month])
           }
-          if (a["Total Rating"] < b["Total Rating"]) {
-            return 1;
-          }
-          return 0;
-        });
-        const finalData = data.slice(0, 10)
-        console.log(finalData)
-        chart.draw(finalData)
-      })
-    }, 3000)
+          }, 3000)
+      }
+    })
   })
+
+
+
 
   // await years.forEach(async year => {
   //   await months.forEach(async month => {
