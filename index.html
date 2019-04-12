@@ -4,12 +4,22 @@
 	<script type="text/javascript"></script>
 	<script src="https://d3js.org/d3.v3.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/solid.css" integrity="sha384-QokYePQSOwpBDuhlHOsX0ymF6R/vLk/UQVz3WHa6wygxI5oGTmDTv8wahFOSspdm" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
 	<link rel="stylesheet" href="index.css">
 	<link rel="stylesheet" href="bar-update.css">
 </head>
 
 <body>
-	<section class='section-heatmap'>
+	<section class='section-title align-center'>
+			<div class='blank'></div>
+			<div class='website-title'>Website Title</div>
+			<div class='website-sub'>secondary text</div>
+			<div class="arrow bounce align-center" id='arrow'>
+				<i class="fa fa-arrow-down fa-2x"></i>
+			</div>
+	</section>
+	<section class='section-heatmap align-center'>
 		<div id='heatmap_1'></div>
 		<div id='heatmap_info_1'>
 			Click any state to continue ...
@@ -22,8 +32,17 @@
 				<div class='badge-common badge-primary' id='bar-chart-year'></div>
 				<div class='badge-common badge-secondary' id='bar-chart-month'></div>
 			</div>
-			<div id="chart"></div>
+			<div class='chart-layout'>
+				<div id='chart-info' class='chart-info'>
+						<div class="chart-info__heading">Lorem, ipsum dolor.</div>
+						<div class="chart-info__content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta beatae quo iure totam, possimus repellendus enim provident alias animi obcaecati porro quam voluptatem ea, autem praesentium incidunt quos labore adipisci tenetur? Tempore eveniet atque ex ad molestias quasi aliquid inventore sit, iusto laudantium, aliquam quia rerum sequi reprehenderit ab veritatis.</div>
+				</div>
+				<div id="chart"></div>
+			</div>
 		</div>
+	</section>
+	<section class='hide'>
+		<!-- Add the Radar and Word Cloud chart here -->
 	</section>
 	<script type="module">
 	import drawChart from './bar-update.js'
@@ -34,10 +53,17 @@
 			duration: 2000
 		})
 	}
+
+	const arrow = document.querySelector('#arrow');
+	arrow.addEventListener('click', () => {
+		scrollSmooth(800)
+	})
+
 	function showBarChart() {
-		const hiddenSection = document.querySelector('section.hide')
+		const hiddenSection = document.querySelectorAll('section.hide')
+		console.log(hiddenSection, hiddenSection.length)
 		if (hiddenSection !== null) {
-			hiddenSection.classList.remove('hide')
+			hiddenSection.forEach(e =>  e.classList.toggle('hide'))
 		}
 	}
 	(function createHeatMap(){
@@ -143,7 +169,7 @@
 					})
 					.on("click", d => {
 						showBarChart()
-						scrollSmooth(750)
+						scrollSmooth(1580)
 						drawChart(d.properties)
 					})
 

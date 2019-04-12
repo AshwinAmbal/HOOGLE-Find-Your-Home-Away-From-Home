@@ -5,7 +5,6 @@
 }
 #chart{
 	width:600px;
-	height:100vh;
 	margin-left: 50px;
 }
 .bar{
@@ -34,9 +33,7 @@ text.category{
 
 
 .badge {
-  /* position: absolute; */
   display: flex;
-
   padding: 1em 2rem;
   justify-content: space-around;
   font-weight: 700;
@@ -48,6 +45,7 @@ text.category{
 }
 
 .badge-common {
+  width: 10rem;
   padding: 1rem;
 }
 

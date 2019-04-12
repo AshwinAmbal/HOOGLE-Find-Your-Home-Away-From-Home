@@ -31,10 +31,10 @@ const monthElement = document.querySelector('#bar-chart-month');
    var self = this;
 
    this.margin = {top: 0, right: 0, bottom: 0, left: 0};
-   this.width = 600 - this.margin.left - this.margin.right;
+   this.width = 800 - this.margin.left - this.margin.right;
    this.height = 500 - this.margin.top - this.margin.bottom;
    this.categoryIndent = 100;
-   this.defaultBarWidth = 2000;
+   this.defaultBarWidth = 2500;
 
    this.color = d3.scale.ordinal()
      .range(["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"]);
@@ -174,29 +174,47 @@ const monthElement = document.querySelector('#bar-chart-month');
 
    }
  }
+let currentState = null
+
+async function showData(data) {
+  for (let year of years) {
+    for (let month of months) {
+      console.log(year, month)
+      yearElement.innerText = year
+      monthElement.innerText = month
+      stateElement.innerText = currentState
+      chart.draw(data[year][month])
+      await delay()
+    }
+  }
+}
+
+var activeCallback;
+
+function wrapCallback(callback) {
+  var args = Array.prototype.slice.call(arguments, 1);
+  var that = this;
+  var wrappedCallback = function() {
+    if (wrappedCallback == activeCallback) {
+      callback.apply(that, args);
+    }
+  }
+  activeCallback = wrappedCallback;
+  return wrappedCallback;
+}
 
 //  setInterval(function(){
 //    chart.draw(getData());
 //  }, 3000);
 let intervalYear = null
 let intervalMonth = null
-function drawChart({AB: state, NAME}) {
-
- d3.json(`data/${state}.json`, async (err, data) => {
+async function drawChart({AB: state, NAME}) {
+ currentState = NAME
+ await d3.json(`data/${state}.json`, (err, d) => {
     if(err) {
       console.log(err)
     }
-
-    for (let year of years) {
-      for (let month of months) {
-        console.log(year, month)
-        yearElement.innerText = year
-        monthElement.innerText = month
-        stateElement.innerText = NAME
-        chart.draw(data[year][month])
-        await delay()
-      }
-    }
+    showData(d)
   })
 }
 
