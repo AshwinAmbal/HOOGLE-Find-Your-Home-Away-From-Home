@@ -1,0 +1,21 @@
+.section-word {
+  display: grid;
+  grid-template-rows: 20vh 1fr;
+}
+
+.hotel-selection {
+  background-color: red
+}
+
+.hotel-charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.word-cloud {
+  background-color: brown
+}
+
+.radar-chart {
+  background-color: chocolate
+}
