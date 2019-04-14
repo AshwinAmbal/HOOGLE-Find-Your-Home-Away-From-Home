@@ -9,7 +9,7 @@ const years = ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "
 
 
 function delay() {
-  return new Promise(resolve => setTimeout(resolve, 2500));
+  return new Promise(resolve => setTimeout(resolve, 1500));
 }
 
 // Create new chart
@@ -214,6 +214,31 @@ async function showData(data, state) {
   }
 }
 
+async function resumePlaying(currentYear, currentMonth) {
+  for (let month = currentMonth; month < months.length; month ++) {
+      if (chart.shouldStopLooping) {
+        return
+      }
+      setHeading(stateElement.innerText, years[currentYear], months[month])
+      chart.year = years[currentYear]
+      chart.month = months[month]
+      chart.draw()
+      await delay()
+  }
+  for (let year = currentYear + 1; year < years.length; year++) {
+    for (let month of months) {
+      if (chart.shouldStopLooping) {
+        return
+      }
+      setHeading(stateElement.innerText, years[year], month)
+      chart.year = years[year]
+      chart.month = month
+      chart.draw()
+      await delay()
+    }
+  }
+}
+
 //  setInterval(function(){
 //    chart.draw(getData());
 //  }, 3000);
@@ -234,6 +259,20 @@ const drawChartForButton =  (month, year = yearElement.innerText) => {
 
 pause.addEventListener('click', () =>  {
   chart.shouldStopLooping = true
+  pause.classList.toggle('active')
+  if(pause.classList.length < 3) {
+    pause.classList.remove('fa-play-circle')
+    pause.classList.add('fa-pause-circle')
+    setTimeout(() => {
+      const currentYear = years.indexOf(yearElement.innerText)
+      const currentMonth = months.indexOf(monthElement.innerText)
+      chart.shouldStopLooping = false
+      resumePlaying(currentYear, currentMonth)
+    }, 100);
+  } else {
+    pause.classList.remove('fa-pause-circle')
+    pause.classList.add('fa-play-circle')
+  }
 })
 
 forward.addEventListener('click', () => {
@@ -280,7 +319,7 @@ async function drawChart({ AB: state, NAME }) {
     setTimeout(() => {
       chart.shouldStopLooping = false
       showData(d, state)
-    }, 2000);
+    }, 1550);
   })
 }
 
