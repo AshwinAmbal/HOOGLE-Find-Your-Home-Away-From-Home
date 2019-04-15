@@ -5,7 +5,7 @@
 	<script src="https://d3js.org/d3.v3.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/solid.css" integrity="sha384-QokYePQSOwpBDuhlHOsX0ymF6R/vLk/UQVz3WHa6wygxI5oGTmDTv8wahFOSspdm" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
 	<link rel="stylesheet" href="index.css">
 	<link rel="stylesheet" href="bar-update.css">
 	<link rel="stylesheet" href="word-radar.css">
@@ -70,10 +70,10 @@
 			duration: 2000
 		})
 	}
-
+	const scrollSectionHeight = document.querySelector('.section-heatmap').offsetHeight
 	const arrow = document.querySelector('#arrow');
 	arrow.addEventListener('click', () => {
-		scrollSmooth(800)
+		scrollSmooth(scrollSectionHeight)
 	})
 
 	function showBarChart() {
@@ -186,7 +186,7 @@
 					})
 					.on("click", d => {
 						showBarChart()
-						scrollSmooth(1580)
+						scrollSmooth(scrollSectionHeight * 2)
 						drawChart(d.properties)
 					})
 
