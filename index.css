@@ -150,6 +150,7 @@ h2 {
 	flex-direction: column;
 	color: white;
 	font-size: 1.2rem;
+	justify-content: space-around;
 }
 
 .chart-info__heading {
@@ -160,4 +161,9 @@ h2 {
 #chart {
 	padding: 3rem;
 	margin-left: 2rem;
+}
+
+.chart-info__buttons {
+	align-self: flex-end;
+	align-content: flex-end;
 }

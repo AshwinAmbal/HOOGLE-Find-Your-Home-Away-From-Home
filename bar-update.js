@@ -7,9 +7,12 @@ https://bl.ocks.org/charlesdguthrie/11356441
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 const years = ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012"]
 
+let delayTiming = 1500
+const MAX_TIME = 5000
+const MIN_TIME = 1200
 
 function delay() {
-  return new Promise(resolve => setTimeout(resolve, 1500));
+  return new Promise(resolve => setTimeout(resolve, delayTiming));
 }
 
 // Create new chart
@@ -246,6 +249,8 @@ async function resumePlaying(currentYear, currentMonth) {
 const pause = document.querySelector('#pause');
 const back = document.querySelector('#back');
 const forward = document.querySelector('#forward');
+const fback = document.querySelector('#fast-backward');
+const fforward = document.querySelector('#fast-forward');
 
 const drawChartForButton =  (month, year = yearElement.innerText) => {
   setTimeout(() => {
@@ -256,6 +261,21 @@ const drawChartForButton =  (month, year = yearElement.innerText) => {
   }, 100)
 }
 
+
+fback.addEventListener('click', () =>{
+  delayTiming = delayTiming * 1.2
+  if(delayTiming > MAX_TIME) {
+    delayTiming = MAX_TIME
+  }
+})
+
+fforward.addEventListener('click', () =>{
+  delayTiming = delayTiming * 0.8
+  if(delayTiming < MIN_TIME){
+    delayTiming = MIN_TIME
+  }
+  console.log(delayTiming)
+})
 
 pause.addEventListener('click', () =>  {
   chart.shouldStopLooping = true
