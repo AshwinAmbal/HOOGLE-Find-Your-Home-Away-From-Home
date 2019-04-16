@@ -38,7 +38,7 @@ function HorizontalChart(id) {
   this.month = null;
   this.margin = { top: 0, right: 0, bottom: 0, left: 0 };
   this.width = 800 - this.margin.left - this.margin.right;
-  this.height = 500 - this.margin.top - this.margin.bottom;
+  this.height = (window.innerHeight / 1.5) - this.margin.top - this.margin.bottom;
   this.categoryIndent = 100;
   this.defaultBarWidth = 2500;
 

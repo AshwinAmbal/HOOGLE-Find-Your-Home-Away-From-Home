@@ -20,10 +20,17 @@
 				<i class="fa fa-arrow-down fa-2x"></i>
 			</div>
 	</section>
-	<section class='section-heatmap align-center'>
-		<div id='heatmap_1'></div>
-		<div id='heatmap_info_1'>
-			Click any state to continue ...
+	<section class='section-heatmap'>
+		<div class="heatmap align-center">
+			<div class="chart-info__heading">Heatmap title</div>
+			<div id='heatmap_1'></div>
+			<div id='heatmap_info_1'>
+				Click any state to continue ...
+			</div>
+		</div>
+		<div class="heatmap-content">
+				<div class="heatmap-info__heading">Lorem, ipsum dolor.</div>
+				<div class="heatmap-info__content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta beatae quo iure totam, possimus repellendus enim provident alias animi obcaecati porro quam voluptatem ea, autem praesentium incidunt quos labore adipisci tenetur? Tempore eveniet atque ex ad molestias quasi aliquid inventore sit, iusto laudantium, aliquam quia rerum sequi reprehenderit ab veritatis.</div>
 		</div>
 	</section>
 	<section class='hide'>
@@ -86,8 +93,8 @@
 		}
 	}
 	(function createHeatMap(){
-		var margin = { top: 20, right: 30, bottom: 60, left: 60 }
-			, width = 1440 - margin.left - margin.right
+		var margin = { top: 0, right: 0, bottom: 0, left: 0 }
+			, width = 800 - margin.left - margin.right
 			, height = 630 - margin.top - margin.bottom;
 		// D3 Projection
 		var projection = d3.geo.albersUsa()
@@ -126,13 +133,13 @@
 				// Loop through each state data value in the .csv file
 				var legend = d3.select("#heatmap_1").append("svg")
 					.attr("class", "legend")
-					.attr("width", 400)
-					.attr("height", 200)
+					.attr("width", 150)
+					.attr("height", 120)
 					.selectAll("g")
 					.data(color.domain().slice().reverse())
 					.enter()
 					.append("g")
-					.attr("transform", function (d, i) { return "translate(200," + i * 20 + ")"; });
+					.attr("transform", function (d, i) { return "translate(5," + i * 20 + ")"; });
 
 				legend.append("rect")
 					.attr("width", 18)
@@ -187,9 +194,11 @@
 							.style("top", (d3.event.pageY - 28) + "px");
 					})
 					.on("click", d => {
-						showBarChart()
-						scrollSmooth(scrollSectionHeight * 2)
-						drawChart(d.properties)
+						if (d.properties.visited !== '0') {
+							showBarChart()
+							scrollSmooth(scrollSectionHeight * 2)
+							drawChart(d.properties)
+						}
 					})
 
 					// fade out tooltip on mouse out
