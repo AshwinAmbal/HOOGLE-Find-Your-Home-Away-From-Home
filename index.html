@@ -3,12 +3,15 @@
 <head>
 	<script type="text/javascript"></script>
 	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/solid.css" integrity="sha384-QokYePQSOwpBDuhlHOsX0ymF6R/vLk/UQVz3WHa6wygxI5oGTmDTv8wahFOSspdm" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="index.css">
 	<link rel="stylesheet" href="bar-update.css">
 	<link rel="stylesheet" href="word-radar.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
 
 <body>
@@ -60,10 +63,25 @@
 		<!-- Add the Radar and Word Cloud chart here -->
 		<div class='hotel-selection' >
 			<!-- hotel selection tab -->
+			<div id="b1" style="position: absolute; left:5px; top: 25px; width: 250px; height: 30px;"></div>
+			<div id="b2" style="position: absolute; left:320px; top: 25px; width: 250px; height: 30px;"></div>
+			<div id="b3" style="position: absolute; left:675px; top: 25px; width: 250px; height: 30px;"></div>
+			<div id="b4" style="position: absolute; right:320px; top: 25px; width: 250px; height: 30px;"></div>
+			<div id="b5" style="position: absolute; right:20px; top: 25px; width: 250px; height: 30px;"></div>
+
+			<div id="b6" style="position: absolute; left:5px; top: 100px; width: 250px; height: 30px;"></div>
+			<div id="b7" style="position: absolute; left:320px; top: 100px; width: 250px; height: 30px;"></div>
+			<div id="b8" style="position: absolute; left:675px; top: 100px; width: 250px; height: 30px;"></div>
+			<div id="b9" style="position: absolute; right:320px; top: 100px; width: 250px; height: 30px;"></div>
+			<div id="b10" style="position: absolute; right:20px; top: 100px; width: 250px; height: 30px;"></div>
+
+			<div id="drop" style="position: absolute; right:50px; top: 200px; width: 250px; height: 50px;"></div>
 		</div>
 		<div class='hotel-charts'>
-			<div class='word-cloud'>
-				<!-- add the word cloud here -->
+			<div class='finalwordcloud'>
+				<svg  id='wordCloudSVG' class="word-cloud" width="490" height="555.74">
+					<!-- add the word cloud here -->
+				</svg>
 			</div>
 			<div class='radar-chart'>
 				<!-- add radar chart here -->
@@ -198,6 +216,10 @@
 							showBarChart()
 							scrollSmooth(scrollSectionHeight * 2)
 							drawChart(d.properties)
+							d3.selectAll('button').remove();
+							d3.selectAll('select').remove();
+							$("#wordCloudSVG").empty();
+							WordCloud(d.properties['AB']);
 						}
 					})
 
@@ -250,7 +272,9 @@
 		});
 	})()
 	</script>
+	<script src="WordCloudCheck.js"></script>
 	<script src="bar-update.js"></script>
+
 </body>
 
 </html>
