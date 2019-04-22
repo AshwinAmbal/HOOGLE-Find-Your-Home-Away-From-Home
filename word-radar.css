@@ -2,9 +2,25 @@
   display: grid;
   grid-template-rows: 20vh 1fr;
 }
+.hotel-nav {
+  display: grid;
+  grid-template-columns: 90% 10%;
+  background-color: #D9D9D9;
+}
+
+.hotel-heading {
+  background-color: #34495e;
+  margin: 15px;
+  padding: 1rem;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+}
 
 .hotel-selection {
-  background-color: white
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
 }
 
 .hotel-charts {
@@ -18,4 +34,23 @@
 
 .radar-chart {
   background-color: white
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  padding: 1rem 2rem;
+  margin: 5px;
+  width: 14rem;
+  min-height: 3.5rem;
+  text-decoration: none;
+  border: 0;
+  font-family: inherit;
+  font-size: .85rem;
+  line-height: 1;
+  cursor: pointer;
+  text-align: center;
+  transition: background 250ms ease-in-out, transform 150ms ease;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }

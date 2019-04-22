@@ -4,7 +4,7 @@ function WordCloud(state){
             d3.csv("./data/Top_10_Best_Hotels/" + state + ".csv", function(error, hotels) {
                 var global = 0
                 var previousglobalcount = 0
-                
+
                 pos0 = "translate(245, 310)"
                 pos1 = "translate(125, 310)"
                 pos2 = "translate(350, 310)"
@@ -21,12 +21,12 @@ function WordCloud(state){
                 for(var i = 0; i < 11; i++){
                     flag.push(0);
                 }
-                
+
                 var def_color = 'rgb(192, 192, 192)'
                 var default_color = '#C0C0C0'
                 var colors = [default_color, '#3366CC', '#E67300', '#66AA00', '#B82E2E']
                 var rgbcolors = [def_color, 'rgb(51, 102, 204)' , 'rgb(230, 115, 0)', 'rgb(102, 170, 0)', 'rgb(184, 46, 46)']
-                
+
                 color_to_value_dict = {}
 
                 available_colors = Array()
@@ -40,7 +40,7 @@ function WordCloud(state){
                 var myWordCloud2 = null;
                 var myWordCloud3 = null;
                 var myWordCloud4 = null;
-                
+
                 var elements = [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012]
                 var hotel_names = ['']
                 for(h in hotels) {
@@ -49,10 +49,10 @@ function WordCloud(state){
                 //console.log(hotel_names);
 
                 var curYear = 2004
-                
-                
-                d3.select("#b1").append("button")  
-                .attr("class", "btn btn-primary")
+
+
+                d3.select("#b1").append("button")
+                .attr("class", "btn")
                 .attr("id", "button1")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -60,8 +60,8 @@ function WordCloud(state){
                 .text(hotel_names[1])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[1]], 1)});
 
-                d3.select("#b2").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b2").append("button")
+                .attr("class", "btn")
                 .attr("id", "button2")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -69,8 +69,8 @@ function WordCloud(state){
                 .text(hotel_names[2])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[2]], 2)});
 
-                d3.select("#b3").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b3").append("button")
+                .attr("class", "btn")
                 .attr("id", "button3")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -78,8 +78,8 @@ function WordCloud(state){
                 .text(hotel_names[3])
                 .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[3]], 3)});
 
-                d3.select("#b4").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b4").append("button")
+                .attr("class", "btn")
                 .attr("id", "button4")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -87,8 +87,8 @@ function WordCloud(state){
                 .text(hotel_names[4])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[4]], 4)});
 
-                d3.select("#b5").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b5").append("button")
+                .attr("class", "btn")
                 .attr("id", "button5")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -96,8 +96,8 @@ function WordCloud(state){
                 .text(hotel_names[5])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[5]], 5)});
 
-                d3.select("#b6").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b6").append("button")
+                .attr("class", "btn")
                 .attr("id", "button6")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -105,8 +105,8 @@ function WordCloud(state){
                 .text(hotel_names[6])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[6]], 6)});
 
-                d3.select("#b7").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b7").append("button")
+                .attr("class", "btn")
                 .attr("id", "button7")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -114,8 +114,8 @@ function WordCloud(state){
                 .text(hotel_names[7])
                 .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[7]], 7)});
 
-                d3.select("#b8").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b8").append("button")
+                .attr("class", "btn")
                 .attr("id", "button8")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -123,8 +123,8 @@ function WordCloud(state){
                 .text(hotel_names[8])
                 .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[8]], 8)});
 
-                d3.select("#b9").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b9").append("button")
+                .attr("class", "btn")
                 .attr("id", "button9")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -132,8 +132,8 @@ function WordCloud(state){
                 .text(hotel_names[9])
                 .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[9]], 9)});
 
-                d3.select("#b10").append("button")  
-                .attr("class", "btn btn-primary")
+                d3.select("#b10").append("button")
+                .attr("class", "btn")
                 .attr("id", "button10")
                 .attr("type", "button")
                 .style("background", default_color)
@@ -178,14 +178,14 @@ function WordCloud(state){
                     }
                 }
 
-                function colorchange(id) {  
+                function colorchange(id) {
                     var background = document.getElementById(id).style.background;
                     //console.log(background);
                     if (background == def_color) {
                         color_index = available_colors.pop()
                         new_color = rgbcolors[color_index];
                         document.getElementById(id).style.background = new_color;
-                    } 
+                    }
                     else {
                         color_index = 0
                         available_colors.push(color_to_value_dict[background])
@@ -196,7 +196,7 @@ function WordCloud(state){
                 }
 
                 function wordCloud(selector, translate, color, hotel) {
-                //var fill = d3.scale.category20();   
+                //var fill = d3.scale.category20();
                 //translate = "translate(300,300)"
                 //Construct the word cloud's SVG element
                 var svg = d3.select(selector).append("svg")
@@ -297,7 +297,7 @@ function WordCloud(state){
                 if(globalcount < 0){
                     global = previousglobalcount
                 }
-                
+
                 else if(globalcount > 4){
                     global = previousglobalcount
                 }
@@ -315,7 +315,7 @@ function WordCloud(state){
                         }
                         previousglobalcount = 0
                     }
-                    
+
                     else if(globalcount == 1){
                         if(previousglobalcount == 0){
                             myWordCloud1 = wordCloud('#wordCloudSVG', pos0, colors[color_index], hotel_id);
@@ -334,17 +334,17 @@ function WordCloud(state){
                             }
                             else{
                                 x0 = x2;
-                                x2 = 0; 
+                                x2 = 0;
                                 myWordCloud1 = myWordCloud2;
                                 myWordCloud2 = null;
                             }
                             var pathTransition = d3.select('#' + x0).transition()
                                     .attr('transform', pos0)
-                                    .duration(1000);         
+                                    .duration(1000);
                         }
                         previousglobalcount = globalcount
                     }
-                    
+
                     else if(globalcount == 2){
                         if(previousglobalcount == 1){
                             var pathTransition = d3.select("#" + x0).transition();
@@ -363,7 +363,7 @@ function WordCloud(state){
                            if(x1 == hotel_id){
                                 x1 = x3;
                                 x3 = 0;
-                                showNewWords(x1, curWordCloud, curYear, 245, 255); 
+                                showNewWords(x1, curWordCloud, curYear, 245, 255);
                                 var pathTransition = d3.select("#" + x1).transition();
                                 pathTransition.attr("transform", pos1).duration(1000);
                                 myWordCloud1 = myWordCloud3;
@@ -374,7 +374,7 @@ function WordCloud(state){
                            else if(x2 == hotel_id){
                                 x2 = x3;
                                 x3 = 0;
-                                showNewWords(x2, curWordCloud, curYear, 245, 255); 
+                                showNewWords(x2, curWordCloud, curYear, 245, 255);
                                 var pathTransition = d3.select("#" + x2).transition();
                                 pathTransition.attr("transform", pos2).duration(1000);
                                 myWordCloud2 = myWordCloud3;
@@ -389,11 +389,11 @@ function WordCloud(state){
                         }
                         previousglobalcount = globalcount
                     }
-                    
+
                     else if(globalcount == 3){
                         if(previousglobalcount == 2){
                             myWordCloud3 = wordCloud('#wordCloudSVG', pos3, colors[color_index], hotel_id);
-                            showNewWords(hotel_id, myWordCloud3, curYear, 490, 145); 
+                            showNewWords(hotel_id, myWordCloud3, curYear, 490, 145);
                             curWordCloud = myWordCloud3;
                             x3 = hotel_id
                         }
@@ -405,7 +405,7 @@ function WordCloud(state){
                            if(x1 == hotel_id){
                                 x1 = x4
                                 x4 = 0
-                                showNewWords(x1, curWordCloud, curYear, 245, 255); 
+                                showNewWords(x1, curWordCloud, curYear, 245, 255);
                                 var pathTransition = d3.select("#" + x1).transition();
                                 pathTransition.attr("transform", pos1).duration(1000);
                                 curWordCloud = myWordCloud3;
@@ -415,7 +415,7 @@ function WordCloud(state){
                            else if(x2 == hotel_id){
                                 x2 = x4;
                                 x4 = 0;
-                                showNewWords(x2, curWordCloud, curYear, 245, 255); 
+                                showNewWords(x2, curWordCloud, curYear, 245, 255);
                                 var pathTransition = d3.select("#" + x2).transition();
                                 pathTransition.attr("transform", pos2).duration(1000);
                                 curWordCloud = myWordCloud3;
@@ -430,7 +430,7 @@ function WordCloud(state){
                                 myWordCloud3 = myWordCloud4;
                                 curWordCloud = myWordCloud3;
                                 myWordCloud4 = null;
-                           } 
+                           }
                            else{
                                 x4 = 0
                                 curWordCloud = myWordCloud3;
@@ -441,7 +441,7 @@ function WordCloud(state){
                     }
                     else if(globalcount == 4){
                         myWordCloud4 = wordCloud('#wordCloudSVG', pos4, colors[color_index], hotel_id);
-                        showNewWords(hotel_id, myWordCloud4, curYear, 490, 145); 
+                        showNewWords(hotel_id, myWordCloud4, curYear, 490, 145);
                         curWordCloud = myWordCloud4;
                         x4 = hotel_id;
                     }

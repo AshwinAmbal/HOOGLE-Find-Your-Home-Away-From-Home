@@ -5,7 +5,7 @@ https://bl.ocks.org/charlesdguthrie/11356441
 */
 
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-const years = ["2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012"]
+const years = ["2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012"]
 
 let delayTiming = 1500
 const MAX_TIME = 5000
