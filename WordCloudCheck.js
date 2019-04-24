@@ -52,7 +52,7 @@ function WordCloud(state){
                     var curYear = 2004
 
 
-                    d3.select("#b1").append("button")
+                    var b1 = d3.select("#b1").append("button")
                     .attr("class", "btn")
                     .attr("id", "button1")
                     .attr("type", "button")
@@ -61,7 +61,7 @@ function WordCloud(state){
                     .text(hotel_names[1])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[1]], 1)});
 
-                    d3.select("#b2").append("button")
+                    var b2 = d3.select("#b2").append("button")
                     .attr("class", "btn")
                     .attr("id", "button2")
                     .attr("type", "button")
@@ -70,7 +70,7 @@ function WordCloud(state){
                     .text(hotel_names[2])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[2]], 2)});
 
-                    d3.select("#b3").append("button")
+                    var b3 = d3.select("#b3").append("button")
                     .attr("class", "btn")
                     .attr("id", "button3")
                     .attr("type", "button")
@@ -79,7 +79,7 @@ function WordCloud(state){
                     .text(hotel_names[3])
                     .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[3]], 3)});
 
-                    d3.select("#b4").append("button")
+                    var b4 = d3.select("#b4").append("button")
                     .attr("class", "btn")
                     .attr("id", "button4")
                     .attr("type", "button")
@@ -88,7 +88,7 @@ function WordCloud(state){
                     .text(hotel_names[4])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[4]], 4)});
 
-                    d3.select("#b5").append("button")
+                    var b5 = d3.select("#b5").append("button")
                     .attr("class", "btn")
                     .attr("id", "button5")
                     .attr("type", "button")
@@ -97,7 +97,7 @@ function WordCloud(state){
                     .text(hotel_names[5])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[5]], 5)});
 
-                    d3.select("#b6").append("button")
+                    var b6 = d3.select("#b6").append("button")
                     .attr("class", "btn")
                     .attr("id", "button6")
                     .attr("type", "button")
@@ -106,7 +106,7 @@ function WordCloud(state){
                     .text(hotel_names[6])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[6]], 6)});
 
-                    d3.select("#b7").append("button")
+                    var b7 = d3.select("#b7").append("button")
                     .attr("class", "btn")
                     .attr("id", "button7")
                     .attr("type", "button")
@@ -115,7 +115,7 @@ function WordCloud(state){
                     .text(hotel_names[7])
                     .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[7]], 7)});
 
-                    d3.select("#b8").append("button")
+                    var b8 = d3.select("#b8").append("button")
                     .attr("class", "btn")
                     .attr("id", "button8")
                     .attr("type", "button")
@@ -124,7 +124,7 @@ function WordCloud(state){
                     .text(hotel_names[8])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[8]], 8)});
 
-                    d3.select("#b9").append("button")
+                    var b9 = d3.select("#b9").append("button")
                     .attr("class", "btn")
                     .attr("id", "button9")
                     .attr("type", "button")
@@ -133,7 +133,7 @@ function WordCloud(state){
                     .text(hotel_names[9])
                     .on("click",function(){changeLayout(Processed_Hotel_Names[hotel_names[9]], 9)});
 
-                    d3.select("#b10").append("button")
+                    var b10 = d3.select("#b10").append("button")
                     .attr("class", "btn")
                     .attr("id", "button10")
                     .attr("type", "button")
@@ -168,16 +168,22 @@ function WordCloud(state){
 
 
                     function changeLayout(hotel_name, index){
-                        color_index = colorchange("button" + index);
-                        if( flag[index] == 0){
-                            layout(++global, hotel_name, color_index);
-                            flag[index] = 1;
-                            drawRadar(hotel_name, curYear, 1, color_index);
-                        }
-                        else {
-                            layout(--global, hotel_name, color_index);
-                            flag[index] = 0;
-                            drawRadar(hotel_name, curYear, 0, color_index);
+                        if(global > 4)
+                            global = previousglobalcount = 4
+                        else if(global < 0)
+                            global = previousglobalcount = 0
+                        else{
+                            color_index = colorchange("button" + index);
+                            if( flag[index] == 0){
+                                layout(++global, hotel_name, color_index);
+                                flag[index] = 1;
+                                drawRadar(hotel_name, curYear, 1, color_index);
+                            }
+                            else {
+                                layout(--global, hotel_name, color_index);
+                                flag[index] = 0;
+                                drawRadar(hotel_name, curYear, 0, color_index);
+                            }
                         }
                     }
 
@@ -332,6 +338,8 @@ function WordCloud(state){
                     }
 
                     else if(globalcount > 4){
+                        //console.log(globalcount);
+                        document.getElementById('#button1').disabled = true;
                         global = previousglobalcount
                     }
 
