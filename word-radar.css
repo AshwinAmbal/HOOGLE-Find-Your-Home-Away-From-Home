@@ -1,6 +1,6 @@
 .section-word {
   display: grid;
-  grid-template-rows: 20vh 1fr;
+  grid-template-rows: 25vh 1fr;
 }
 .hotel-nav {
   display: grid;
