@@ -168,23 +168,26 @@ function WordCloud(state){
 
 
                     function changeLayout(hotel_name, index){
-                        if(global > 4)
-                            global -= 1
-                        else if(global < 0)
-                            gloabl += 1
-                        else{
-                            color_index = colorchange("button" + index);
+                        console.log(global)
                             if( flag[index] == 0){
+                                if(global != 4){
+                                color_index = colorchange("button" + index);
                                 layout(++global, hotel_name, color_index);
                                 flag[index] = 1;
                                 drawRadar(hotel_name, curYear, 1, color_index);
+                                }
+                                else{
+                                    alert("Maximum Four Hotels Clickable!!! Please Un-Click and Retry...")
+                                }
                             }
                             else {
-                                layout(--global, hotel_name, color_index);
-                                flag[index] = 0;
-                                drawRadar(hotel_name, curYear, 0, color_index);
+                                if(global != 0){
+                                    color_index = colorchange("button" + index);
+                                    layout(--global, hotel_name, color_index);
+                                    flag[index] = 0;
+                                    drawRadar(hotel_name, curYear, 0, color_index);
+                                }
                             }
-                        }
                     }
 
                     function colorchange(id) {
@@ -334,11 +337,11 @@ function WordCloud(state){
 
                 function layout(globalcount, hotel, color_index){
                     if(globalcount < 0){
-                        global = previousglobalcount
+                        
                     }
 
                     else if(globalcount > 4){
-                        //console.log(globalcount);
+                        console.log(globalcount);
                         document.getElementById('#button1').disabled = true;
                         global = previousglobalcount
                     }
