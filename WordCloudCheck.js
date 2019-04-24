@@ -169,9 +169,9 @@ function WordCloud(state){
 
                     function changeLayout(hotel_name, index){
                         if(global > 4)
-                            global = previousglobalcount = 4
+                            global -= 1
                         else if(global < 0)
-                            global = previousglobalcount = 0
+                            gloabl += 1
                         else{
                             color_index = colorchange("button" + index);
                             if( flag[index] == 0){
