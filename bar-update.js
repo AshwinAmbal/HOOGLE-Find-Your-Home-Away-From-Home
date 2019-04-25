@@ -21,12 +21,6 @@ const yearElement = document.querySelector('#bar-chart-year');
 const stateElement = document.querySelector('#bar-chart-state');
 const monthElement = document.querySelector('#bar-chart-month');
 
-// Draw the chart
-//  chart.draw(getData());
-//  setInterval(function(){
-//    chart.draw(getData());
-//  }, 3000);	// every 3 seconds
-
 
 
 function HorizontalChart(id) {
