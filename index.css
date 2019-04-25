@@ -100,6 +100,11 @@ section {
 	margin-top: 3rem;
 }
 
+.website-subtitle {
+	font-size: 3rem;
+	text-transform: uppercase;
+}
+
 .website-sub {
 	font-size: 1.5rem;
 	font-weight: 100;
