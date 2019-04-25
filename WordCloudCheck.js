@@ -42,14 +42,14 @@ function WordCloud(state){
                     var myWordCloud3 = null;
                     var myWordCloud4 = null;
 
-                    var elements = [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012]
+                    //var elements = [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012]
                     var hotel_names = ['']
                     for(h in hotels) {
                         hotel_names.push(hotels[h]['Hotel Name']);
                     }
                     //console.log(hotel_names);
                     var radar_hotel = [];
-                    var curYear = 2004
+                    var curYear = 2005
 
 
                     var b1 = d3.select("#b1").append("button")
@@ -308,7 +308,7 @@ function WordCloud(state){
                 function showNewWords(hotel, vis, year, x, y) {
                     if(vis != null ){
                         year = year > 2012 ? 2012 : year;
-                        year = year < 2004 ? 2004 : year;
+                        year = year < 2005 ? 2005 : year;
                         vis.update(getWords(hotel, year), x, y);
                     }
                 }
