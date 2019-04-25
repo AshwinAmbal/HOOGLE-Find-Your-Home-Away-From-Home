@@ -239,7 +239,7 @@
 							scrollSmooth(scrollSectionHeight * 2)
 							drawChart(d.properties)
 							d3.selectAll('button').remove();
-							d3.selectAll('select').remove();
+							$("#slider").empty();
 							$("#wordCloudSVG").empty();
 							$("#radar-chart").empty();
 							WordCloud(d.properties['AB']);
