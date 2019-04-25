@@ -150,9 +150,9 @@
 
 
 		// Define linear scale for output
-		var color = d3.scale.linear().range(["rgb(230,197,192)", "rgb(212,139,131)", "rgb(194,97,90)", "rgb(181,69,65)","rgb(173,52,52)","rgb(208,228,231)"]);
+		var color = d3.scale.linear().range(["rgb(230,197,192)", "rgb(212,139,131)", "rgb(194,97,90)", "rgb(181,69,65)","rgb(173,52,52)"]);
 		
-		var legendText = ["19-20", "20-21", "21-22", "22-23","23-24" ,"Other States"];
+		var legendText = ["19-20", "20-21", "21-22", "22-23","23-24"];
 
 		var svg = d3.select("#heatmap_1")
 			.append("svg")
@@ -168,7 +168,7 @@
 
 		// Load in my states data!
 		d3.csv("stateslived1.csv", function (data) {
-			color.domain([0, 1, 2, 3, 4, 5]); // setting the range of the input data
+			color.domain([0, 1, 2, 3, 4]); // setting the range of the input data
 
 			// Load GeoJSON data and merge with states data
 			d3.json("us-states.json", function (json) {
