@@ -42,6 +42,7 @@ text.category{
   white-space: nowrap;
   vertical-align: baseline;
   border-radius: 0.25rem;
+  font: inherit;
 }
 
 .badge-common {
