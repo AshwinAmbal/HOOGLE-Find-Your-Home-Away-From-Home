@@ -13,6 +13,18 @@
 	<link rel="stylesheet" href="word-radar.css">
 	<link rel="stylesheet" href="radar.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<link rel="stylesheet" href="d3.slider.css" />  
+	<style>
+	.wrapper {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	.wrapper > div {
+	margin: 35px 0;
+	}
+	</style>
 </head>
 
 <body>
@@ -78,7 +90,9 @@
 				<div id="b9"></div>
 				<div id="b10"></div>
 
-				<div id="drop" style="position: absolute; right:50px; top: 200px; width: 250px; height: 50px;"></div>
+				<div class="wrapper">
+				<div id="slider" ></div>
+				</div>
 			</div>
 			<div class="hotel-heading">
 				Please select a hotel
@@ -284,6 +298,7 @@
 	<script src="WordCloudCheck.js"></script>
 	<script src="bar-update.js"></script>
 	<script src="radar.js"></script>
+	<script src="d3.slider.js"></script>
 </body>
 
 </html>

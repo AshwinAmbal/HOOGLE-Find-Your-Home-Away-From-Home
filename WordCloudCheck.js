@@ -142,7 +142,7 @@ function WordCloud(state){
                     .text(hotel_names[10])
                     .on("click", function(){changeLayout(Processed_Hotel_Names[hotel_names[10]], 10)});
 
-
+                    /*
                     var sel = d3.select("#drop").append("select")
                                 .attr("class", "custom-select")
                                 .style("background-color", "#e5f5f9")
@@ -166,6 +166,8 @@ function WordCloud(state){
                                 return d;
                               })
 
+                    */
+                    d3.select('#slider').call(d3.slider().axis(true).min(2005).max(2012).step(1).on("slide", function(evt, value){updateYear(value);}));
 
                     function changeLayout(hotel_name, index){
                         console.log(global)
