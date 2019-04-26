@@ -77,7 +77,7 @@
 	<section class=' hide section-word'>
 		<!-- Add the Radar and Word Cloud chart here -->
 		<div>
-
+			<div id='heading' class="chart-info__heading"></div>
 			<div class='hotel-nav'>
 				<div class='hotel-selection' >
 					<!-- hotel selection tab -->
@@ -101,7 +101,7 @@
 				<div id="slider" ></div>
 			</div>
 		</div>
-		<br>
+		<br><br><br><br>
 		<div class='hotel-charts'>
 			<div class='finalwordcloud'>
 				<svg  id='wordCloudSVG' class="word-cloud" width="490" height="600">
@@ -244,6 +244,7 @@
 							scrollSmooth(scrollSectionHeight * 2)
 							drawChart(d.properties)
 							d3.selectAll('button').remove();
+							d3.select('#heading').text("All Time Top 10 Best Hotels Of " + d.properties.NAME);
 							$("#slider").empty();
 							$("#wordCloudSVG").empty();
 							$("#radar-chart").empty();
