@@ -289,6 +289,14 @@ pause.addEventListener('click', () =>  {
   }
 })
 
+function togglePauseButton() {
+  if (Array.from(pause.classList).indexOf('active')) {
+    pause.classList.remove('fa-play-circle')
+    pause.classList.add('fa-pause-circle')
+    pause.classList.toggle('active')
+  }
+}
+
 forward.addEventListener('click', () => {
   chart.shouldStopLooping = true
   const currentMonth = months.indexOf(monthElement.innerText)
@@ -326,6 +334,7 @@ back.addEventListener('click', () => {
 async function drawChart({ AB: state, NAME }) {
   currentState = NAME
   chart.shouldStopLooping = true
+  togglePauseButton = togglePauseButton
   await d3.json(`data/${state}.json`, (err, d) => {
     if (err) {
       console.log(err)
@@ -336,5 +345,7 @@ async function drawChart({ AB: state, NAME }) {
     }, 1550);
   })
 }
+
+export { drawChart, togglePauseButton }
 
 export default drawChart
