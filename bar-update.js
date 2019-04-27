@@ -128,7 +128,7 @@ function HorizontalChart(id) {
       .attr("y", 0)
       .attr("x", this.categoryIndent + 10)
       .attr("opacity", 0)
-      .attr("width", 100)
+      .attr("width", 125)
       .attr("height", 100)
       .html(d => {
         const change = parseInt(d["Change"])
