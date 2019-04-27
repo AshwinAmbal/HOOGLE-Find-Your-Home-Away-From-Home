@@ -154,7 +154,7 @@
 		// Define linear scale for output
 		var color = d3.scale.linear().range(["rgb(230,197,192)", "rgb(212,139,131)", "rgb(194,97,90)", "rgb(181,69,65)","rgb(173,52,52)"]);
 
-		var legendText = ["19-20", "20-21", "21-22", "22-23","23-24"];
+		var legendText = ["1-7", "8-14", "15-21", "21-28","29-35"];
 
 		var svg = d3.select("#heatmap_1")
 			.append("svg")
@@ -272,21 +272,21 @@
 						// //If value exists…
 						// return color(value);
 						// }
-						if (value >= 19 && value < 20) {
+						if (value >= 0 && value <=7) {
 							//If value exists…
 							return "rgb(230,197,192)";
 						}
-						else if (value >= 20 && value < 21) {
+						else if (value >7 && value <=14) {
 							//If value exists…
 							return "rgb(212,139,131)";
 						}
-						else if (value >= 21 && value < 22) {
+						else if (value >14 && value <=21) {
 							//If value exists…
 							return "rgb(194,97,90)";
-						} else if (value >= 22 && value < 23) {
+						} else if (value >21 && value <=28) {
 							//If value exists…
 							return "rgb(181,69,65)";
-						}else if (value >= 23 && value < 24) {
+						}else if (value >28 && value <=35) {
 							//If value exists…
 							return "rgb(173,52,52)";
 						}
