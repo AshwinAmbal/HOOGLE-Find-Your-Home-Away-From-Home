@@ -30,14 +30,6 @@ div.tooltip
    font-weight: inherit;
 }
 
-.legend
-{
-	position:absolute;
-	left:850px;
-	top:350px;
-	transform: translate(-50px, 100px);
-}
-
 section {
   position: relative;
   height: 100vh;
@@ -194,4 +186,9 @@ h2 {
 	text-align: left;
 	padding: 1rem;
 	padding-left: 0;
+}
+
+
+#heatmap_1 {
+	position: relative;
 }

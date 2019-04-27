@@ -176,15 +176,20 @@
 			d3.json("us-states.json", function (json) {
 
 				// Loop through each state data value in the .csv file
-				var legend = d3.select("#heatmap_1").append("svg")
-					.attr("class", "legend")
+				var legendSVG = d3.select("#heatmap_1").append("svg").attr("class", "legend")
 					.attr("width", 150)
 					.attr("height", 120)
+
+				legendSVG.selectAll("h2")
+					.text('Overall Hotel Ranking')
+
+					var legend =  legendSVG
 					.selectAll("g")
 					.data(color.domain().slice())
 					.enter()
 					.append("g")
 					.attr("transform", function (d, i) { return "translate(5," + i * 20 + ")"; });
+
 
 				legend.append("rect")
 					.attr("width", 18)
