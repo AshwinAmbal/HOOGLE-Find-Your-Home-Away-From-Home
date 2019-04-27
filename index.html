@@ -69,6 +69,9 @@
 								<i class="fas fa-step-forward" id='forward'></i>
 								<i class="fas fa-fast-forward" id='fast-forward'></i>
 						</div>
+						<div class="arrow bounce align-center chart-scroll" id='arrow'>
+								<i class="fa fa-arrow-down fa-2x"></i>
+						</div>
 				</div>
 				<div id="chart"></div>
 			</div>
@@ -178,10 +181,7 @@
 				// Loop through each state data value in the .csv file
 				var legendSVG = d3.select("#heatmap_1").append("svg").attr("class", "legend")
 					.attr("width", 150)
-					.attr("height", 120)
-
-				legendSVG.selectAll("h2")
-					.text('Overall Hotel Ranking')
+					.attr("height", 140)
 
 					var legend =  legendSVG
 					.selectAll("g")
