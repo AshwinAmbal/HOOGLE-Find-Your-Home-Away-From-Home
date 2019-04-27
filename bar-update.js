@@ -200,10 +200,7 @@ function HorizontalChart(id) {
             <span>${d["Change"].slice(1)}</span>
           </div>`
         } else if(change === 0) {
-          return `<div>
-            <i class="space">0</i>
-            <span>${d["Change"]}</span>
-          </div>`
+          return ``
         }
         return `<div>
         <i class="fas fa-angle-double-up"></i>

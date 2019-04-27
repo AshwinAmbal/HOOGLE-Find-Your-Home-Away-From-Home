@@ -89,6 +89,7 @@ text.change {
   font-size:30px;
   font-weight:  bold;
   color:  white;
+  transition: all 0.3s cubic-bezier(0.62, 0.21, 0.7, 0.99);
   /* background-color:blue; */
 }
 

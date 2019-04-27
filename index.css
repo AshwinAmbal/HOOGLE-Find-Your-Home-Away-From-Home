@@ -63,7 +63,7 @@ section {
 	height: 4rem;
 }
 
-.arrow:hover {
+.section-title .arrow:hover {
 	color: #34495e;
 	background-color: white;
 	border-radius: 2rem;
