@@ -1,0 +1,1853 @@
+Year,Month,Hotel ID,Hotel Name,Total Rating,Overall Customers,Rank,Change
+2005,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,21.0,1,1,13
+2005,January,256897,Holiday Inn Express Detroit - Downtown,13.25,4,2,12
+2005,January,288605,Hilton Garden Inn Detroit Downtown,11.0,6,3,11
+2005,January,114661,Courtyard by Marriott Detroit Downtown,9.8,5,4,10
+2005,January,114654,Shorecrest Motor Inn,9.0,2,5,9
+2005,January,242702,Inn on Ferry Street,7.888888888888889,18,6,8
+2005,January,224064,Detroit Marriott at the Renaissance Center,6.642857142857143,14,7,7
+2005,January,90003,The Westin Detroit Metropolitan Airport,5.2,15,8,6
+2005,January,95294,The Atheneum,4.181818181818182,11,9,5
+2005,January,89999,St. Regis,4.090909090909091,11,10,4
+2005,January,94554,Marriott Detroit Airport,4.0,1,11,3
+2005,January,89995,Milner Hotel,2.0,2,12,2
+2005,January,89998,The Leland,1.7272727272727273,22,13,1
+2005,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,21.0,1,1,0
+2005,February,256897,Holiday Inn Express Detroit - Downtown,13.25,4,2,0
+2005,February,288605,Hilton Garden Inn Detroit Downtown,11.0,6,3,0
+2005,February,114661,Courtyard by Marriott Detroit Downtown,9.8,5,4,0
+2005,February,114654,Shorecrest Motor Inn,9.0,2,5,0
+2005,February,242702,Inn on Ferry Street,8.789473684210526,19,6,0
+2005,February,224064,Detroit Marriott at the Renaissance Center,6.642857142857143,14,7,0
+2005,February,90003,The Westin Detroit Metropolitan Airport,5.2,15,8,0
+2005,February,89999,St. Regis,4.090909090909091,11,9,1
+2005,February,94554,Marriott Detroit Airport,4.0,1,10,1
+2005,February,95294,The Atheneum,4.0,12,11,-2
+2005,February,89995,Milner Hotel,2.0,2,12,0
+2005,February,89998,The Leland,1.7272727272727273,22,13,0
+2005,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,21.0,1,1,0
+2005,March,256897,Holiday Inn Express Detroit - Downtown,13.25,4,2,0
+2005,March,288605,Hilton Garden Inn Detroit Downtown,13.0,7,3,0
+2005,March,114661,Courtyard by Marriott Detroit Downtown,9.8,5,4,0
+2005,March,242702,Inn on Ferry Street,9.6,20,5,1
+2005,March,114654,Shorecrest Motor Inn,9.0,2,6,-1
+2005,March,224064,Detroit Marriott at the Renaissance Center,7.533333333333333,15,7,0
+2005,March,90003,The Westin Detroit Metropolitan Airport,5.2,15,8,0
+2005,March,89999,St. Regis,4.090909090909091,11,9,0
+2005,March,94554,Marriott Detroit Airport,4.0,1,10,0
+2005,March,95294,The Atheneum,4.0,12,11,0
+2005,March,89995,Milner Hotel,2.0,2,12,0
+2005,March,89998,The Leland,1.9130434782608696,23,13,0
+2005,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,20.5,2,1,0
+2005,April,288605,Hilton Garden Inn Detroit Downtown,13.875,8,2,1
+2005,April,256897,Holiday Inn Express Detroit - Downtown,13.25,4,3,-1
+2005,April,242702,Inn on Ferry Street,10.333333333333334,21,4,1
+2005,April,114661,Courtyard by Marriott Detroit Downtown,9.8,5,5,-1
+2005,April,114654,Shorecrest Motor Inn,9.0,2,6,0
+2005,April,224064,Detroit Marriott at the Renaissance Center,7.533333333333333,15,7,0
+2005,April,89999,St. Regis,5.333333333333333,12,8,1
+2005,April,90003,The Westin Detroit Metropolitan Airport,5.2,15,9,-1
+2005,April,94554,Marriott Detroit Airport,4.0,1,10,0
+2005,April,95294,The Atheneum,4.0,12,11,0
+2005,April,89998,The Leland,2.0416666666666665,24,12,1
+2005,April,89995,Milner Hotel,2.0,2,13,-1
+2005,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,20.5,2,1,0
+2005,May,256897,Holiday Inn Express Detroit - Downtown,15.4,5,2,1
+2005,May,288605,Hilton Garden Inn Detroit Downtown,13.875,8,3,-1
+2005,May,242702,Inn on Ferry Street,11.0,22,4,0
+2005,May,114661,Courtyard by Marriott Detroit Downtown,9.8,5,5,0
+2005,May,114654,Shorecrest Motor Inn,9.0,2,6,0
+2005,May,224064,Detroit Marriott at the Renaissance Center,7.533333333333333,15,7,0
+2005,May,89999,St. Regis,6.846153846153846,13,8,0
+2005,May,90003,The Westin Detroit Metropolitan Airport,4.9375,16,9,0
+2005,May,94554,Marriott Detroit Airport,4.0,1,10,0
+2005,May,95294,The Atheneum,4.0,12,11,0
+2005,May,89998,The Leland,2.730769230769231,26,12,0
+2005,May,89995,Milner Hotel,2.0,2,13,0
+2005,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,20.5,2,1,0
+2005,June,256897,Holiday Inn Express Detroit - Downtown,15.666666666666666,6,2,0
+2005,June,288605,Hilton Garden Inn Detroit Downtown,13.875,8,3,0
+2005,June,242702,Inn on Ferry Street,11.0,22,4,0
+2005,June,114661,Courtyard by Marriott Detroit Downtown,9.8,5,5,0
+2005,June,114654,Shorecrest Motor Inn,9.0,2,6,0
+2005,June,224064,Detroit Marriott at the Renaissance Center,8.625,16,7,0
+2005,June,89999,St. Regis,7.5,14,8,0
+2005,June,95294,The Atheneum,7.333333333333333,15,9,2
+2005,June,90003,The Westin Detroit Metropolitan Airport,4.882352941176471,17,10,-1
+2005,June,94554,Marriott Detroit Airport,4.0,1,11,-1
+2005,June,89998,The Leland,2.814814814814815,27,12,0
+2005,June,89995,Milner Hotel,2.0,2,13,0
+2005,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,July,256897,Holiday Inn Express Detroit - Downtown,16.571428571428573,7,2,0
+2005,July,94554,Marriott Detroit Airport,13.5,2,3,8
+2005,July,288605,Hilton Garden Inn Detroit Downtown,11.8,10,4,-1
+2005,July,242702,Inn on Ferry Street,11.5,24,5,-1
+2005,July,114661,Courtyard by Marriott Detroit Downtown,9.8,5,6,-1
+2005,July,224064,Detroit Marriott at the Renaissance Center,9.4,20,7,0
+2005,July,114654,Shorecrest Motor Inn,9.0,2,8,-2
+2005,July,95294,The Atheneum,8.4375,16,9,0
+2005,July,89999,St. Regis,7.5,14,10,-2
+2005,July,90003,The Westin Detroit Metropolitan Airport,6.578947368421052,19,11,-1
+2005,July,89998,The Leland,2.9642857142857144,28,12,0
+2005,July,89995,Milner Hotel,1.6666666666666667,3,13,0
+2005,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,August,256897,Holiday Inn Express Detroit - Downtown,15.777777777777779,9,2,0
+2005,August,94554,Marriott Detroit Airport,13.5,2,3,0
+2005,August,114654,Shorecrest Motor Inn,12.666666666666666,3,4,4
+2005,August,242702,Inn on Ferry Street,11.5,24,5,0
+2005,August,114661,Courtyard by Marriott Detroit Downtown,11.333333333333334,6,6,0
+2005,August,288605,Hilton Garden Inn Detroit Downtown,11.0,12,7,-3
+2005,August,224064,Detroit Marriott at the Renaissance Center,9.4,20,8,-1
+2005,August,95294,The Atheneum,8.235294117647058,17,9,0
+2005,August,89999,St. Regis,7.5,14,10,0
+2005,August,90003,The Westin Detroit Metropolitan Airport,6.578947368421052,19,11,0
+2005,August,89998,The Leland,3.4482758620689653,29,12,0
+2005,August,89995,Milner Hotel,1.6666666666666667,3,13,0
+2005,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,September,94554,Marriott Detroit Airport,17.333333333333332,3,2,1
+2005,September,256897,Holiday Inn Express Detroit - Downtown,15.9,10,3,-1
+2005,September,114654,Shorecrest Motor Inn,12.666666666666666,3,4,0
+2005,September,242702,Inn on Ferry Street,11.5,24,5,0
+2005,September,114661,Courtyard by Marriott Detroit Downtown,11.333333333333334,6,6,0
+2005,September,288605,Hilton Garden Inn Detroit Downtown,11.0,12,7,0
+2005,September,224064,Detroit Marriott at the Renaissance Center,10.095238095238095,21,8,0
+2005,September,90003,The Westin Detroit Metropolitan Airport,8.590909090909092,22,9,2
+2005,September,95294,The Atheneum,8.235294117647058,17,10,-1
+2005,September,89999,St. Regis,7.5,14,11,-1
+2005,September,89998,The Leland,3.3666666666666667,30,12,0
+2005,September,89995,Milner Hotel,1.6666666666666667,3,13,0
+2005,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,October,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2005,October,256897,Holiday Inn Express Detroit - Downtown,15.9,10,3,0
+2005,October,114654,Shorecrest Motor Inn,12.666666666666666,3,4,0
+2005,October,114661,Courtyard by Marriott Detroit Downtown,12.285714285714286,7,5,1
+2005,October,288605,Hilton Garden Inn Detroit Downtown,12.076923076923077,13,6,1
+2005,October,242702,Inn on Ferry Street,11.88,25,7,-2
+2005,October,224064,Detroit Marriott at the Renaissance Center,10.318181818181818,22,8,0
+2005,October,90003,The Westin Detroit Metropolitan Airport,8.434782608695652,23,9,0
+2005,October,95294,The Atheneum,8.235294117647058,17,10,0
+2005,October,89999,St. Regis,7.5,14,11,0
+2005,October,89995,Milner Hotel,5.25,4,12,1
+2005,October,89998,The Leland,3.588235294117647,34,13,-1
+2005,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,November,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2005,November,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,3,0
+2005,November,288605,Hilton Garden Inn Detroit Downtown,12.857142857142858,14,4,2
+2005,November,114654,Shorecrest Motor Inn,12.666666666666666,3,5,-1
+2005,November,114661,Courtyard by Marriott Detroit Downtown,12.285714285714286,7,6,-1
+2005,November,242702,Inn on Ferry Street,11.88,25,7,0
+2005,November,224064,Detroit Marriott at the Renaissance Center,11.407407407407407,27,8,0
+2005,November,90003,The Westin Detroit Metropolitan Airport,8.434782608695652,23,9,0
+2005,November,95294,The Atheneum,8.235294117647058,17,10,0
+2005,November,89999,St. Regis,7.5,14,11,0
+2005,November,89995,Milner Hotel,5.4,5,12,0
+2005,November,89998,The Leland,3.789473684210526,38,13,0
+2005,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2005,December,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2005,December,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,3,0
+2005,December,114661,Courtyard by Marriott Detroit Downtown,13.0,8,4,2
+2005,December,288605,Hilton Garden Inn Detroit Downtown,12.857142857142858,14,5,-1
+2005,December,114654,Shorecrest Motor Inn,12.666666666666666,3,6,-1
+2005,December,224064,Detroit Marriott at the Renaissance Center,11.866666666666667,30,7,1
+2005,December,242702,Inn on Ferry Street,11.576923076923077,26,8,-1
+2005,December,90003,The Westin Detroit Metropolitan Airport,9.28,25,9,0
+2005,December,89995,Milner Hotel,8.333333333333334,6,10,2
+2005,December,95294,The Atheneum,8.235294117647058,17,11,-1
+2005,December,89999,St. Regis,7.5,14,12,-1
+2005,December,89998,The Leland,3.789473684210526,38,13,0
+2006,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2006,January,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2006,January,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,3,0
+2006,January,114661,Courtyard by Marriott Detroit Downtown,13.0,8,4,0
+2006,January,288605,Hilton Garden Inn Detroit Downtown,12.857142857142858,14,5,0
+2006,January,114654,Shorecrest Motor Inn,12.666666666666666,3,6,0
+2006,January,224064,Detroit Marriott at the Renaissance Center,12.28125,32,7,0
+2006,January,242702,Inn on Ferry Street,11.576923076923077,26,8,0
+2006,January,90003,The Westin Detroit Metropolitan Airport,9.884615384615385,26,9,0
+2006,January,89995,Milner Hotel,8.333333333333334,6,10,0
+2006,January,95294,The Atheneum,8.235294117647058,17,11,0
+2006,January,89999,St. Regis,7.5,14,12,0
+2006,January,89998,The Leland,3.717948717948718,39,13,0
+2006,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2006,February,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2006,February,114661,Courtyard by Marriott Detroit Downtown,15.727272727272727,11,3,1
+2006,February,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,4,-1
+2006,February,114654,Shorecrest Motor Inn,12.666666666666666,3,5,1
+2006,February,224064,Detroit Marriott at the Renaissance Center,12.454545454545455,33,6,1
+2006,February,288605,Hilton Garden Inn Detroit Downtown,12.2,15,7,-2
+2006,February,242702,Inn on Ferry Street,11.576923076923077,26,8,0
+2006,February,90003,The Westin Detroit Metropolitan Airport,10.444444444444445,27,9,0
+2006,February,95294,The Atheneum,9.11111111111111,18,10,1
+2006,February,89995,Milner Hotel,8.333333333333334,6,11,-1
+2006,February,89999,St. Regis,7.5,14,12,0
+2006,February,89998,The Leland,3.717948717948718,39,13,0
+2006,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2006,March,94554,Marriott Detroit Airport,17.333333333333332,3,2,0
+2006,March,114661,Courtyard by Marriott Detroit Downtown,15.727272727272727,11,3,0
+2006,March,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,4,0
+2006,March,288605,Hilton Garden Inn Detroit Downtown,13.0,16,5,2
+2006,March,224064,Detroit Marriott at the Renaissance Center,12.764705882352942,34,6,0
+2006,March,114654,Shorecrest Motor Inn,12.666666666666666,3,7,-2
+2006,March,242702,Inn on Ferry Street,12.214285714285714,28,8,0
+2006,March,90003,The Westin Detroit Metropolitan Airport,11.379310344827585,29,9,0
+2006,March,95294,The Atheneum,9.11111111111111,18,10,0
+2006,March,89995,Milner Hotel,8.142857142857142,7,11,0
+2006,March,89999,St. Regis,7.5,14,12,0
+2006,March,89998,The Leland,3.717948717948718,39,13,0
+2006,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2006,April,94554,Marriott Detroit Airport,19.25,4,2,0
+2006,April,114661,Courtyard by Marriott Detroit Downtown,15.727272727272727,11,3,0
+2006,April,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,4,0
+2006,April,288605,Hilton Garden Inn Detroit Downtown,13.470588235294118,17,5,0
+2006,April,114654,Shorecrest Motor Inn,12.666666666666666,3,6,1
+2006,April,224064,Detroit Marriott at the Renaissance Center,12.514285714285714,35,7,-1
+2006,April,242702,Inn on Ferry Street,11.827586206896552,29,8,0
+2006,April,90003,The Westin Detroit Metropolitan Airport,11.774193548387096,31,9,0
+2006,April,95294,The Atheneum,9.11111111111111,18,10,0
+2006,April,89995,Milner Hotel,7.75,8,11,0
+2006,April,89999,St. Regis,7.5,14,12,0
+2006,April,89998,The Leland,3.682926829268293,41,13,0
+2006,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,19.666666666666668,3,1,0
+2006,May,94554,Marriott Detroit Airport,19.6,5,2,0
+2006,May,114661,Courtyard by Marriott Detroit Downtown,16.333333333333332,12,3,0
+2006,May,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,4,0
+2006,May,288605,Hilton Garden Inn Detroit Downtown,13.470588235294118,17,5,0
+2006,May,114654,Shorecrest Motor Inn,12.666666666666666,3,6,0
+2006,May,224064,Detroit Marriott at the Renaissance Center,12.514285714285714,35,7,0
+2006,May,90003,The Westin Detroit Metropolitan Airport,11.774193548387096,31,8,1
+2006,May,242702,Inn on Ferry Street,11.6,30,9,-1
+2006,May,95294,The Atheneum,9.11111111111111,18,10,0
+2006,May,89995,Milner Hotel,7.75,8,11,0
+2006,May,89999,St. Regis,7.5,14,12,0
+2006,May,89998,The Leland,3.682926829268293,41,13,0
+2006,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,21.0,4,1,0
+2006,June,94554,Marriott Detroit Airport,19.6,5,2,0
+2006,June,114661,Courtyard by Marriott Detroit Downtown,16.333333333333332,12,3,0
+2006,June,256897,Holiday Inn Express Detroit - Downtown,14.818181818181818,11,4,0
+2006,June,288605,Hilton Garden Inn Detroit Downtown,13.470588235294118,17,5,0
+2006,June,90003,The Westin Detroit Metropolitan Airport,12.764705882352942,34,6,2
+2006,June,114654,Shorecrest Motor Inn,12.666666666666666,3,7,-1
+2006,June,224064,Detroit Marriott at the Renaissance Center,12.277777777777779,36,8,-1
+2006,June,242702,Inn on Ferry Street,11.6,30,9,0
+2006,June,95294,The Atheneum,9.4,20,10,0
+2006,June,89995,Milner Hotel,7.75,8,11,0
+2006,June,89999,St. Regis,7.5,14,12,0
+2006,June,89998,The Leland,3.682926829268293,41,13,0
+2006,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,21.0,4,1,0
+2006,July,94554,Marriott Detroit Airport,19.6,5,2,0
+2006,July,114661,Courtyard by Marriott Detroit Downtown,16.333333333333332,12,3,0
+2006,July,256897,Holiday Inn Express Detroit - Downtown,15.76923076923077,13,4,0
+2006,July,224064,Detroit Marriott at the Renaissance Center,12.923076923076923,39,5,3
+2006,July,114654,Shorecrest Motor Inn,12.666666666666666,3,6,1
+2006,July,288605,Hilton Garden Inn Detroit Downtown,12.578947368421053,19,7,-2
+2006,July,90003,The Westin Detroit Metropolitan Airport,12.542857142857143,35,8,-2
+2006,July,242702,Inn on Ferry Street,12.272727272727273,33,9,0
+2006,July,95294,The Atheneum,9.4,20,10,0
+2006,July,89999,St. Regis,7.5,14,11,1
+2006,July,89995,Milner Hotel,7.222222222222222,9,12,-1
+2006,July,605656,Corktown Inn,7.0,1,13,2
+2006,July,89998,The Leland,4.166666666666667,42,14,-1
+2006,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,22.8,5,1,0
+2006,August,94554,Marriott Detroit Airport,21.166666666666668,6,2,0
+2006,August,114661,Courtyard by Marriott Detroit Downtown,16.333333333333332,12,3,0
+2006,August,256897,Holiday Inn Express Detroit - Downtown,15.76923076923077,13,4,0
+2006,August,224064,Detroit Marriott at the Renaissance Center,13.075,40,5,0
+2006,August,90003,The Westin Detroit Metropolitan Airport,12.675675675675675,37,6,2
+2006,August,114654,Shorecrest Motor Inn,12.666666666666666,3,7,-1
+2006,August,242702,Inn on Ferry Street,12.63888888888889,36,8,1
+2006,August,288605,Hilton Garden Inn Detroit Downtown,12.15,20,9,-2
+2006,August,95294,The Atheneum,9.761904761904763,21,10,0
+2006,August,89999,St. Regis,7.5,14,11,0
+2006,August,89995,Milner Hotel,7.4,10,12,0
+2006,August,605656,Corktown Inn,7.0,1,13,0
+2006,August,89998,The Leland,4.166666666666667,42,14,0
+2006,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,22.8,5,1,0
+2006,September,94554,Marriott Detroit Airport,22.375,8,2,0
+2006,September,530320,Viking Motel,20.0,1,3,13
+2006,September,114661,Courtyard by Marriott Detroit Downtown,16.615384615384617,13,4,-1
+2006,September,256897,Holiday Inn Express Detroit - Downtown,16.428571428571427,14,5,-1
+2006,September,90003,The Westin Detroit Metropolitan Airport,12.921052631578947,38,6,0
+2006,September,224064,Detroit Marriott at the Renaissance Center,12.714285714285714,42,7,-2
+2006,September,114654,Shorecrest Motor Inn,12.666666666666666,3,8,-1
+2006,September,242702,Inn on Ferry Street,12.63888888888889,36,9,-1
+2006,September,288605,Hilton Garden Inn Detroit Downtown,12.15,20,10,-1
+2006,September,95294,The Atheneum,9.761904761904763,21,11,-1
+2006,September,89999,St. Regis,7.5,14,12,-1
+2006,September,89995,Milner Hotel,7.4,10,13,-1
+2006,September,605656,Corktown Inn,7.0,1,14,-1
+2006,September,89998,The Leland,4.604651162790698,43,15,-1
+2006,October,94554,Marriott Detroit Airport,23.0,9,1,1
+2006,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,22.8,5,2,-1
+2006,October,530320,Viking Motel,20.0,1,3,0
+2006,October,256897,Holiday Inn Express Detroit - Downtown,16.8,15,4,1
+2006,October,114661,Courtyard by Marriott Detroit Downtown,16.615384615384617,13,5,-1
+2006,October,90003,The Westin Detroit Metropolitan Airport,13.282051282051283,39,6,0
+2006,October,224064,Detroit Marriott at the Renaissance Center,13.222222222222221,45,7,0
+2006,October,242702,Inn on Ferry Street,13.105263157894736,38,8,1
+2006,October,114654,Shorecrest Motor Inn,12.666666666666666,3,9,-1
+2006,October,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,10,0
+2006,October,95294,The Atheneum,12.125,24,11,0
+2006,October,89999,St. Regis,7.5,14,12,0
+2006,October,89995,Milner Hotel,7.4,10,13,0
+2006,October,605656,Corktown Inn,7.0,1,14,0
+2006,October,89998,The Leland,4.604651162790698,43,15,0
+2006,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.333333333333332,6,1,1
+2006,November,94554,Marriott Detroit Airport,23.0,9,2,-1
+2006,November,256897,Holiday Inn Express Detroit - Downtown,16.8,15,3,1
+2006,November,114661,Courtyard by Marriott Detroit Downtown,16.615384615384617,13,4,1
+2006,November,224064,Detroit Marriott at the Renaissance Center,13.638297872340425,47,5,2
+2006,November,242702,Inn on Ferry Street,13.538461538461538,39,6,2
+2006,November,90003,The Westin Detroit Metropolitan Airport,13.35,40,7,-1
+2006,November,114654,Shorecrest Motor Inn,12.666666666666666,3,8,1
+2006,November,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,9,1
+2006,November,95294,The Atheneum,12.125,24,10,1
+2006,November,530320,Viking Motel,10.5,2,11,-8
+2006,November,89995,Milner Hotel,10.0,12,12,1
+2006,November,89999,St. Regis,7.5,14,13,-1
+2006,November,605656,Corktown Inn,7.0,1,14,0
+2006,November,89998,The Leland,4.777777777777778,45,15,0
+2006,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.333333333333332,6,1,0
+2006,December,94554,Marriott Detroit Airport,23.0,9,2,0
+2006,December,256897,Holiday Inn Express Detroit - Downtown,17.235294117647058,17,3,0
+2006,December,114661,Courtyard by Marriott Detroit Downtown,16.615384615384617,13,4,0
+2006,December,224064,Detroit Marriott at the Renaissance Center,13.638297872340425,47,5,0
+2006,December,242702,Inn on Ferry Street,13.538461538461538,39,6,0
+2006,December,90003,The Westin Detroit Metropolitan Airport,13.5,42,7,0
+2006,December,114654,Shorecrest Motor Inn,12.666666666666666,3,8,0
+2006,December,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,9,0
+2006,December,95294,The Atheneum,12.125,24,10,0
+2006,December,530320,Viking Motel,10.5,2,11,0
+2006,December,89995,Milner Hotel,10.0,12,12,0
+2006,December,89999,St. Regis,7.5,14,13,0
+2006,December,605656,Corktown Inn,7.0,1,14,0
+2006,December,89998,The Leland,4.777777777777778,45,15,0
+2007,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.25,8,1,0
+2007,January,94554,Marriott Detroit Airport,21.363636363636363,11,2,0
+2007,January,114661,Courtyard by Marriott Detroit Downtown,17.285714285714285,14,3,1
+2007,January,256897,Holiday Inn Express Detroit - Downtown,17.235294117647058,17,4,-1
+2007,January,224064,Detroit Marriott at the Renaissance Center,14.142857142857142,49,5,0
+2007,January,242702,Inn on Ferry Street,13.95,40,6,0
+2007,January,90003,The Westin Detroit Metropolitan Airport,13.767441860465116,43,7,0
+2007,January,114654,Shorecrest Motor Inn,12.666666666666666,3,8,0
+2007,January,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,9,0
+2007,January,95294,The Atheneum,12.32,25,10,0
+2007,January,89995,Milner Hotel,9.307692307692308,13,11,1
+2007,January,530320,Viking Motel,8.25,4,12,-1
+2007,January,89999,St. Regis,7.5,14,13,0
+2007,January,605656,Corktown Inn,7.0,1,14,0
+2007,January,89998,The Leland,4.777777777777778,45,15,0
+2007,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.25,8,1,0
+2007,February,94554,Marriott Detroit Airport,21.363636363636363,11,2,0
+2007,February,256897,Holiday Inn Express Detroit - Downtown,17.235294117647058,17,3,1
+2007,February,114661,Courtyard by Marriott Detroit Downtown,16.4,15,4,-1
+2007,February,114654,Shorecrest Motor Inn,14.5,4,5,3
+2007,February,224064,Detroit Marriott at the Renaissance Center,14.142857142857142,49,6,-1
+2007,February,90003,The Westin Detroit Metropolitan Airport,14.0,47,7,0
+2007,February,242702,Inn on Ferry Street,13.95,40,8,-2
+2007,February,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,9,0
+2007,February,95294,The Atheneum,12.32,25,10,0
+2007,February,89995,Milner Hotel,9.307692307692308,13,11,0
+2007,February,530320,Viking Motel,8.25,4,12,0
+2007,February,89999,St. Regis,7.5,14,13,0
+2007,February,605656,Corktown Inn,7.0,1,14,0
+2007,February,89998,The Leland,5.276595744680851,47,15,0
+2007,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.77777777777778,9,1,0
+2007,March,94554,Marriott Detroit Airport,21.363636363636363,11,2,0
+2007,March,114661,Courtyard by Marriott Detroit Downtown,16.9375,16,3,1
+2007,March,256897,Holiday Inn Express Detroit - Downtown,16.666666666666668,18,4,-1
+2007,March,114654,Shorecrest Motor Inn,15.2,5,5,0
+2007,March,90003,The Westin Detroit Metropolitan Airport,14.0,47,6,1
+2007,March,242702,Inn on Ferry Street,13.95,40,7,1
+2007,March,224064,Detroit Marriott at the Renaissance Center,13.830188679245284,53,8,-2
+2007,March,95294,The Atheneum,13.333333333333334,27,9,1
+2007,March,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,10,-1
+2007,March,89995,Milner Hotel,9.642857142857142,14,11,0
+2007,March,530320,Viking Motel,8.25,4,12,0
+2007,March,89999,St. Regis,7.5,14,13,0
+2007,March,605656,Corktown Inn,7.0,1,14,0
+2007,March,89998,The Leland,5.729166666666667,48,15,0
+2007,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.9,10,1,0
+2007,April,94554,Marriott Detroit Airport,21.363636363636363,11,2,0
+2007,April,114661,Courtyard by Marriott Detroit Downtown,18.57894736842105,19,3,0
+2007,April,256897,Holiday Inn Express Detroit - Downtown,16.80952380952381,21,4,0
+2007,April,114654,Shorecrest Motor Inn,15.2,5,5,0
+2007,April,224064,Detroit Marriott at the Renaissance Center,14.661016949152541,59,6,2
+2007,April,90003,The Westin Detroit Metropolitan Airport,14.291666666666666,48,7,-1
+2007,April,242702,Inn on Ferry Street,14.195121951219512,41,8,-1
+2007,April,95294,The Atheneum,13.333333333333334,27,9,0
+2007,April,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,10,0
+2007,April,89995,Milner Hotel,9.642857142857142,14,11,0
+2007,April,530320,Viking Motel,7.8,5,12,0
+2007,April,89999,St. Regis,7.5,14,13,0
+2007,April,605656,Corktown Inn,7.0,1,14,0
+2007,April,89998,The Leland,6.0,49,15,0
+2007,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.0,13,1,0
+2007,May,94554,Marriott Detroit Airport,21.833333333333332,12,2,0
+2007,May,114661,Courtyard by Marriott Detroit Downtown,18.65,20,3,0
+2007,May,256897,Holiday Inn Express Detroit - Downtown,16.6,25,4,0
+2007,May,114654,Shorecrest Motor Inn,15.2,5,5,0
+2007,May,224064,Detroit Marriott at the Renaissance Center,14.903225806451612,62,6,0
+2007,May,242702,Inn on Ferry Street,14.837209302325581,43,7,1
+2007,May,90003,The Westin Detroit Metropolitan Airport,14.788461538461538,52,8,-1
+2007,May,95294,The Atheneum,13.333333333333334,27,9,0
+2007,May,288605,Hilton Garden Inn Detroit Downtown,12.523809523809524,21,10,0
+2007,May,89995,Milner Hotel,10.5,16,11,0
+2007,May,530320,Viking Motel,7.8,5,12,0
+2007,May,89999,St. Regis,7.5,14,13,0
+2007,May,605656,Corktown Inn,7.0,1,14,0
+2007,May,89998,The Leland,6.32,50,15,0
+2007,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.571428571428573,14,1,0
+2007,June,94554,Marriott Detroit Airport,21.833333333333332,12,2,0
+2007,June,114661,Courtyard by Marriott Detroit Downtown,18.65,20,3,0
+2007,June,256897,Holiday Inn Express Detroit - Downtown,16.46153846153846,26,4,0
+2007,June,114654,Shorecrest Motor Inn,15.2,5,5,0
+2007,June,242702,Inn on Ferry Street,15.181818181818182,44,6,1
+2007,June,224064,Detroit Marriott at the Renaissance Center,14.903225806451612,62,7,-1
+2007,June,90003,The Westin Detroit Metropolitan Airport,14.788461538461538,52,8,0
+2007,June,605656,Corktown Inn,14.5,2,9,5
+2007,June,95294,The Atheneum,13.333333333333334,27,10,-1
+2007,June,288605,Hilton Garden Inn Detroit Downtown,12.863636363636363,22,11,-1
+2007,June,89995,Milner Hotel,10.5,16,12,-1
+2007,June,89999,St. Regis,8.333333333333334,15,13,0
+2007,June,530320,Viking Motel,7.8,5,14,-2
+2007,June,89998,The Leland,6.352941176470588,51,15,0
+2007,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.0625,16,1,0
+2007,July,94554,Marriott Detroit Airport,22.307692307692307,13,2,0
+2007,July,114661,Courtyard by Marriott Detroit Downtown,18.65,20,3,0
+2007,July,256897,Holiday Inn Express Detroit - Downtown,16.392857142857142,28,4,0
+2007,July,242702,Inn on Ferry Street,15.804347826086957,46,5,1
+2007,July,114654,Shorecrest Motor Inn,15.2,5,6,-1
+2007,July,90003,The Westin Detroit Metropolitan Airport,15.075471698113208,53,7,1
+2007,July,224064,Detroit Marriott at the Renaissance Center,14.890625,64,8,-1
+2007,July,605656,Corktown Inn,14.5,2,9,0
+2007,July,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,10,1
+2007,July,95294,The Atheneum,12.892857142857142,28,11,-1
+2007,July,89995,Milner Hotel,10.941176470588236,17,12,0
+2007,July,89999,St. Regis,8.25,16,13,0
+2007,July,530320,Viking Motel,7.8,5,14,0
+2007,July,89998,The Leland,6.423076923076923,52,15,0
+2007,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.0625,16,1,0
+2007,August,94554,Marriott Detroit Airport,22.714285714285715,14,2,0
+2007,August,114661,Courtyard by Marriott Detroit Downtown,17.90909090909091,22,3,0
+2007,August,256897,Holiday Inn Express Detroit - Downtown,16.689655172413794,29,4,0
+2007,August,242702,Inn on Ferry Street,16.333333333333332,48,5,0
+2007,August,90003,The Westin Detroit Metropolitan Airport,15.571428571428571,56,6,1
+2007,August,114654,Shorecrest Motor Inn,15.2,5,7,-1
+2007,August,224064,Detroit Marriott at the Renaissance Center,14.938461538461539,65,8,0
+2007,August,605656,Corktown Inn,14.5,2,9,0
+2007,August,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,10,0
+2007,August,95294,The Atheneum,12.892857142857142,28,11,0
+2007,August,89995,Milner Hotel,11.5,18,12,0
+2007,August,89999,St. Regis,8.058823529411764,17,13,0
+2007,August,530320,Viking Motel,7.8,5,14,0
+2007,August,89998,The Leland,6.7407407407407405,54,15,0
+2007,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.235294117647058,17,1,0
+2007,September,94554,Marriott Detroit Airport,22.714285714285715,14,2,0
+2007,September,114661,Courtyard by Marriott Detroit Downtown,17.869565217391305,23,3,0
+2007,September,256897,Holiday Inn Express Detroit - Downtown,16.689655172413794,29,4,0
+2007,September,242702,Inn on Ferry Street,16.38,50,5,0
+2007,September,90003,The Westin Detroit Metropolitan Airport,16.05,60,6,0
+2007,September,114654,Shorecrest Motor Inn,15.2,5,7,0
+2007,September,224064,Detroit Marriott at the Renaissance Center,14.985074626865671,67,8,0
+2007,September,605656,Corktown Inn,14.5,2,9,0
+2007,September,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,10,0
+2007,September,89995,Milner Hotel,13.19047619047619,21,11,1
+2007,September,95294,The Atheneum,12.620689655172415,29,12,-1
+2007,September,89999,St. Regis,9.222222222222221,18,13,0
+2007,September,530320,Viking Motel,7.8,5,14,0
+2007,September,89998,The Leland,6.696428571428571,56,15,0
+2007,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.63157894736842,19,1,0
+2007,October,94554,Marriott Detroit Airport,22.714285714285715,14,2,0
+2007,October,674735,MGM Grand Detroit,19.5,2,3,14
+2007,October,114661,Courtyard by Marriott Detroit Downtown,18.375,24,4,-1
+2007,October,256897,Holiday Inn Express Detroit - Downtown,16.689655172413794,29,5,-1
+2007,October,242702,Inn on Ferry Street,16.557692307692307,52,6,-1
+2007,October,605656,Corktown Inn,16.333333333333332,3,7,2
+2007,October,90003,The Westin Detroit Metropolitan Airport,15.868852459016393,61,8,-2
+2007,October,224064,Detroit Marriott at the Renaissance Center,15.333333333333334,69,9,-1
+2007,October,114654,Shorecrest Motor Inn,15.2,5,10,-3
+2007,October,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,11,-1
+2007,October,95294,The Atheneum,12.620689655172415,29,12,0
+2007,October,89995,Milner Hotel,12.26086956521739,23,13,-2
+2007,October,89999,St. Regis,9.222222222222221,18,14,-1
+2007,October,530320,Viking Motel,7.8,5,15,-1
+2007,October,89998,The Leland,6.754385964912281,57,16,-1
+2007,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.63157894736842,19,1,0
+2007,November,94554,Marriott Detroit Airport,23.2,15,2,0
+2007,November,674735,MGM Grand Detroit,18.0,3,3,0
+2007,November,114661,Courtyard by Marriott Detroit Downtown,17.84,25,4,0
+2007,November,256897,Holiday Inn Express Detroit - Downtown,17.193548387096776,31,5,0
+2007,November,242702,Inn on Ferry Street,16.557692307692307,52,6,0
+2007,November,605656,Corktown Inn,16.333333333333332,3,7,0
+2007,November,90003,The Westin Detroit Metropolitan Airport,15.96774193548387,62,8,0
+2007,November,224064,Detroit Marriott at the Renaissance Center,15.5,70,9,0
+2007,November,114654,Shorecrest Motor Inn,15.2,5,10,0
+2007,November,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,11,0
+2007,November,95294,The Atheneum,13.258064516129032,31,12,0
+2007,November,89995,Milner Hotel,11.958333333333334,24,13,0
+2007,November,89999,St. Regis,9.222222222222221,18,14,0
+2007,November,530320,Viking Motel,7.8,5,15,0
+2007,November,89998,The Leland,6.75,60,16,0
+2007,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.5,20,1,0
+2007,December,94554,Marriott Detroit Airport,23.0,16,2,0
+2007,December,674735,MGM Grand Detroit,21.857142857142858,7,3,0
+2007,December,114661,Courtyard by Marriott Detroit Downtown,18.0,26,4,0
+2007,December,256897,Holiday Inn Express Detroit - Downtown,17.193548387096776,31,5,0
+2007,December,242702,Inn on Ferry Street,16.87037037037037,54,6,0
+2007,December,90003,The Westin Detroit Metropolitan Airport,16.34375,64,7,1
+2007,December,605656,Corktown Inn,16.333333333333332,3,8,-1
+2007,December,224064,Detroit Marriott at the Renaissance Center,15.61111111111111,72,9,0
+2007,December,114654,Shorecrest Motor Inn,15.2,5,10,0
+2007,December,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,11,0
+2007,December,95294,The Atheneum,13.258064516129032,31,12,0
+2007,December,89995,Milner Hotel,11.958333333333334,24,13,0
+2007,December,89999,St. Regis,9.263157894736842,19,14,0
+2007,December,530320,Viking Motel,7.8,5,15,0
+2007,December,89998,The Leland,6.75,60,16,0
+2008,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.61904761904762,21,1,0
+2008,January,94554,Marriott Detroit Airport,23.0,16,2,0
+2008,January,674735,MGM Grand Detroit,21.363636363636363,11,3,0
+2008,January,674740,MotorCity Casino Hotel,21.0,4,4,14
+2008,January,114661,Courtyard by Marriott Detroit Downtown,18.0,26,5,-1
+2008,January,242702,Inn on Ferry Street,17.220338983050848,59,6,0
+2008,January,256897,Holiday Inn Express Detroit - Downtown,17.193548387096776,31,7,-2
+2008,January,90003,The Westin Detroit Metropolitan Airport,16.696969696969695,66,8,-1
+2008,January,605656,Corktown Inn,16.333333333333332,3,9,-1
+2008,January,224064,Detroit Marriott at the Renaissance Center,15.923076923076923,78,10,-1
+2008,January,114654,Shorecrest Motor Inn,15.2,5,11,-1
+2008,January,95294,The Atheneum,13.53125,32,12,0
+2008,January,288605,Hilton Garden Inn Detroit Downtown,13.304347826086957,23,13,-2
+2008,January,89995,Milner Hotel,12.423076923076923,26,14,-1
+2008,January,89999,St. Regis,9.4,20,15,-1
+2008,January,530320,Viking Motel,7.8,5,16,-1
+2008,January,89998,The Leland,6.75,60,17,-1
+2008,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.434782608695652,23,1,0
+2008,February,94554,Marriott Detroit Airport,23.0,16,2,0
+2008,February,674735,MGM Grand Detroit,21.076923076923077,13,3,0
+2008,February,674740,MotorCity Casino Hotel,21.0,4,4,0
+2008,February,114661,Courtyard by Marriott Detroit Downtown,18.0,26,5,0
+2008,February,90003,The Westin Detroit Metropolitan Airport,17.271428571428572,70,6,2
+2008,February,256897,Holiday Inn Express Detroit - Downtown,17.242424242424242,33,7,0
+2008,February,242702,Inn on Ferry Street,17.016666666666666,60,8,-2
+2008,February,605656,Corktown Inn,16.333333333333332,3,9,0
+2008,February,224064,Detroit Marriott at the Renaissance Center,16.313253012048193,83,10,0
+2008,February,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,February,95294,The Atheneum,13.53125,32,12,0
+2008,February,288605,Hilton Garden Inn Detroit Downtown,13.04,25,13,0
+2008,February,89995,Milner Hotel,12.423076923076923,26,14,0
+2008,February,89999,St. Regis,10.0,21,15,0
+2008,February,530320,Viking Motel,7.8,5,16,0
+2008,February,89998,The Leland,6.75,60,17,0
+2008,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.791666666666668,24,1,0
+2008,March,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,March,674740,MotorCity Casino Hotel,20.8,5,3,1
+2008,March,674735,MGM Grand Detroit,19.157894736842106,19,4,-1
+2008,March,114661,Courtyard by Marriott Detroit Downtown,18.0,26,5,0
+2008,March,90003,The Westin Detroit Metropolitan Airport,17.450704225352112,71,6,0
+2008,March,256897,Holiday Inn Express Detroit - Downtown,17.242424242424242,33,7,0
+2008,March,242702,Inn on Ferry Street,17.0,62,8,0
+2008,March,224064,Detroit Marriott at the Renaissance Center,16.96629213483146,89,9,1
+2008,March,605656,Corktown Inn,16.333333333333332,3,10,-1
+2008,March,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,March,95294,The Atheneum,14.030303030303031,33,12,0
+2008,March,288605,Hilton Garden Inn Detroit Downtown,13.04,25,13,0
+2008,March,89995,Milner Hotel,12.423076923076923,26,14,0
+2008,March,89999,St. Regis,10.0,21,15,0
+2008,March,530320,Viking Motel,7.8,5,16,0
+2008,March,89998,The Leland,6.75,60,17,0
+2008,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.77777777777778,27,1,0
+2008,April,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,April,674740,MotorCity Casino Hotel,21.5,6,3,0
+2008,April,674735,MGM Grand Detroit,19.55,20,4,0
+2008,April,114661,Courtyard by Marriott Detroit Downtown,17.814814814814813,27,5,0
+2008,April,242702,Inn on Ferry Street,17.75,68,6,2
+2008,April,90003,The Westin Detroit Metropolitan Airport,17.450704225352112,71,7,-1
+2008,April,224064,Detroit Marriott at the Renaissance Center,17.27659574468085,94,8,1
+2008,April,256897,Holiday Inn Express Detroit - Downtown,16.97142857142857,35,9,-2
+2008,April,605656,Corktown Inn,16.333333333333332,3,10,0
+2008,April,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,April,95294,The Atheneum,14.030303030303031,33,12,0
+2008,April,288605,Hilton Garden Inn Detroit Downtown,13.04,25,13,0
+2008,April,89995,Milner Hotel,12.423076923076923,26,14,0
+2008,April,89999,St. Regis,10.0,21,15,0
+2008,April,530320,Viking Motel,7.8,5,16,0
+2008,April,89998,The Leland,7.016393442622951,61,17,0
+2008,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.035714285714285,28,1,0
+2008,May,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,May,674740,MotorCity Casino Hotel,21.5,6,3,0
+2008,May,674735,MGM Grand Detroit,20.347826086956523,23,4,0
+2008,May,114661,Courtyard by Marriott Detroit Downtown,18.310344827586206,29,5,0
+2008,May,242702,Inn on Ferry Street,17.75,68,6,0
+2008,May,224064,Detroit Marriott at the Renaissance Center,17.46938775510204,98,7,1
+2008,May,90003,The Westin Detroit Metropolitan Airport,17.450704225352112,71,8,-1
+2008,May,256897,Holiday Inn Express Detroit - Downtown,17.25,36,9,0
+2008,May,605656,Corktown Inn,16.333333333333332,3,10,0
+2008,May,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,May,95294,The Atheneum,14.030303030303031,33,12,0
+2008,May,288605,Hilton Garden Inn Detroit Downtown,12.692307692307692,26,13,0
+2008,May,89995,Milner Hotel,12.037037037037036,27,14,0
+2008,May,89999,St. Regis,10.454545454545455,22,15,0
+2008,May,530320,Viking Motel,7.285714285714286,7,16,0
+2008,May,89998,The Leland,7.274193548387097,62,17,0
+2008,May,95312,Stay Inn & Suites,7.0,1,18,1
+2008,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.20689655172414,29,1,0
+2008,June,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,June,674740,MotorCity Casino Hotel,21.5,6,3,0
+2008,June,674735,MGM Grand Detroit,20.88,25,4,0
+2008,June,114661,Courtyard by Marriott Detroit Downtown,18.516129032258064,31,5,0
+2008,June,242702,Inn on Ferry Street,18.09722222222222,72,6,0
+2008,June,224064,Detroit Marriott at the Renaissance Center,17.70873786407767,103,7,0
+2008,June,90003,The Westin Detroit Metropolitan Airport,17.450704225352112,71,8,0
+2008,June,256897,Holiday Inn Express Detroit - Downtown,17.027027027027028,37,9,0
+2008,June,605656,Corktown Inn,16.333333333333332,3,10,0
+2008,June,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,June,95294,The Atheneum,14.8,35,12,0
+2008,June,288605,Hilton Garden Inn Detroit Downtown,12.692307692307692,26,13,0
+2008,June,89995,Milner Hotel,11.758620689655173,29,14,0
+2008,June,89999,St. Regis,10.521739130434783,23,15,0
+2008,June,89998,The Leland,7.396825396825397,63,16,1
+2008,June,530320,Viking Motel,7.0,9,17,-1
+2008,June,95312,Stay Inn & Suites,7.0,1,18,0
+2008,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.20689655172414,29,1,0
+2008,July,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,July,674740,MotorCity Casino Hotel,22.0,7,3,0
+2008,July,674735,MGM Grand Detroit,21.103448275862068,29,4,0
+2008,July,114661,Courtyard by Marriott Detroit Downtown,18.516129032258064,31,5,0
+2008,July,242702,Inn on Ferry Street,18.09722222222222,72,6,0
+2008,July,224064,Detroit Marriott at the Renaissance Center,17.742857142857144,105,7,0
+2008,July,90003,The Westin Detroit Metropolitan Airport,17.72972972972973,74,8,0
+2008,July,256897,Holiday Inn Express Detroit - Downtown,17.256410256410255,39,9,0
+2008,July,605656,Corktown Inn,16.333333333333332,3,10,0
+2008,July,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,July,95294,The Atheneum,14.675675675675675,37,12,0
+2008,July,288605,Hilton Garden Inn Detroit Downtown,12.851851851851851,27,13,0
+2008,July,89995,Milner Hotel,12.290322580645162,31,14,0
+2008,July,89999,St. Regis,11.041666666666666,24,15,0
+2008,July,89998,The Leland,7.396825396825397,63,16,0
+2008,July,95312,Stay Inn & Suites,7.0,1,17,1
+2008,July,530320,Viking Motel,6.7,10,18,-1
+2008,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.225806451612904,31,1,0
+2008,August,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,August,674740,MotorCity Casino Hotel,22.125,8,3,0
+2008,August,674735,MGM Grand Detroit,21.542857142857144,35,4,0
+2008,August,114661,Courtyard by Marriott Detroit Downtown,18.516129032258064,31,5,0
+2008,August,242702,Inn on Ferry Street,18.09722222222222,72,6,0
+2008,August,224064,Detroit Marriott at the Renaissance Center,17.77358490566038,106,7,0
+2008,August,90003,The Westin Detroit Metropolitan Airport,17.706666666666667,75,8,0
+2008,August,256897,Holiday Inn Express Detroit - Downtown,17.317073170731707,41,9,0
+2008,August,605656,Corktown Inn,17.25,4,10,0
+2008,August,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,August,95294,The Atheneum,15.052631578947368,38,12,0
+2008,August,288605,Hilton Garden Inn Detroit Downtown,12.851851851851851,27,13,0
+2008,August,89995,Milner Hotel,12.5,32,14,0
+2008,August,89999,St. Regis,11.041666666666666,24,15,0
+2008,August,89998,The Leland,7.671875,64,16,0
+2008,August,530320,Viking Motel,6.7,10,17,1
+2008,August,95312,Stay Inn & Suites,4.0,2,18,-1
+2008,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.12121212121212,33,1,0
+2008,September,94554,Marriott Detroit Airport,23.0,17,2,0
+2008,September,674740,MotorCity Casino Hotel,22.125,8,3,0
+2008,September,674735,MGM Grand Detroit,21.94736842105263,38,4,0
+2008,September,114661,Courtyard by Marriott Detroit Downtown,18.545454545454547,33,5,0
+2008,September,242702,Inn on Ferry Street,17.95945945945946,74,6,0
+2008,September,224064,Detroit Marriott at the Renaissance Center,17.64814814814815,108,7,0
+2008,September,90003,The Westin Detroit Metropolitan Airport,17.363636363636363,77,8,0
+2008,September,256897,Holiday Inn Express Detroit - Downtown,17.317073170731707,41,9,0
+2008,September,605656,Corktown Inn,17.25,4,10,0
+2008,September,114654,Shorecrest Motor Inn,15.2,5,11,0
+2008,September,95294,The Atheneum,15.052631578947368,38,12,0
+2008,September,288605,Hilton Garden Inn Detroit Downtown,12.851851851851851,27,13,0
+2008,September,89995,Milner Hotel,12.484848484848484,33,14,0
+2008,September,89999,St. Regis,11.041666666666666,24,15,0
+2008,September,89998,The Leland,7.8307692307692305,65,16,0
+2008,September,530320,Viking Motel,6.7,10,17,0
+2008,September,95312,Stay Inn & Suites,4.0,2,18,0
+2008,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.885714285714286,35,1,0
+2008,October,782678,The Westin Book Cadillac Detroit,23.5,2,2,18
+2008,October,94554,Marriott Detroit Airport,23.0,17,3,-1
+2008,October,674735,MGM Grand Detroit,22.341463414634145,41,4,0
+2008,October,674740,MotorCity Casino Hotel,22.125,8,5,-2
+2008,October,114661,Courtyard by Marriott Detroit Downtown,18.852941176470587,34,6,-1
+2008,October,242702,Inn on Ferry Street,18.25,76,7,-1
+2008,October,256897,Holiday Inn Express Detroit - Downtown,17.837209302325583,43,8,1
+2008,October,90003,The Westin Detroit Metropolitan Airport,17.7375,80,9,-1
+2008,October,224064,Detroit Marriott at the Renaissance Center,17.724770642201836,109,10,-3
+2008,October,114654,Shorecrest Motor Inn,17.333333333333332,6,11,0
+2008,October,605656,Corktown Inn,17.25,4,12,-2
+2008,October,95294,The Atheneum,15.052631578947368,38,13,-1
+2008,October,288605,Hilton Garden Inn Detroit Downtown,12.851851851851851,27,14,-1
+2008,October,89995,Milner Hotel,12.5,34,15,-1
+2008,October,89999,St. Regis,11.041666666666666,24,16,-1
+2008,October,89998,The Leland,7.8307692307692305,65,17,-1
+2008,October,530320,Viking Motel,6.7,10,18,-1
+2008,October,95312,Stay Inn & Suites,4.0,2,19,-1
+2008,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.885714285714286,35,1,0
+2008,November,94554,Marriott Detroit Airport,23.263157894736842,19,2,1
+2008,November,782678,The Westin Book Cadillac Detroit,23.0,3,3,-1
+2008,November,674740,MotorCity Casino Hotel,22.88888888888889,9,4,1
+2008,November,674735,MGM Grand Detroit,22.476190476190474,42,5,-1
+2008,November,114661,Courtyard by Marriott Detroit Downtown,18.852941176470587,34,6,0
+2008,November,242702,Inn on Ferry Street,18.25,76,7,0
+2008,November,224064,Detroit Marriott at the Renaissance Center,17.866071428571427,112,8,2
+2008,November,90003,The Westin Detroit Metropolitan Airport,17.82716049382716,81,9,0
+2008,November,256897,Holiday Inn Express Detroit - Downtown,17.613636363636363,44,10,-2
+2008,November,114654,Shorecrest Motor Inn,17.333333333333332,6,11,0
+2008,November,605656,Corktown Inn,17.25,4,12,0
+2008,November,95294,The Atheneum,15.052631578947368,38,13,0
+2008,November,288605,Hilton Garden Inn Detroit Downtown,12.851851851851851,27,14,0
+2008,November,89995,Milner Hotel,12.5,34,15,0
+2008,November,89999,St. Regis,10.64,25,16,0
+2008,November,89998,The Leland,7.8307692307692305,65,17,0
+2008,November,530320,Viking Motel,6.7,10,18,0
+2008,November,95312,Stay Inn & Suites,4.0,2,19,0
+2008,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.885714285714286,35,1,0
+2008,December,674735,MGM Grand Detroit,22.795454545454547,44,2,3
+2008,December,94554,Marriott Detroit Airport,22.75,20,3,-1
+2008,December,674740,MotorCity Casino Hotel,22.0,11,4,0
+2008,December,114661,Courtyard by Marriott Detroit Downtown,19.17142857142857,35,5,1
+2008,December,242702,Inn on Ferry Street,18.25,76,6,1
+2008,December,782678,The Westin Book Cadillac Detroit,18.25,4,7,-4
+2008,December,90003,The Westin Detroit Metropolitan Airport,18.023809523809526,84,8,1
+2008,December,224064,Detroit Marriott at the Renaissance Center,18.008695652173913,115,9,-1
+2008,December,256897,Holiday Inn Express Detroit - Downtown,17.733333333333334,45,10,0
+2008,December,114654,Shorecrest Motor Inn,17.333333333333332,6,11,0
+2008,December,605656,Corktown Inn,17.25,4,12,0
+2008,December,95294,The Atheneum,15.052631578947368,38,13,0
+2008,December,288605,Hilton Garden Inn Detroit Downtown,13.0,28,14,0
+2008,December,89995,Milner Hotel,12.742857142857142,35,15,0
+2008,December,89999,St. Regis,10.64,25,16,0
+2008,December,89998,The Leland,7.909090909090909,66,17,0
+2008,December,530320,Viking Motel,6.7,10,18,0
+2008,December,95312,Stay Inn & Suites,4.0,2,19,0
+2009,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.289473684210527,38,1,0
+2009,January,674735,MGM Grand Detroit,23.081632653061224,49,2,0
+2009,January,94554,Marriott Detroit Airport,23.0,22,3,0
+2009,January,674740,MotorCity Casino Hotel,22.333333333333332,12,4,0
+2009,January,782678,The Westin Book Cadillac Detroit,22.22222222222222,9,5,2
+2009,January,114661,Courtyard by Marriott Detroit Downtown,19.17142857142857,35,6,-1
+2009,January,224064,Detroit Marriott at the Renaissance Center,18.35,120,7,2
+2009,January,242702,Inn on Ferry Street,18.25,76,8,-2
+2009,January,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,18.0,4,9,12
+2009,January,90003,The Westin Detroit Metropolitan Airport,17.920454545454547,88,10,-2
+2009,January,256897,Holiday Inn Express Detroit - Downtown,17.733333333333334,45,11,-1
+2009,January,114654,Shorecrest Motor Inn,17.333333333333332,6,12,-1
+2009,January,605656,Corktown Inn,15.8,5,13,-1
+2009,January,95294,The Atheneum,15.275,40,14,-1
+2009,January,288605,Hilton Garden Inn Detroit Downtown,13.67741935483871,31,15,-1
+2009,January,89995,Milner Hotel,12.742857142857142,35,16,-1
+2009,January,89999,St. Regis,10.64,25,17,-1
+2009,January,89998,The Leland,7.909090909090909,66,18,-1
+2009,January,530320,Viking Motel,6.7,10,19,-1
+2009,January,95312,Stay Inn & Suites,4.0,2,20,-1
+2009,February,674735,MGM Grand Detroit,23.2,50,1,1
+2009,February,94554,Marriott Detroit Airport,23.0,23,2,1
+2009,February,782678,The Westin Book Cadillac Detroit,22.833333333333332,12,3,2
+2009,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,22.794871794871796,39,4,-3
+2009,February,674740,MotorCity Casino Hotel,22.357142857142858,14,5,-1
+2009,February,1236680,Greektown Casino Hotel,20.0,3,6,16
+2009,February,114661,Courtyard by Marriott Detroit Downtown,19.17142857142857,35,7,-1
+2009,February,242702,Inn on Ferry Street,18.350649350649352,77,8,0
+2009,February,224064,Detroit Marriott at the Renaissance Center,18.221311475409838,122,9,-2
+2009,February,90003,The Westin Detroit Metropolitan Airport,18.0561797752809,89,10,0
+2009,February,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,18.0,4,11,-2
+2009,February,256897,Holiday Inn Express Detroit - Downtown,17.733333333333334,45,12,-1
+2009,February,114654,Shorecrest Motor Inn,17.333333333333332,6,13,-1
+2009,February,605656,Corktown Inn,15.8,5,14,-1
+2009,February,95294,The Atheneum,15.634146341463415,41,15,-1
+2009,February,288605,Hilton Garden Inn Detroit Downtown,13.67741935483871,31,16,-1
+2009,February,89995,Milner Hotel,12.45945945945946,37,17,-1
+2009,February,89999,St. Regis,10.64,25,18,-1
+2009,February,89998,The Leland,7.880597014925373,67,19,-1
+2009,February,530320,Viking Motel,6.636363636363637,11,20,-1
+2009,February,95312,Stay Inn & Suites,4.0,2,21,-1
+2009,March,782678,The Westin Book Cadillac Detroit,23.714285714285715,14,1,2
+2009,March,674735,MGM Grand Detroit,23.313725490196077,51,2,-1
+2009,March,94554,Marriott Detroit Airport,23.083333333333332,24,3,-1
+2009,March,674740,MotorCity Casino Hotel,22.8,15,4,1
+2009,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,22.75,40,5,-1
+2009,March,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,22.0,6,6,5
+2009,March,1236680,Greektown Casino Hotel,20.0,8,7,-1
+2009,March,114661,Courtyard by Marriott Detroit Downtown,19.17142857142857,35,8,-1
+2009,March,242702,Inn on Ferry Street,18.46153846153846,78,9,-1
+2009,March,224064,Detroit Marriott at the Renaissance Center,18.456,125,10,-1
+2009,March,90003,The Westin Detroit Metropolitan Airport,18.177777777777777,90,11,-1
+2009,March,256897,Holiday Inn Express Detroit - Downtown,17.733333333333334,45,12,0
+2009,March,114654,Shorecrest Motor Inn,17.333333333333332,6,13,0
+2009,March,95294,The Atheneum,16.162790697674417,43,14,1
+2009,March,605656,Corktown Inn,15.8,5,15,-1
+2009,March,288605,Hilton Garden Inn Detroit Downtown,13.67741935483871,31,16,0
+2009,March,89995,Milner Hotel,12.717948717948717,39,17,0
+2009,March,89999,St. Regis,10.64,25,18,0
+2009,March,89998,The Leland,7.926470588235294,68,19,0
+2009,March,530320,Viking Motel,6.636363636363637,11,20,0
+2009,March,95312,Stay Inn & Suites,3.0,3,21,0
+2009,April,782678,The Westin Book Cadillac Detroit,23.58823529411765,17,1,0
+2009,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.42222222222222,45,2,3
+2009,April,674735,MGM Grand Detroit,23.365384615384617,52,3,-1
+2009,April,94554,Marriott Detroit Airport,23.083333333333332,24,4,-1
+2009,April,674740,MotorCity Casino Hotel,22.8,15,5,-1
+2009,April,1236680,Greektown Casino Hotel,22.071428571428573,14,6,1
+2009,April,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,21.727272727272727,11,7,-1
+2009,April,114661,Courtyard by Marriott Detroit Downtown,19.513513513513512,37,8,0
+2009,April,242702,Inn on Ferry Street,18.60759493670886,79,9,0
+2009,April,224064,Detroit Marriott at the Renaissance Center,18.547619047619047,126,10,0
+2009,April,90003,The Westin Detroit Metropolitan Airport,18.27173913043478,92,11,0
+2009,April,256897,Holiday Inn Express Detroit - Downtown,17.733333333333334,45,12,0
+2009,April,114654,Shorecrest Motor Inn,17.333333333333332,6,13,0
+2009,April,95294,The Atheneum,16.34090909090909,44,14,0
+2009,April,288605,Hilton Garden Inn Detroit Downtown,13.67741935483871,31,15,1
+2009,April,605656,Corktown Inn,13.142857142857142,7,16,-1
+2009,April,89995,Milner Hotel,12.717948717948717,39,17,0
+2009,April,89999,St. Regis,11.571428571428571,28,18,0
+2009,April,89998,The Leland,7.898550724637682,69,19,0
+2009,April,530320,Viking Motel,6.636363636363637,11,20,0
+2009,April,95312,Stay Inn & Suites,3.0,3,21,0
+2009,May,782678,The Westin Book Cadillac Detroit,24.0,19,1,0
+2009,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,23.941176470588236,51,2,0
+2009,May,674735,MGM Grand Detroit,23.41509433962264,53,3,0
+2009,May,94554,Marriott Detroit Airport,23.083333333333332,24,4,0
+2009,May,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,22.846153846153847,13,5,2
+2009,May,674740,MotorCity Casino Hotel,22.8,15,6,-1
+2009,May,1236680,Greektown Casino Hotel,22.25,16,7,-1
+2009,May,114661,Courtyard by Marriott Detroit Downtown,19.68421052631579,38,8,0
+2009,May,242702,Inn on Ferry Street,18.876543209876544,81,9,0
+2009,May,90003,The Westin Detroit Metropolitan Airport,18.589473684210525,95,10,1
+2009,May,224064,Detroit Marriott at the Renaissance Center,18.446969696969695,132,11,-1
+2009,May,114654,Shorecrest Motor Inn,18.0,7,12,1
+2009,May,256897,Holiday Inn Express Detroit - Downtown,17.458333333333332,48,13,-1
+2009,May,95294,The Atheneum,16.533333333333335,45,14,0
+2009,May,288605,Hilton Garden Inn Detroit Downtown,14.676470588235293,34,15,0
+2009,May,605656,Corktown Inn,13.142857142857142,7,16,0
+2009,May,89995,Milner Hotel,13.05,40,17,0
+2009,May,89999,St. Regis,11.571428571428571,28,18,0
+2009,May,89998,The Leland,7.898550724637682,69,19,0
+2009,May,530320,Viking Motel,6.636363636363637,11,20,0
+2009,May,95312,Stay Inn & Suites,3.0,3,21,0
+2009,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.203703703703702,54,1,1
+2009,June,782678,The Westin Book Cadillac Detroit,23.818181818181817,22,2,-1
+2009,June,674735,MGM Grand Detroit,23.6,55,3,0
+2009,June,674740,MotorCity Casino Hotel,23.41176470588235,17,4,2
+2009,June,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.25,16,5,0
+2009,June,94554,Marriott Detroit Airport,23.16,25,6,-2
+2009,June,1236680,Greektown Casino Hotel,22.529411764705884,17,7,0
+2009,June,114661,Courtyard by Marriott Detroit Downtown,19.743589743589745,39,8,0
+2009,June,242702,Inn on Ferry Street,18.914634146341463,82,9,0
+2009,June,224064,Detroit Marriott at the Renaissance Center,18.63235294117647,136,10,1
+2009,June,90003,The Westin Detroit Metropolitan Airport,18.589473684210525,95,11,-1
+2009,June,114654,Shorecrest Motor Inn,18.0,8,12,0
+2009,June,256897,Holiday Inn Express Detroit - Downtown,17.448979591836736,49,13,0
+2009,June,95294,The Atheneum,16.73913043478261,46,14,0
+2009,June,288605,Hilton Garden Inn Detroit Downtown,15.25,36,15,0
+2009,June,89995,Milner Hotel,13.292682926829269,41,16,1
+2009,June,605656,Corktown Inn,13.142857142857142,7,17,-1
+2009,June,89999,St. Regis,12.137931034482758,29,18,0
+2009,June,89998,The Leland,7.898550724637682,69,19,0
+2009,June,530320,Viking Motel,6.636363636363637,11,20,0
+2009,June,95312,Stay Inn & Suites,4.857142857142857,7,21,0
+2009,July,782678,The Westin Book Cadillac Detroit,24.387096774193548,31,1,1
+2009,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.267857142857142,56,2,-1
+2009,July,674735,MGM Grand Detroit,23.696428571428573,56,3,0
+2009,July,674740,MotorCity Casino Hotel,23.555555555555557,18,4,0
+2009,July,1236680,Greektown Casino Hotel,23.285714285714285,21,5,2
+2009,July,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.1,20,6,-1
+2009,July,94554,Marriott Detroit Airport,22.555555555555557,27,7,-1
+2009,July,114661,Courtyard by Marriott Detroit Downtown,19.743589743589745,39,8,0
+2009,July,242702,Inn on Ferry Street,19.38372093023256,86,9,0
+2009,July,224064,Detroit Marriott at the Renaissance Center,18.832167832167833,143,10,0
+2009,July,90003,The Westin Detroit Metropolitan Airport,18.708333333333332,96,11,0
+2009,July,256897,Holiday Inn Express Detroit - Downtown,17.54,50,12,1
+2009,July,95294,The Atheneum,16.73913043478261,46,13,1
+2009,July,114654,Shorecrest Motor Inn,16.11111111111111,9,14,-2
+2009,July,288605,Hilton Garden Inn Detroit Downtown,15.621621621621621,37,15,0
+2009,July,605656,Corktown Inn,14.5,8,16,1
+2009,July,89995,Milner Hotel,13.69047619047619,42,17,-1
+2009,July,89999,St. Regis,12.137931034482758,29,18,0
+2009,July,89998,The Leland,7.898550724637682,69,19,0
+2009,July,530320,Viking Motel,6.583333333333333,12,20,0
+2009,July,95312,Stay Inn & Suites,4.857142857142857,7,21,0
+2009,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.557377049180328,61,1,1
+2009,August,782678,The Westin Book Cadillac Detroit,24.393939393939394,33,2,-1
+2009,August,674740,MotorCity Casino Hotel,23.842105263157894,19,3,1
+2009,August,674735,MGM Grand Detroit,23.36842105263158,57,4,-1
+2009,August,1236680,Greektown Casino Hotel,22.92,25,5,0
+2009,August,94554,Marriott Detroit Airport,22.821428571428573,28,6,1
+2009,August,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,22.791666666666668,24,7,-1
+2009,August,114661,Courtyard by Marriott Detroit Downtown,19.743589743589745,39,8,0
+2009,August,242702,Inn on Ferry Street,19.662921348314608,89,9,0
+2009,August,90003,The Westin Detroit Metropolitan Airport,18.97979797979798,99,10,1
+2009,August,224064,Detroit Marriott at the Renaissance Center,18.877551020408163,147,11,-1
+2009,August,256897,Holiday Inn Express Detroit - Downtown,17.647058823529413,51,12,0
+2009,August,95294,The Atheneum,17.3265306122449,49,13,0
+2009,August,114654,Shorecrest Motor Inn,16.5,10,14,0
+2009,August,288605,Hilton Garden Inn Detroit Downtown,16.146341463414632,41,15,0
+2009,August,89995,Milner Hotel,13.28888888888889,45,16,1
+2009,August,605656,Corktown Inn,13.222222222222221,9,17,-1
+2009,August,89999,St. Regis,12.548387096774194,31,18,0
+2009,August,89998,The Leland,7.898550724637682,69,19,0
+2009,August,95312,Stay Inn & Suites,7.625,8,20,1
+2009,August,530320,Viking Motel,6.583333333333333,12,21,-1
+2009,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.671875,64,1,0
+2009,September,782678,The Westin Book Cadillac Detroit,24.25,36,2,0
+2009,September,674740,MotorCity Casino Hotel,23.9,20,3,0
+2009,September,674735,MGM Grand Detroit,23.533333333333335,60,4,0
+2009,September,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.321428571428573,28,5,2
+2009,September,1236680,Greektown Casino Hotel,23.153846153846153,26,6,-1
+2009,September,94554,Marriott Detroit Airport,22.821428571428573,28,7,-1
+2009,September,242702,Inn on Ferry Street,19.77777777777778,90,8,1
+2009,September,114661,Courtyard by Marriott Detroit Downtown,19.743589743589745,39,9,-1
+2009,September,90003,The Westin Detroit Metropolitan Airport,19.254901960784313,102,10,0
+2009,September,224064,Detroit Marriott at the Renaissance Center,18.873333333333335,150,11,0
+2009,September,256897,Holiday Inn Express Detroit - Downtown,17.962962962962962,54,12,0
+2009,September,95294,The Atheneum,17.3265306122449,49,13,0
+2009,September,114654,Shorecrest Motor Inn,16.5,10,14,0
+2009,September,288605,Hilton Garden Inn Detroit Downtown,16.404761904761905,42,15,0
+2009,September,89995,Milner Hotel,13.478260869565217,46,16,0
+2009,September,605656,Corktown Inn,13.222222222222221,9,17,0
+2009,September,89999,St. Regis,12.548387096774194,31,18,0
+2009,September,95312,Stay Inn & Suites,8.8,10,19,1
+2009,September,89998,The Leland,7.898550724637682,69,20,-1
+2009,September,530320,Viking Motel,6.583333333333333,12,21,0
+2009,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.65671641791045,67,1,0
+2009,October,782678,The Westin Book Cadillac Detroit,24.609756097560975,41,2,0
+2009,October,674740,MotorCity Casino Hotel,24.142857142857142,21,3,0
+2009,October,674735,MGM Grand Detroit,23.38095238095238,63,4,0
+2009,October,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.375,32,5,0
+2009,October,1236680,Greektown Casino Hotel,23.06451612903226,31,6,0
+2009,October,94554,Marriott Detroit Airport,23.0,29,7,0
+2009,October,114661,Courtyard by Marriott Detroit Downtown,19.925,40,8,1
+2009,October,242702,Inn on Ferry Street,19.77777777777778,90,9,-1
+2009,October,90003,The Westin Detroit Metropolitan Airport,19.247619047619047,105,10,0
+2009,October,224064,Detroit Marriott at the Renaissance Center,18.883116883116884,154,11,0
+2009,October,256897,Holiday Inn Express Detroit - Downtown,18.267857142857142,56,12,0
+2009,October,95294,The Atheneum,17.3265306122449,49,13,0
+2009,October,288605,Hilton Garden Inn Detroit Downtown,16.72093023255814,43,14,1
+2009,October,114654,Shorecrest Motor Inn,16.181818181818183,11,15,-1
+2009,October,89995,Milner Hotel,13.791666666666666,48,16,0
+2009,October,605656,Corktown Inn,13.222222222222221,9,17,0
+2009,October,89999,St. Regis,12.909090909090908,33,18,0
+2009,October,95312,Stay Inn & Suites,8.545454545454545,11,19,0
+2009,October,89998,The Leland,7.915492957746479,71,20,0
+2009,October,530320,Viking Motel,6.583333333333333,12,21,0
+2009,November,782678,The Westin Book Cadillac Detroit,24.58139534883721,43,1,1
+2009,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.391304347826086,69,2,-1
+2009,November,1236680,Greektown Casino Hotel,23.81578947368421,38,3,3
+2009,November,94554,Marriott Detroit Airport,23.0,29,4,3
+2009,November,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,22.944444444444443,36,5,0
+2009,November,674735,MGM Grand Detroit,22.8,65,6,-2
+2009,November,674740,MotorCity Casino Hotel,22.291666666666668,24,7,-4
+2009,November,114661,Courtyard by Marriott Detroit Downtown,19.925,40,8,0
+2009,November,242702,Inn on Ferry Street,19.891304347826086,92,9,0
+2009,November,90003,The Westin Detroit Metropolitan Airport,19.339622641509433,106,10,0
+2009,November,224064,Detroit Marriott at the Renaissance Center,18.916129032258066,155,11,0
+2009,November,256897,Holiday Inn Express Detroit - Downtown,18.280701754385966,57,12,0
+2009,November,95294,The Atheneum,17.78846153846154,52,13,0
+2009,November,288605,Hilton Garden Inn Detroit Downtown,16.652173913043477,46,14,0
+2009,November,114654,Shorecrest Motor Inn,16.181818181818183,11,15,0
+2009,November,89995,Milner Hotel,14.061224489795919,49,16,0
+2009,November,605656,Corktown Inn,13.222222222222221,9,17,0
+2009,November,89999,St. Regis,12.891891891891891,37,18,0
+2009,November,95312,Stay Inn & Suites,8.545454545454545,11,19,0
+2009,November,89998,The Leland,7.915492957746479,71,20,0
+2009,November,530320,Viking Motel,6.583333333333333,12,21,0
+2009,December,782678,The Westin Book Cadillac Detroit,24.58139534883721,43,1,0
+2009,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.541666666666668,72,2,0
+2009,December,1236680,Greektown Casino Hotel,23.53488372093023,43,3,0
+2009,December,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.135135135135137,37,4,1
+2009,December,94554,Marriott Detroit Airport,22.70967741935484,31,5,-1
+2009,December,674735,MGM Grand Detroit,22.515151515151516,66,6,0
+2009,December,674740,MotorCity Casino Hotel,22.291666666666668,24,7,0
+2009,December,242702,Inn on Ferry Street,19.989247311827956,93,8,1
+2009,December,114661,Courtyard by Marriott Detroit Downtown,19.925,40,9,-1
+2009,December,90003,The Westin Detroit Metropolitan Airport,19.568807339449542,109,10,0
+2009,December,224064,Detroit Marriott at the Renaissance Center,18.872611464968152,157,11,0
+2009,December,256897,Holiday Inn Express Detroit - Downtown,18.448275862068964,58,12,0
+2009,December,95294,The Atheneum,18.0188679245283,53,13,0
+2009,December,95308,Detroit Regency Hotel,17.0,1,14,9
+2009,December,288605,Hilton Garden Inn Detroit Downtown,16.652173913043477,46,15,-1
+2009,December,114654,Shorecrest Motor Inn,16.181818181818183,11,16,-1
+2009,December,89995,Milner Hotel,14.08,50,17,-1
+2009,December,605656,Corktown Inn,13.222222222222221,9,18,-1
+2009,December,89999,St. Regis,12.891891891891891,37,19,-1
+2009,December,95312,Stay Inn & Suites,8.545454545454545,11,20,-1
+2009,December,89998,The Leland,7.915492957746479,71,21,-1
+2009,December,530320,Viking Motel,6.583333333333333,12,22,-1
+2010,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.460526315789473,76,1,1
+2010,January,782678,The Westin Book Cadillac Detroit,24.148936170212767,47,2,-1
+2010,January,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.236842105263158,38,3,1
+2010,January,1236680,Greektown Casino Hotel,23.18867924528302,53,4,-1
+2010,January,94554,Marriott Detroit Airport,22.70967741935484,31,5,0
+2010,January,674735,MGM Grand Detroit,22.66176470588235,68,6,0
+2010,January,674740,MotorCity Casino Hotel,22.6,25,7,0
+2010,January,114661,Courtyard by Marriott Detroit Downtown,20.285714285714285,42,8,1
+2010,January,242702,Inn on Ferry Street,20.04255319148936,94,9,-1
+2010,January,90003,The Westin Detroit Metropolitan Airport,19.527272727272727,110,10,0
+2010,January,224064,Detroit Marriott at the Renaissance Center,18.81875,160,11,0
+2010,January,256897,Holiday Inn Express Detroit - Downtown,18.448275862068964,58,12,0
+2010,January,95294,The Atheneum,17.625,56,13,0
+2010,January,95308,Detroit Regency Hotel,17.0,1,14,0
+2010,January,288605,Hilton Garden Inn Detroit Downtown,16.652173913043477,46,15,0
+2010,January,114654,Shorecrest Motor Inn,16.181818181818183,11,16,0
+2010,January,89995,Milner Hotel,14.03921568627451,51,17,0
+2010,January,605656,Corktown Inn,13.222222222222221,9,18,0
+2010,January,89999,St. Regis,13.166666666666666,42,19,0
+2010,January,95312,Stay Inn & Suites,8.545454545454545,11,20,0
+2010,January,89998,The Leland,7.875,72,21,0
+2010,January,530320,Viking Motel,6.583333333333333,12,22,0
+2010,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.9625,80,1,0
+2010,February,782678,The Westin Book Cadillac Detroit,24.3125,48,2,0
+2010,February,1236680,Greektown Casino Hotel,23.964912280701753,57,3,1
+2010,February,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.15,40,4,-1
+2010,February,94554,Marriott Detroit Airport,23.03125,32,5,0
+2010,February,674735,MGM Grand Detroit,22.840579710144926,69,6,0
+2010,February,674740,MotorCity Casino Hotel,22.73076923076923,26,7,0
+2010,February,114661,Courtyard by Marriott Detroit Downtown,20.431818181818183,44,8,0
+2010,February,242702,Inn on Ferry Street,20.123711340206185,97,9,0
+2010,February,90003,The Westin Detroit Metropolitan Airport,19.582608695652173,115,10,0
+2010,February,224064,Detroit Marriott at the Renaissance Center,18.803680981595093,163,11,0
+2010,February,256897,Holiday Inn Express Detroit - Downtown,18.71186440677966,59,12,0
+2010,February,95294,The Atheneum,17.67241379310345,58,13,0
+2010,February,288605,Hilton Garden Inn Detroit Downtown,17.02127659574468,47,14,1
+2010,February,95308,Detroit Regency Hotel,17.0,1,15,-1
+2010,February,114654,Shorecrest Motor Inn,16.181818181818183,11,16,0
+2010,February,89995,Milner Hotel,14.03921568627451,51,17,0
+2010,February,605656,Corktown Inn,13.222222222222221,9,18,0
+2010,February,89999,St. Regis,13.046511627906977,43,19,0
+2010,February,95312,Stay Inn & Suites,8.545454545454545,11,20,0
+2010,February,89998,The Leland,7.875,72,21,0
+2010,February,530320,Viking Motel,6.583333333333333,12,22,0
+2010,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,24.9625,80,1,0
+2010,March,782678,The Westin Book Cadillac Detroit,24.764705882352942,51,2,0
+2010,March,1236680,Greektown Casino Hotel,24.666666666666668,66,3,0
+2010,March,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.558139534883722,43,4,0
+2010,March,674735,MGM Grand Detroit,23.098591549295776,71,5,1
+2010,March,94554,Marriott Detroit Airport,23.03125,32,6,-1
+2010,March,674740,MotorCity Casino Hotel,22.73076923076923,26,7,0
+2010,March,114661,Courtyard by Marriott Detroit Downtown,20.622222222222224,45,8,0
+2010,March,242702,Inn on Ferry Street,20.224489795918366,98,9,0
+2010,March,90003,The Westin Detroit Metropolitan Airport,19.66949152542373,118,10,0
+2010,March,224064,Detroit Marriott at the Renaissance Center,19.047619047619047,168,11,0
+2010,March,256897,Holiday Inn Express Detroit - Downtown,18.866666666666667,60,12,0
+2010,March,95294,The Atheneum,17.93220338983051,59,13,0
+2010,March,288605,Hilton Garden Inn Detroit Downtown,17.571428571428573,49,14,0
+2010,March,95308,Detroit Regency Hotel,17.0,1,15,0
+2010,March,114654,Shorecrest Motor Inn,15.75,12,16,0
+2010,March,89995,Milner Hotel,14.03921568627451,51,17,0
+2010,March,605656,Corktown Inn,13.222222222222221,9,18,0
+2010,March,89999,St. Regis,13.046511627906977,43,19,0
+2010,March,1190550,Super 8 Motel Taylor,12.0,1,20,4
+2010,March,95312,Stay Inn & Suites,8.545454545454545,11,21,-1
+2010,March,89998,The Leland,7.864864864864865,74,22,-1
+2010,March,530320,Viking Motel,6.583333333333333,12,23,-1
+2010,April,1236680,Greektown Casino Hotel,25.723684210526315,76,1,2
+2010,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.511627906976745,86,2,-1
+2010,April,782678,The Westin Book Cadillac Detroit,25.410714285714285,56,3,-1
+2010,April,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.772727272727273,44,4,0
+2010,April,674735,MGM Grand Detroit,23.186666666666667,75,5,0
+2010,April,94554,Marriott Detroit Airport,23.03125,32,6,0
+2010,April,674740,MotorCity Casino Hotel,22.62962962962963,27,7,0
+2010,April,114661,Courtyard by Marriott Detroit Downtown,20.914893617021278,47,8,0
+2010,April,242702,Inn on Ferry Street,20.224489795918366,98,9,0
+2010,April,90003,The Westin Detroit Metropolitan Airport,20.15573770491803,122,10,0
+2010,April,224064,Detroit Marriott at the Renaissance Center,19.087719298245613,171,11,0
+2010,April,256897,Holiday Inn Express Detroit - Downtown,19.080645161290324,62,12,0
+2010,April,288605,Hilton Garden Inn Detroit Downtown,18.21153846153846,52,13,1
+2010,April,95294,The Atheneum,18.1,60,14,-1
+2010,April,95308,Detroit Regency Hotel,17.0,1,15,0
+2010,April,114654,Shorecrest Motor Inn,15.75,12,16,0
+2010,April,605656,Corktown Inn,14.4,10,17,1
+2010,April,89995,Milner Hotel,14.03921568627451,51,18,-1
+2010,April,89999,St. Regis,13.212765957446809,47,19,0
+2010,April,1190550,Super 8 Motel Taylor,12.0,1,20,0
+2010,April,95312,Stay Inn & Suites,8.545454545454545,11,21,0
+2010,April,89998,The Leland,7.864864864864865,74,22,0
+2010,April,530320,Viking Motel,6.583333333333333,12,23,0
+2010,May,1236680,Greektown Casino Hotel,26.558139534883722,86,1,0
+2010,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,25.815217391304348,92,2,0
+2010,May,782678,The Westin Book Cadillac Detroit,25.57894736842105,57,3,0
+2010,May,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.555555555555557,45,4,0
+2010,May,674735,MGM Grand Detroit,23.21794871794872,78,5,0
+2010,May,674740,MotorCity Casino Hotel,23.035714285714285,28,6,1
+2010,May,94554,Marriott Detroit Airport,23.03125,32,7,-1
+2010,May,114661,Courtyard by Marriott Detroit Downtown,20.914893617021278,47,8,0
+2010,May,90003,The Westin Detroit Metropolitan Airport,20.456,125,9,1
+2010,May,242702,Inn on Ferry Street,20.363636363636363,99,10,-1
+2010,May,256897,Holiday Inn Express Detroit - Downtown,19.3015873015873,63,11,1
+2010,May,224064,Detroit Marriott at the Renaissance Center,19.097701149425287,174,12,-1
+2010,May,95294,The Atheneum,18.37704918032787,61,13,1
+2010,May,288605,Hilton Garden Inn Detroit Downtown,18.21153846153846,52,14,-1
+2010,May,95308,Detroit Regency Hotel,17.0,1,15,0
+2010,May,114654,Shorecrest Motor Inn,15.75,12,16,0
+2010,May,605656,Corktown Inn,14.4,10,17,0
+2010,May,89995,Milner Hotel,14.03921568627451,51,18,0
+2010,May,89999,St. Regis,13.212765957446809,47,19,0
+2010,May,1190550,Super 8 Motel Taylor,12.0,1,20,0
+2010,May,95312,Stay Inn & Suites,8.545454545454545,11,21,0
+2010,May,89998,The Leland,7.864864864864865,74,22,0
+2010,May,530320,Viking Motel,6.583333333333333,12,23,0
+2010,June,1236680,Greektown Casino Hotel,26.8,90,1,0
+2010,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,26.15625,96,2,0
+2010,June,782678,The Westin Book Cadillac Detroit,25.661016949152543,59,3,0
+2010,June,674735,MGM Grand Detroit,23.604938271604937,81,4,1
+2010,June,94554,Marriott Detroit Airport,23.242424242424242,33,5,2
+2010,June,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.208333333333332,48,6,-2
+2010,June,674740,MotorCity Casino Hotel,21.766666666666666,30,7,-1
+2010,June,114661,Courtyard by Marriott Detroit Downtown,20.914893617021278,47,8,0
+2010,June,90003,The Westin Detroit Metropolitan Airport,20.6640625,128,9,0
+2010,June,242702,Inn on Ferry Street,20.363636363636363,99,10,0
+2010,June,224064,Detroit Marriott at the Renaissance Center,19.368715083798882,179,11,1
+2010,June,256897,Holiday Inn Express Detroit - Downtown,19.26153846153846,65,12,-1
+2010,June,95294,The Atheneum,18.612903225806452,62,13,0
+2010,June,288605,Hilton Garden Inn Detroit Downtown,18.21153846153846,52,14,0
+2010,June,95308,Detroit Regency Hotel,17.0,1,15,0
+2010,June,114654,Shorecrest Motor Inn,15.75,12,16,0
+2010,June,89995,Milner Hotel,14.03921568627451,51,17,1
+2010,June,605656,Corktown Inn,13.727272727272727,11,18,-1
+2010,June,89999,St. Regis,13.10204081632653,49,19,0
+2010,June,1190550,Super 8 Motel Taylor,12.0,1,20,0
+2010,June,95312,Stay Inn & Suites,8.545454545454545,11,21,0
+2010,June,89998,The Leland,7.864864864864865,74,22,0
+2010,June,530320,Viking Motel,6.583333333333333,12,23,0
+2010,July,1236680,Greektown Casino Hotel,26.847826086956523,92,1,0
+2010,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,26.261682242990656,107,2,0
+2010,July,782678,The Westin Book Cadillac Detroit,25.629032258064516,62,3,0
+2010,July,674735,MGM Grand Detroit,23.879518072289155,83,4,0
+2010,July,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,23.79245283018868,53,5,1
+2010,July,94554,Marriott Detroit Airport,23.242424242424242,33,6,-1
+2010,July,674740,MotorCity Casino Hotel,22.032258064516128,31,7,0
+2010,July,114661,Courtyard by Marriott Detroit Downtown,21.104166666666668,48,8,0
+2010,July,90003,The Westin Detroit Metropolitan Airport,20.916030534351144,131,9,0
+2010,July,242702,Inn on Ferry Street,20.51,100,10,0
+2010,July,224064,Detroit Marriott at the Renaissance Center,19.368715083798882,179,11,0
+2010,July,256897,Holiday Inn Express Detroit - Downtown,19.323529411764707,68,12,0
+2010,July,95294,The Atheneum,18.80952380952381,63,13,0
+2010,July,288605,Hilton Garden Inn Detroit Downtown,18.51851851851852,54,14,0
+2010,July,95308,Detroit Regency Hotel,17.0,1,15,0
+2010,July,114654,Shorecrest Motor Inn,16.53846153846154,13,16,0
+2010,July,89995,Milner Hotel,14.0,53,17,0
+2010,July,605656,Corktown Inn,13.727272727272727,11,18,0
+2010,July,89999,St. Regis,13.24,50,19,0
+2010,July,1190550,Super 8 Motel Taylor,12.0,1,20,0
+2010,July,95312,Stay Inn & Suites,8.545454545454545,11,21,0
+2010,July,89998,The Leland,8.053333333333333,75,22,0
+2010,July,530320,Viking Motel,6.583333333333333,12,23,0
+2010,August,1236680,Greektown Casino Hotel,27.018691588785046,107,1,0
+2010,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,26.511811023622048,127,2,0
+2010,August,782678,The Westin Book Cadillac Detroit,25.685714285714287,70,3,0
+2010,August,674735,MGM Grand Detroit,24.068181818181817,88,4,0
+2010,August,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.0,54,5,0
+2010,August,94554,Marriott Detroit Airport,23.72222222222222,36,6,0
+2010,August,674740,MotorCity Casino Hotel,22.032258064516128,31,7,0
+2010,August,114661,Courtyard by Marriott Detroit Downtown,21.306122448979593,49,8,0
+2010,August,90003,The Westin Detroit Metropolitan Airport,21.075187969924812,133,9,0
+2010,August,242702,Inn on Ferry Street,20.728155339805824,103,10,0
+2010,August,224064,Detroit Marriott at the Renaissance Center,19.553763440860216,186,11,0
+2010,August,95294,The Atheneum,19.439393939393938,66,12,1
+2010,August,256897,Holiday Inn Express Detroit - Downtown,19.246575342465754,73,13,-1
+2010,August,288605,Hilton Garden Inn Detroit Downtown,18.74137931034483,58,14,0
+2010,August,114654,Shorecrest Motor Inn,16.53846153846154,13,15,1
+2010,August,89995,Milner Hotel,13.981481481481481,54,16,1
+2010,August,605656,Corktown Inn,13.727272727272727,11,17,1
+2010,August,89999,St. Regis,13.538461538461538,52,18,1
+2010,August,1190550,Super 8 Motel Taylor,12.0,1,19,1
+2010,August,95308,Detroit Regency Hotel,9.5,2,20,-5
+2010,August,95312,Stay Inn & Suites,9.083333333333334,12,21,0
+2010,August,89998,The Leland,8.053333333333333,75,22,0
+2010,August,530320,Viking Motel,6.583333333333333,12,23,0
+2010,September,1236680,Greektown Casino Hotel,26.95614035087719,114,1,0
+2010,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,26.62773722627737,137,2,0
+2010,September,782678,The Westin Book Cadillac Detroit,26.092105263157894,76,3,0
+2010,September,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.883333333333333,60,4,1
+2010,September,674735,MGM Grand Detroit,24.36263736263736,91,5,-1
+2010,September,94554,Marriott Detroit Airport,23.972972972972972,37,6,0
+2010,September,674740,MotorCity Casino Hotel,22.15625,32,7,0
+2010,September,114661,Courtyard by Marriott Detroit Downtown,21.28,50,8,0
+2010,September,90003,The Westin Detroit Metropolitan Airport,21.087591240875913,137,9,0
+2010,September,242702,Inn on Ferry Street,20.97196261682243,107,10,0
+2010,September,224064,Detroit Marriott at the Renaissance Center,19.553763440860216,186,11,0
+2010,September,95294,The Atheneum,19.55223880597015,67,12,0
+2010,September,256897,Holiday Inn Express Detroit - Downtown,19.35135135135135,74,13,0
+2010,September,288605,Hilton Garden Inn Detroit Downtown,18.950819672131146,61,14,0
+2010,September,114654,Shorecrest Motor Inn,15.428571428571429,14,15,0
+2010,September,89995,Milner Hotel,13.981481481481481,54,16,0
+2010,September,605656,Corktown Inn,13.727272727272727,11,17,0
+2010,September,89999,St. Regis,13.6,55,18,0
+2010,September,1190550,Super 8 Motel Taylor,12.0,1,19,0
+2010,September,95312,Stay Inn & Suites,10.428571428571429,14,20,1
+2010,September,95308,Detroit Regency Hotel,8.666666666666666,3,21,-1
+2010,September,89998,The Leland,8.053333333333333,75,22,0
+2010,September,530320,Viking Motel,6.583333333333333,12,23,0
+2010,October,1236680,Greektown Casino Hotel,27.051724137931036,116,1,0
+2010,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,26.916666666666668,144,2,0
+2010,October,782678,The Westin Book Cadillac Detroit,26.26829268292683,82,3,0
+2010,October,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.857142857142858,63,4,0
+2010,October,674735,MGM Grand Detroit,24.833333333333332,96,5,0
+2010,October,94554,Marriott Detroit Airport,23.972972972972972,37,6,0
+2010,October,674740,MotorCity Casino Hotel,21.852941176470587,34,7,0
+2010,October,114661,Courtyard by Marriott Detroit Downtown,21.403846153846153,52,8,0
+2010,October,90003,The Westin Detroit Metropolitan Airport,21.271428571428572,140,9,0
+2010,October,242702,Inn on Ferry Street,20.97196261682243,107,10,0
+2010,October,224064,Detroit Marriott at the Renaissance Center,19.722513089005236,191,11,0
+2010,October,256897,Holiday Inn Express Detroit - Downtown,19.25,76,12,1
+2010,October,95294,The Atheneum,19.239436619718308,71,13,-1
+2010,October,288605,Hilton Garden Inn Detroit Downtown,19.129032258064516,62,14,0
+2010,October,114654,Shorecrest Motor Inn,15.428571428571429,14,15,0
+2010,October,89999,St. Regis,13.982758620689655,58,16,2
+2010,October,89995,Milner Hotel,13.981481481481481,54,17,-1
+2010,October,605656,Corktown Inn,13.333333333333334,12,18,-1
+2010,October,1190550,Super 8 Motel Taylor,12.0,1,19,0
+2010,October,95312,Stay Inn & Suites,10.428571428571429,14,20,0
+2010,October,89998,The Leland,8.053333333333333,75,21,1
+2010,October,95308,Detroit Regency Hotel,7.5,4,22,-1
+2010,October,530320,Viking Motel,6.583333333333333,12,23,0
+2010,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.33974358974359,156,1,1
+2010,November,1236680,Greektown Casino Hotel,27.025,120,2,-1
+2010,November,782678,The Westin Book Cadillac Detroit,26.551724137931036,87,3,0
+2010,November,674735,MGM Grand Detroit,25.320388349514563,103,4,1
+2010,November,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.742424242424242,66,5,-1
+2010,November,94554,Marriott Detroit Airport,23.65,40,6,0
+2010,November,674740,MotorCity Casino Hotel,22.228571428571428,35,7,0
+2010,November,90003,The Westin Detroit Metropolitan Airport,21.698630136986303,146,8,1
+2010,November,114661,Courtyard by Marriott Detroit Downtown,21.641509433962263,53,9,-1
+2010,November,242702,Inn on Ferry Street,21.345454545454544,110,10,0
+2010,November,95294,The Atheneum,19.82051282051282,78,11,2
+2010,November,224064,Detroit Marriott at the Renaissance Center,19.757731958762886,194,12,-1
+2010,November,256897,Holiday Inn Express Detroit - Downtown,19.582278481012658,79,13,-1
+2010,November,288605,Hilton Garden Inn Detroit Downtown,19.453125,64,14,0
+2010,November,114654,Shorecrest Motor Inn,15.428571428571429,14,15,0
+2010,November,89999,St. Regis,14.387096774193548,62,16,0
+2010,November,89995,Milner Hotel,13.981481481481481,54,17,0
+2010,November,605656,Corktown Inn,13.333333333333334,12,18,0
+2010,November,1190550,Super 8 Motel Taylor,12.0,1,19,0
+2010,November,95312,Stay Inn & Suites,10.428571428571429,14,20,0
+2010,November,89998,The Leland,8.302631578947368,76,21,0
+2010,November,95308,Detroit Regency Hotel,7.5,4,22,0
+2010,November,530320,Viking Motel,6.583333333333333,12,23,0
+2010,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.526946107784433,167,1,0
+2010,December,1236680,Greektown Casino Hotel,26.983471074380166,121,2,0
+2010,December,782678,The Westin Book Cadillac Detroit,26.677777777777777,90,3,0
+2010,December,674735,MGM Grand Detroit,25.485714285714284,105,4,0
+2010,December,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.985294117647058,68,5,0
+2010,December,94554,Marriott Detroit Airport,23.65,40,6,0
+2010,December,90003,The Westin Detroit Metropolitan Airport,22.374193548387098,155,7,1
+2010,December,674740,MotorCity Casino Hotel,22.228571428571428,35,8,-1
+2010,December,114661,Courtyard by Marriott Detroit Downtown,21.88888888888889,54,9,0
+2010,December,242702,Inn on Ferry Street,21.526785714285715,112,10,0
+2010,December,95294,The Atheneum,19.82051282051282,78,11,0
+2010,December,224064,Detroit Marriott at the Renaissance Center,19.72820512820513,195,12,0
+2010,December,256897,Holiday Inn Express Detroit - Downtown,19.575,80,13,0
+2010,December,288605,Hilton Garden Inn Detroit Downtown,19.453125,64,14,0
+2010,December,114654,Shorecrest Motor Inn,15.428571428571429,14,15,0
+2010,December,89999,St. Regis,14.169230769230769,65,16,0
+2010,December,89995,Milner Hotel,13.981481481481481,54,17,0
+2010,December,605656,Corktown Inn,13.0,13,18,0
+2010,December,1190550,Super 8 Motel Taylor,12.0,1,19,0
+2010,December,95312,Stay Inn & Suites,10.428571428571429,14,20,0
+2010,December,95308,Detroit Regency Hotel,10.166666666666666,6,21,1
+2010,December,89998,The Leland,8.285714285714286,77,22,-1
+2010,December,530320,Viking Motel,6.583333333333333,12,23,0
+2011,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.691860465116278,172,1,0
+2011,January,1236680,Greektown Casino Hotel,27.088,125,2,0
+2011,January,782678,The Westin Book Cadillac Detroit,26.979166666666668,96,3,0
+2011,January,674735,MGM Grand Detroit,25.651785714285715,112,4,0
+2011,January,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.039473684210527,76,5,0
+2011,January,90003,The Westin Detroit Metropolitan Airport,23.78191489361702,188,6,1
+2011,January,94554,Marriott Detroit Airport,23.65,40,7,-1
+2011,January,114661,Courtyard by Marriott Detroit Downtown,22.5,58,8,1
+2011,January,674740,MotorCity Casino Hotel,22.333333333333332,36,9,-1
+2011,January,242702,Inn on Ferry Street,21.526785714285715,112,10,0
+2011,January,1190550,Super 8 Motel Taylor,21.0,2,11,8
+2011,January,95294,The Atheneum,20.53012048192771,83,12,-1
+2011,January,288605,Hilton Garden Inn Detroit Downtown,20.044776119402986,67,13,1
+2011,January,224064,Detroit Marriott at the Renaissance Center,19.753768844221106,199,14,-2
+2011,January,256897,Holiday Inn Express Detroit - Downtown,19.726190476190474,84,15,-2
+2011,January,114654,Shorecrest Motor Inn,15.428571428571429,14,16,-1
+2011,January,89999,St. Regis,14.194029850746269,67,17,-1
+2011,January,89995,Milner Hotel,14.127272727272727,55,18,-1
+2011,January,605656,Corktown Inn,13.0,13,19,-1
+2011,January,95308,Detroit Regency Hotel,12.857142857142858,7,20,1
+2011,January,95312,Stay Inn & Suites,10.428571428571429,14,21,-1
+2011,January,89998,The Leland,8.285714285714286,77,22,0
+2011,January,530320,Viking Motel,7.0,14,23,0
+2011,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.933333333333334,180,1,0
+2011,February,1236680,Greektown Casino Hotel,27.046153846153846,130,2,0
+2011,February,782678,The Westin Book Cadillac Detroit,26.95,100,3,0
+2011,February,674735,MGM Grand Detroit,25.68103448275862,116,4,0
+2011,February,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.164556962025316,79,5,0
+2011,February,90003,The Westin Detroit Metropolitan Airport,24.495098039215687,204,6,0
+2011,February,94554,Marriott Detroit Airport,23.390243902439025,41,7,0
+2011,February,674740,MotorCity Casino Hotel,22.63157894736842,38,8,1
+2011,February,114661,Courtyard by Marriott Detroit Downtown,22.593220338983052,59,9,-1
+2011,February,242702,Inn on Ferry Street,21.36521739130435,115,10,0
+2011,February,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,February,95294,The Atheneum,20.53012048192771,83,12,0
+2011,February,288605,Hilton Garden Inn Detroit Downtown,20.264705882352942,68,13,0
+2011,February,256897,Holiday Inn Express Detroit - Downtown,19.976744186046513,86,14,1
+2011,February,224064,Detroit Marriott at the Renaissance Center,19.720588235294116,204,15,-1
+2011,February,114654,Shorecrest Motor Inn,15.428571428571429,14,16,0
+2011,February,89995,Milner Hotel,14.053571428571429,56,17,1
+2011,February,89999,St. Regis,13.971830985915492,71,18,-1
+2011,February,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,February,95308,Detroit Regency Hotel,12.857142857142858,7,20,0
+2011,February,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,February,89998,The Leland,8.285714285714286,77,22,0
+2011,February,530320,Viking Motel,7.0,14,23,0
+2011,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.03804347826087,184,1,0
+2011,March,782678,The Westin Book Cadillac Detroit,27.17142857142857,105,2,1
+2011,March,1236680,Greektown Casino Hotel,27.16417910447761,134,3,-1
+2011,March,674735,MGM Grand Detroit,25.727272727272727,121,4,0
+2011,March,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.238095238095237,84,5,0
+2011,March,90003,The Westin Detroit Metropolitan Airport,25.18141592920354,226,6,0
+2011,March,94554,Marriott Detroit Airport,23.390243902439025,41,7,0
+2011,March,674740,MotorCity Casino Hotel,23.15909090909091,44,8,0
+2011,March,114661,Courtyard by Marriott Detroit Downtown,22.75,60,9,0
+2011,March,242702,Inn on Ferry Street,21.73949579831933,119,10,0
+2011,March,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,March,288605,Hilton Garden Inn Detroit Downtown,20.676056338028168,71,12,1
+2011,March,95294,The Atheneum,20.53012048192771,83,13,-1
+2011,March,256897,Holiday Inn Express Detroit - Downtown,19.82758620689655,87,14,0
+2011,March,224064,Detroit Marriott at the Renaissance Center,19.78048780487805,205,15,0
+2011,March,114654,Shorecrest Motor Inn,15.428571428571429,14,16,0
+2011,March,89999,St. Regis,14.125,72,17,1
+2011,March,89995,Milner Hotel,14.053571428571429,56,18,-1
+2011,March,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,March,95308,Detroit Regency Hotel,12.857142857142858,7,20,0
+2011,March,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,March,89998,The Leland,8.285714285714286,77,22,0
+2011,March,530320,Viking Motel,7.0,14,23,0
+2011,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.148936170212767,188,1,0
+2011,April,1236680,Greektown Casino Hotel,27.357142857142858,140,2,1
+2011,April,782678,The Westin Book Cadillac Detroit,27.17142857142857,105,3,-1
+2011,April,674735,MGM Grand Detroit,25.729508196721312,122,4,0
+2011,April,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.53932584269663,89,5,0
+2011,April,90003,The Westin Detroit Metropolitan Airport,25.47107438016529,242,6,0
+2011,April,94554,Marriott Detroit Airport,23.65909090909091,44,7,0
+2011,April,674740,MotorCity Casino Hotel,23.083333333333332,48,8,0
+2011,April,114661,Courtyard by Marriott Detroit Downtown,22.952380952380953,63,9,0
+2011,April,242702,Inn on Ferry Street,21.8,120,10,0
+2011,April,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,April,288605,Hilton Garden Inn Detroit Downtown,20.986301369863014,73,12,0
+2011,April,95294,The Atheneum,20.702380952380953,84,13,0
+2011,April,224064,Detroit Marriott at the Renaissance Center,19.845410628019323,207,14,1
+2011,April,256897,Holiday Inn Express Detroit - Downtown,19.82758620689655,87,15,-1
+2011,April,114654,Shorecrest Motor Inn,15.266666666666667,15,16,0
+2011,April,89995,Milner Hotel,14.053571428571429,56,17,1
+2011,April,89999,St. Regis,14.04109589041096,73,18,-1
+2011,April,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,April,95308,Detroit Regency Hotel,13.8,10,20,0
+2011,April,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,April,89998,The Leland,8.474358974358974,78,22,0
+2011,April,530320,Viking Motel,7.0,14,23,0
+2011,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.383838383838384,198,1,0
+2011,May,1236680,Greektown Casino Hotel,27.47972972972973,148,2,0
+2011,May,782678,The Westin Book Cadillac Detroit,27.28828828828829,111,3,0
+2011,May,90003,The Westin Detroit Metropolitan Airport,26.153846153846153,273,4,2
+2011,May,674735,MGM Grand Detroit,25.838709677419356,124,5,-1
+2011,May,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.46875,96,6,-1
+2011,May,94554,Marriott Detroit Airport,23.65909090909091,44,7,0
+2011,May,674740,MotorCity Casino Hotel,23.26530612244898,49,8,0
+2011,May,114661,Courtyard by Marriott Detroit Downtown,23.26153846153846,65,9,0
+2011,May,242702,Inn on Ferry Street,21.8,120,10,0
+2011,May,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,May,95294,The Atheneum,20.872093023255815,86,12,1
+2011,May,288605,Hilton Garden Inn Detroit Downtown,20.6,75,13,-1
+2011,May,224064,Detroit Marriott at the Renaissance Center,19.94736842105263,209,14,0
+2011,May,256897,Holiday Inn Express Detroit - Downtown,19.755555555555556,90,15,0
+2011,May,114654,Shorecrest Motor Inn,15.266666666666667,15,16,0
+2011,May,89999,St. Regis,14.053333333333333,75,17,1
+2011,May,89995,Milner Hotel,13.96551724137931,58,18,-1
+2011,May,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,May,95308,Detroit Regency Hotel,13.8,10,20,0
+2011,May,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,May,89998,The Leland,8.474358974358974,78,22,0
+2011,May,530320,Viking Motel,7.866666666666666,15,23,0
+2011,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.190243902439025,205,1,0
+2011,June,1236680,Greektown Casino Hotel,27.15483870967742,155,2,0
+2011,June,782678,The Westin Book Cadillac Detroit,26.672,125,3,0
+2011,June,90003,The Westin Detroit Metropolitan Airport,26.102836879432623,282,4,0
+2011,June,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.46875,96,5,1
+2011,June,674735,MGM Grand Detroit,25.356589147286822,129,6,-1
+2011,June,94554,Marriott Detroit Airport,23.46808510638298,47,7,0
+2011,June,114661,Courtyard by Marriott Detroit Downtown,23.208955223880597,67,8,1
+2011,June,674740,MotorCity Casino Hotel,22.92156862745098,51,9,-1
+2011,June,242702,Inn on Ferry Street,21.8,120,10,0
+2011,June,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,June,95294,The Atheneum,20.81111111111111,90,12,0
+2011,June,288605,Hilton Garden Inn Detroit Downtown,20.61842105263158,76,13,0
+2011,June,224064,Detroit Marriott at the Renaissance Center,19.89351851851852,216,14,0
+2011,June,256897,Holiday Inn Express Detroit - Downtown,19.78021978021978,91,15,0
+2011,June,114654,Shorecrest Motor Inn,15.6875,16,16,0
+2011,June,89999,St. Regis,14.08974358974359,78,17,0
+2011,June,89995,Milner Hotel,13.883333333333333,60,18,0
+2011,June,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,June,95308,Detroit Regency Hotel,13.8,10,20,0
+2011,June,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,June,89998,The Leland,8.60759493670886,79,22,0
+2011,June,530320,Viking Motel,7.866666666666666,15,23,0
+2011,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.920187793427232,213,1,0
+2011,July,1236680,Greektown Casino Hotel,26.96894409937888,161,2,0
+2011,July,782678,The Westin Book Cadillac Detroit,26.114285714285714,140,3,0
+2011,July,90003,The Westin Detroit Metropolitan Airport,25.890365448504983,301,4,0
+2011,July,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.194174757281555,103,5,0
+2011,July,674735,MGM Grand Detroit,25.014598540145986,137,6,0
+2011,July,94554,Marriott Detroit Airport,23.23076923076923,52,7,0
+2011,July,114661,Courtyard by Marriott Detroit Downtown,23.191176470588236,68,8,0
+2011,July,674740,MotorCity Casino Hotel,22.363636363636363,55,9,0
+2011,July,242702,Inn on Ferry Street,21.669354838709676,124,10,0
+2011,July,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,July,95294,The Atheneum,20.882978723404257,94,12,0
+2011,July,288605,Hilton Garden Inn Detroit Downtown,20.417721518987342,79,13,0
+2011,July,224064,Detroit Marriott at the Renaissance Center,19.897321428571427,224,14,0
+2011,July,256897,Holiday Inn Express Detroit - Downtown,19.88421052631579,95,15,0
+2011,July,114654,Shorecrest Motor Inn,15.6875,16,16,0
+2011,July,89995,Milner Hotel,14.161290322580646,62,17,1
+2011,July,89999,St. Regis,14.126582278481013,79,18,-1
+2011,July,605656,Corktown Inn,13.857142857142858,14,19,0
+2011,July,95308,Detroit Regency Hotel,13.8,10,20,0
+2011,July,95312,Stay Inn & Suites,10.428571428571429,14,21,0
+2011,July,89998,The Leland,8.60759493670886,79,22,0
+2011,July,530320,Viking Motel,7.866666666666666,15,23,0
+2011,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.62780269058296,223,1,0
+2011,August,1236680,Greektown Casino Hotel,26.59090909090909,176,2,0
+2011,August,90003,The Westin Detroit Metropolitan Airport,25.746913580246915,324,3,1
+2011,August,782678,The Westin Book Cadillac Detroit,25.7248322147651,149,4,-1
+2011,August,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.037037037037038,108,5,0
+2011,August,674735,MGM Grand Detroit,24.63888888888889,144,6,0
+2011,August,94554,Marriott Detroit Airport,23.140350877192983,57,7,0
+2011,August,114661,Courtyard by Marriott Detroit Downtown,23.08450704225352,71,8,0
+2011,August,674740,MotorCity Casino Hotel,22.133333333333333,60,9,0
+2011,August,242702,Inn on Ferry Street,21.80916030534351,131,10,0
+2011,August,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,August,95294,The Atheneum,20.57,100,12,0
+2011,August,288605,Hilton Garden Inn Detroit Downtown,20.271604938271604,81,13,0
+2011,August,224064,Detroit Marriott at the Renaissance Center,19.826271186440678,236,14,0
+2011,August,256897,Holiday Inn Express Detroit - Downtown,19.24271844660194,103,15,0
+2011,August,114654,Shorecrest Motor Inn,15.588235294117647,17,16,0
+2011,August,2156247,Roberts Riverwalk Hotel & Residence Detroit,15.0,2,17,8
+2011,August,89999,St. Regis,14.583333333333334,84,18,0
+2011,August,605656,Corktown Inn,14.533333333333333,15,19,0
+2011,August,89995,Milner Hotel,14.238095238095237,63,20,-3
+2011,August,95308,Detroit Regency Hotel,13.8,10,21,-1
+2011,August,95312,Stay Inn & Suites,10.428571428571429,14,22,-1
+2011,August,89998,The Leland,8.60759493670886,79,23,-1
+2011,August,530320,Viking Motel,7.866666666666666,15,24,-1
+2011,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.608888888888888,225,1,0
+2011,September,1236680,Greektown Casino Hotel,26.372340425531913,188,2,0
+2011,September,782678,The Westin Book Cadillac Detroit,25.817073170731707,164,3,1
+2011,September,90003,The Westin Detroit Metropolitan Airport,25.635057471264368,348,4,-1
+2011,September,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.973913043478262,115,5,0
+2011,September,674735,MGM Grand Detroit,24.583892617449663,149,6,0
+2011,September,94554,Marriott Detroit Airport,22.915254237288135,59,7,0
+2011,September,114661,Courtyard by Marriott Detroit Downtown,22.52,75,8,0
+2011,September,674740,MotorCity Casino Hotel,22.191176470588236,68,9,0
+2011,September,242702,Inn on Ferry Street,21.810606060606062,132,10,0
+2011,September,1190550,Super 8 Motel Taylor,21.0,2,11,0
+2011,September,95294,The Atheneum,20.65686274509804,102,12,0
+2011,September,288605,Hilton Garden Inn Detroit Downtown,20.376470588235293,85,13,0
+2011,September,2156247,Roberts Riverwalk Hotel & Residence Detroit,20.25,4,14,3
+2011,September,224064,Detroit Marriott at the Renaissance Center,19.869565217391305,253,15,-1
+2011,September,256897,Holiday Inn Express Detroit - Downtown,19.34259259259259,108,16,-1
+2011,September,114654,Shorecrest Motor Inn,15.588235294117647,17,17,-1
+2011,September,89999,St. Regis,14.8,85,18,0
+2011,September,605656,Corktown Inn,14.533333333333333,15,19,0
+2011,September,89995,Milner Hotel,14.238095238095237,63,20,0
+2011,September,95308,Detroit Regency Hotel,13.8,10,21,0
+2011,September,95312,Stay Inn & Suites,10.428571428571429,14,22,0
+2011,September,89998,The Leland,8.60759493670886,79,23,0
+2011,September,530320,Viking Motel,7.866666666666666,15,24,0
+2011,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.733905579399142,233,1,0
+2011,October,1236680,Greektown Casino Hotel,26.38888888888889,198,2,0
+2011,October,90003,The Westin Detroit Metropolitan Airport,26.117333333333335,375,3,1
+2011,October,782678,The Westin Book Cadillac Detroit,26.023529411764706,170,4,-1
+2011,October,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,24.965811965811966,117,5,0
+2011,October,674735,MGM Grand Detroit,24.69281045751634,153,6,0
+2011,October,114661,Courtyard by Marriott Detroit Downtown,22.692307692307693,78,7,1
+2011,October,94554,Marriott Detroit Airport,22.515625,64,8,-1
+2011,October,242702,Inn on Ferry Street,21.78358208955224,134,9,1
+2011,October,674740,MotorCity Casino Hotel,21.76,75,10,-1
+2011,October,95294,The Atheneum,21.296296296296298,108,11,1
+2011,October,1190550,Super 8 Motel Taylor,21.0,2,12,-1
+2011,October,288605,Hilton Garden Inn Detroit Downtown,20.681818181818183,88,13,0
+2011,October,224064,Detroit Marriott at the Renaissance Center,20.30075187969925,266,14,1
+2011,October,2156247,Roberts Riverwalk Hotel & Residence Detroit,20.25,4,15,-1
+2011,October,256897,Holiday Inn Express Detroit - Downtown,19.34259259259259,108,16,0
+2011,October,114654,Shorecrest Motor Inn,15.61111111111111,18,17,0
+2011,October,89999,St. Regis,14.883720930232558,86,18,0
+2011,October,605656,Corktown Inn,14.533333333333333,15,19,0
+2011,October,89995,Milner Hotel,14.215384615384615,65,20,0
+2011,October,95308,Detroit Regency Hotel,13.545454545454545,11,21,0
+2011,October,95312,Stay Inn & Suites,10.428571428571429,14,22,0
+2011,October,89998,The Leland,8.60759493670886,79,23,0
+2011,October,530320,Viking Motel,7.866666666666666,15,24,0
+2011,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.764957264957264,234,1,0
+2011,November,1236680,Greektown Casino Hotel,26.467980295566502,203,2,0
+2011,November,90003,The Westin Detroit Metropolitan Airport,26.451127819548873,399,3,0
+2011,November,782678,The Westin Book Cadillac Detroit,26.273224043715846,183,4,0
+2011,November,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.141666666666666,120,5,0
+2011,November,674735,MGM Grand Detroit,24.70063694267516,157,6,0
+2011,November,114661,Courtyard by Marriott Detroit Downtown,23.109756097560975,82,7,0
+2011,November,94554,Marriott Detroit Airport,22.70769230769231,65,8,0
+2011,November,674740,MotorCity Casino Hotel,22.037037037037038,81,9,1
+2011,November,242702,Inn on Ferry Street,21.977941176470587,136,10,-1
+2011,November,95294,The Atheneum,21.513513513513512,111,11,0
+2011,November,1190550,Super 8 Motel Taylor,21.0,2,12,0
+2011,November,288605,Hilton Garden Inn Detroit Downtown,20.944444444444443,90,13,0
+2011,November,224064,Detroit Marriott at the Renaissance Center,20.35185185185185,270,14,0
+2011,November,256897,Holiday Inn Express Detroit - Downtown,19.31192660550459,109,15,1
+2011,November,2156247,Roberts Riverwalk Hotel & Residence Detroit,18.6,5,16,-1
+2011,November,114654,Shorecrest Motor Inn,15.61111111111111,18,17,0
+2011,November,605656,Corktown Inn,15.4375,16,18,1
+2011,November,89999,St. Regis,15.179775280898877,89,19,-1
+2011,November,89995,Milner Hotel,14.121212121212121,66,20,0
+2011,November,95308,Detroit Regency Hotel,13.545454545454545,11,21,0
+2011,November,95312,Stay Inn & Suites,10.428571428571429,14,22,0
+2011,November,89998,The Leland,8.60759493670886,79,23,0
+2011,November,530320,Viking Motel,7.866666666666666,15,24,0
+2011,November,1647936,Cranbrook Inn,6.0,1,25,1
+2011,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,27.89669421487603,242,1,0
+2011,December,90003,The Westin Detroit Metropolitan Airport,26.619617224880383,418,2,1
+2011,December,1236680,Greektown Casino Hotel,26.615384615384617,208,3,-1
+2011,December,782678,The Westin Book Cadillac Detroit,26.268421052631577,190,4,0
+2011,December,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.30952380952381,126,5,0
+2011,December,674735,MGM Grand Detroit,24.60377358490566,159,6,0
+2011,December,114661,Courtyard by Marriott Detroit Downtown,23.083333333333332,84,7,0
+2011,December,94554,Marriott Detroit Airport,22.776119402985074,67,8,0
+2011,December,674740,MotorCity Casino Hotel,22.178571428571427,84,9,0
+2011,December,242702,Inn on Ferry Street,22.1231884057971,138,10,0
+2011,December,95294,The Atheneum,21.69298245614035,114,11,0
+2011,December,288605,Hilton Garden Inn Detroit Downtown,21.141304347826086,92,12,1
+2011,December,1190550,Super 8 Motel Taylor,21.0,2,13,-1
+2011,December,224064,Detroit Marriott at the Renaissance Center,20.43727598566308,279,14,0
+2011,December,256897,Holiday Inn Express Detroit - Downtown,19.436363636363637,110,15,0
+2011,December,2156247,Roberts Riverwalk Hotel & Residence Detroit,18.6,5,16,0
+2011,December,114654,Shorecrest Motor Inn,15.61111111111111,18,17,0
+2011,December,605656,Corktown Inn,15.4375,16,18,0
+2011,December,89999,St. Regis,15.179775280898877,89,19,0
+2011,December,89995,Milner Hotel,14.121212121212121,66,20,0
+2011,December,95308,Detroit Regency Hotel,13.545454545454545,11,21,0
+2011,December,95312,Stay Inn & Suites,10.428571428571429,14,22,0
+2011,December,89998,The Leland,8.60759493670886,79,23,0
+2011,December,530320,Viking Motel,7.866666666666666,15,24,0
+2011,December,1647936,Cranbrook Inn,6.0,1,25,0
+2012,January,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.075396825396826,252,1,0
+2012,January,90003,The Westin Detroit Metropolitan Airport,26.75057208237986,437,2,0
+2012,January,1236680,Greektown Casino Hotel,26.589861751152075,217,3,0
+2012,January,782678,The Westin Book Cadillac Detroit,26.442786069651742,201,4,0
+2012,January,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.53030303030303,132,5,0
+2012,January,674735,MGM Grand Detroit,24.818181818181817,165,6,0
+2012,January,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.666666666666668,9,7,9
+2012,January,114661,Courtyard by Marriott Detroit Downtown,23.53932584269663,89,8,-1
+2012,January,94554,Marriott Detroit Airport,22.914285714285715,70,9,-1
+2012,January,242702,Inn on Ferry Street,22.416666666666668,144,10,0
+2012,January,674740,MotorCity Casino Hotel,22.206521739130434,92,11,-2
+2012,January,95294,The Atheneum,22.166666666666668,120,12,-1
+2012,January,288605,Hilton Garden Inn Detroit Downtown,21.395833333333332,96,13,-1
+2012,January,1190550,Super 8 Motel Taylor,21.0,2,14,-1
+2012,January,224064,Detroit Marriott at the Renaissance Center,20.781569965870307,293,15,-1
+2012,January,256897,Holiday Inn Express Detroit - Downtown,19.6,115,16,-1
+2012,January,114654,Shorecrest Motor Inn,16.6,20,17,0
+2012,January,605656,Corktown Inn,15.4375,16,18,0
+2012,January,89999,St. Regis,15.241758241758241,91,19,0
+2012,January,89995,Milner Hotel,14.914285714285715,70,20,0
+2012,January,95308,Detroit Regency Hotel,13.545454545454545,11,21,0
+2012,January,95312,Stay Inn & Suites,10.428571428571429,14,22,0
+2012,January,89998,The Leland,8.60759493670886,79,23,0
+2012,January,1901088,A Victory Inn-East Dearborn,8.0,1,24,3
+2012,January,530320,Viking Motel,7.866666666666666,15,25,-1
+2012,January,1647936,Cranbrook Inn,6.0,1,26,-1
+2012,February,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.15625,256,1,0
+2012,February,90003,The Westin Detroit Metropolitan Airport,26.813483146067416,445,2,0
+2012,February,1236680,Greektown Casino Hotel,26.616740088105725,227,3,0
+2012,February,782678,The Westin Book Cadillac Detroit,26.608490566037737,212,4,0
+2012,February,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.32608695652174,138,5,0
+2012,February,2156247,Roberts Riverwalk Hotel & Residence Detroit,25.09090909090909,11,6,1
+2012,February,674735,MGM Grand Detroit,25.00581395348837,172,7,-1
+2012,February,114661,Courtyard by Marriott Detroit Downtown,23.695652173913043,92,8,0
+2012,February,94554,Marriott Detroit Airport,23.506666666666668,75,9,0
+2012,February,95294,The Atheneum,22.352,125,10,2
+2012,February,242702,Inn on Ferry Street,22.217687074829932,147,11,-1
+2012,February,674740,MotorCity Casino Hotel,22.030927835051546,97,12,-1
+2012,February,288605,Hilton Garden Inn Detroit Downtown,21.821782178217823,101,13,0
+2012,February,1190550,Super 8 Motel Taylor,21.0,2,14,0
+2012,February,224064,Detroit Marriott at the Renaissance Center,20.933993399339933,303,15,0
+2012,February,256897,Holiday Inn Express Detroit - Downtown,19.71794871794872,117,16,0
+2012,February,114654,Shorecrest Motor Inn,16.6,20,17,0
+2012,February,605656,Corktown Inn,15.4375,16,18,0
+2012,February,89999,St. Regis,15.152173913043478,92,19,0
+2012,February,89995,Milner Hotel,14.914285714285715,70,20,0
+2012,February,95308,Detroit Regency Hotel,13.545454545454545,11,21,0
+2012,February,95312,Stay Inn & Suites,10.466666666666667,15,22,0
+2012,February,89998,The Leland,8.60759493670886,79,23,0
+2012,February,1901088,A Victory Inn-East Dearborn,8.0,1,24,0
+2012,February,530320,Viking Motel,7.866666666666666,15,25,0
+2012,February,1647936,Cranbrook Inn,6.0,1,26,0
+2012,March,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.265917602996254,267,1,0
+2012,March,90003,The Westin Detroit Metropolitan Airport,26.929978118161927,457,2,0
+2012,March,1236680,Greektown Casino Hotel,26.59656652360515,233,3,0
+2012,March,782678,The Westin Book Cadillac Detroit,26.488687782805428,221,4,0
+2012,March,2156247,Roberts Riverwalk Hotel & Residence Detroit,26.307692307692307,13,5,1
+2012,March,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.345070422535212,142,6,-1
+2012,March,674735,MGM Grand Detroit,25.0561797752809,178,7,0
+2012,March,114661,Courtyard by Marriott Detroit Downtown,23.851063829787233,94,8,0
+2012,March,94554,Marriott Detroit Airport,23.794871794871796,78,9,0
+2012,March,95294,The Atheneum,22.59375,128,10,0
+2012,March,674740,MotorCity Casino Hotel,22.470588235294116,102,11,1
+2012,March,242702,Inn on Ferry Street,22.42,150,12,-1
+2012,March,288605,Hilton Garden Inn Detroit Downtown,22.009615384615383,104,13,0
+2012,March,1190550,Super 8 Motel Taylor,21.0,2,14,0
+2012,March,224064,Detroit Marriott at the Renaissance Center,20.986928104575163,306,15,0
+2012,March,256897,Holiday Inn Express Detroit - Downtown,19.6218487394958,119,16,0
+2012,March,114654,Shorecrest Motor Inn,16.6,20,17,0
+2012,March,605656,Corktown Inn,16.0,17,18,0
+2012,March,89999,St. Regis,15.096774193548388,93,19,0
+2012,March,89995,Milner Hotel,15.04225352112676,71,20,0
+2012,March,95308,Detroit Regency Hotel,14.666666666666666,12,21,0
+2012,March,95312,Stay Inn & Suites,10.1875,16,22,0
+2012,March,89998,The Leland,8.60759493670886,79,23,0
+2012,March,1901088,A Victory Inn-East Dearborn,8.0,1,24,0
+2012,March,530320,Viking Motel,7.866666666666666,15,25,0
+2012,March,1647936,Cranbrook Inn,6.0,1,26,0
+2012,April,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.233333333333334,270,1,0
+2012,April,90003,The Westin Detroit Metropolitan Airport,27.029978586723768,467,2,0
+2012,April,1236680,Greektown Casino Hotel,26.756,250,3,0
+2012,April,782678,The Westin Book Cadillac Detroit,26.595744680851062,235,4,0
+2012,April,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.584415584415584,154,5,1
+2012,April,2156247,Roberts Riverwalk Hotel & Residence Detroit,25.22222222222222,18,6,-1
+2012,April,674735,MGM Grand Detroit,24.96808510638298,188,7,0
+2012,April,114661,Courtyard by Marriott Detroit Downtown,24.04950495049505,101,8,0
+2012,April,94554,Marriott Detroit Airport,23.765432098765434,81,9,0
+2012,April,242702,Inn on Ferry Street,22.85987261146497,157,10,2
+2012,April,674740,MotorCity Casino Hotel,22.7196261682243,107,11,0
+2012,April,95294,The Atheneum,22.681818181818183,132,12,-2
+2012,April,288605,Hilton Garden Inn Detroit Downtown,22.27777777777778,108,13,0
+2012,April,224064,Detroit Marriott at the Renaissance Center,21.304347826086957,322,14,1
+2012,April,1190550,Super 8 Motel Taylor,21.0,2,15,-1
+2012,April,256897,Holiday Inn Express Detroit - Downtown,19.716666666666665,120,16,0
+2012,April,114654,Shorecrest Motor Inn,16.6,20,17,0
+2012,April,605656,Corktown Inn,16.444444444444443,18,18,0
+2012,April,95308,Detroit Regency Hotel,16.4375,16,19,2
+2012,April,89995,Milner Hotel,15.32876712328767,73,20,0
+2012,April,89999,St. Regis,15.096774193548388,93,21,-2
+2012,April,95312,Stay Inn & Suites,10.1875,16,22,0
+2012,April,89998,The Leland,8.60759493670886,79,23,0
+2012,April,1901088,A Victory Inn-East Dearborn,8.0,1,24,0
+2012,April,530320,Viking Motel,7.866666666666666,15,25,0
+2012,April,1647936,Cranbrook Inn,6.0,1,26,0
+2012,May,95300,Hawthorn Suites By Wyndham Dearborn,30.0,1,1,27
+2012,May,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.298181818181817,275,2,-1
+2012,May,90003,The Westin Detroit Metropolitan Airport,27.096033402922757,479,3,-1
+2012,May,782678,The Westin Book Cadillac Detroit,26.67871485943775,249,4,0
+2012,May,1236680,Greektown Casino Hotel,26.65019011406844,263,5,-2
+2012,May,2156247,Roberts Riverwalk Hotel & Residence Detroit,25.608695652173914,23,6,0
+2012,May,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.48076923076923,156,7,-2
+2012,May,674735,MGM Grand Detroit,25.042105263157893,190,8,-1
+2012,May,94554,Marriott Detroit Airport,24.058823529411764,85,9,0
+2012,May,114661,Courtyard by Marriott Detroit Downtown,24.057692307692307,104,10,-2
+2012,May,242702,Inn on Ferry Street,23.12962962962963,162,11,-1
+2012,May,95294,The Atheneum,22.823529411764707,136,12,0
+2012,May,674740,MotorCity Casino Hotel,22.693693693693692,111,13,-2
+2012,May,288605,Hilton Garden Inn Detroit Downtown,22.28440366972477,109,14,-1
+2012,May,224064,Detroit Marriott at the Renaissance Center,21.440729483282674,329,15,-1
+2012,May,256897,Holiday Inn Express Detroit - Downtown,20.08,125,16,0
+2012,May,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,-2
+2012,May,114654,Shorecrest Motor Inn,16.6,20,18,-1
+2012,May,605656,Corktown Inn,16.444444444444443,18,19,-1
+2012,May,95308,Detroit Regency Hotel,16.4375,16,20,-1
+2012,May,89995,Milner Hotel,15.32876712328767,73,21,-1
+2012,May,89999,St. Regis,15.26595744680851,94,22,-1
+2012,May,95312,Stay Inn & Suites,11.235294117647058,17,23,-1
+2012,May,89998,The Leland,8.60759493670886,79,24,-1
+2012,May,1901088,A Victory Inn-East Dearborn,8.0,1,25,-1
+2012,May,530320,Viking Motel,8.0,16,26,-1
+2012,May,1647936,Cranbrook Inn,6.0,1,27,-1
+2012,June,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.320143884892087,278,1,1
+2012,June,90003,The Westin Detroit Metropolitan Airport,27.21181262729124,491,2,1
+2012,June,782678,The Westin Book Cadillac Detroit,26.84790874524715,263,3,1
+2012,June,1236680,Greektown Casino Hotel,26.737037037037037,270,4,1
+2012,June,2156247,Roberts Riverwalk Hotel & Residence Detroit,26.12,25,5,1
+2012,June,95300,Hawthorn Suites By Wyndham Dearborn,25.5,2,6,-5
+2012,June,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.385093167701864,161,7,0
+2012,June,674735,MGM Grand Detroit,24.934673366834172,199,8,0
+2012,June,114661,Courtyard by Marriott Detroit Downtown,24.22222222222222,108,9,1
+2012,June,94554,Marriott Detroit Airport,24.04597701149425,87,10,-1
+2012,June,242702,Inn on Ferry Street,23.151515151515152,165,11,0
+2012,June,95294,The Atheneum,22.78014184397163,141,12,0
+2012,June,674740,MotorCity Casino Hotel,22.732758620689655,116,13,0
+2012,June,288605,Hilton Garden Inn Detroit Downtown,22.27433628318584,113,14,0
+2012,June,224064,Detroit Marriott at the Renaissance Center,21.596439169139465,337,15,0
+2012,June,256897,Holiday Inn Express Detroit - Downtown,20.297709923664122,131,16,0
+2012,June,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,0
+2012,June,95308,Detroit Regency Hotel,17.75,20,18,2
+2012,June,114654,Shorecrest Motor Inn,16.142857142857142,21,19,-1
+2012,June,605656,Corktown Inn,16.0,24,20,-1
+2012,June,89995,Milner Hotel,15.346666666666666,75,21,0
+2012,June,89999,St. Regis,15.326315789473684,95,22,0
+2012,June,95312,Stay Inn & Suites,11.235294117647058,17,23,0
+2012,June,89998,The Leland,8.60759493670886,79,24,0
+2012,June,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,June,530320,Viking Motel,8.0,16,26,0
+2012,June,1647936,Cranbrook Inn,6.0,1,27,0
+2012,July,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.37676056338028,284,1,0
+2012,July,90003,The Westin Detroit Metropolitan Airport,27.25440313111546,511,2,0
+2012,July,782678,The Westin Book Cadillac Detroit,26.96085409252669,281,3,0
+2012,July,1236680,Greektown Casino Hotel,26.819787985865723,283,4,0
+2012,July,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.586206896551722,174,5,2
+2012,July,674735,MGM Grand Detroit,24.888349514563107,206,6,2
+2012,July,2156247,Roberts Riverwalk Hotel & Residence Detroit,24.75862068965517,29,7,-2
+2012,July,114661,Courtyard by Marriott Detroit Downtown,24.353448275862068,116,8,1
+2012,July,94554,Marriott Detroit Airport,24.210526315789473,95,9,1
+2012,July,242702,Inn on Ferry Street,23.148809523809526,168,10,1
+2012,July,95294,The Atheneum,22.89041095890411,146,11,1
+2012,July,288605,Hilton Garden Inn Detroit Downtown,22.680672268907564,119,12,2
+2012,July,674740,MotorCity Casino Hotel,22.666666666666668,123,13,0
+2012,July,95300,Hawthorn Suites By Wyndham Dearborn,21.75,4,14,-8
+2012,July,224064,Detroit Marriott at the Renaissance Center,21.698591549295774,355,15,0
+2012,July,256897,Holiday Inn Express Detroit - Downtown,20.741496598639454,147,16,0
+2012,July,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,0
+2012,July,95308,Detroit Regency Hotel,18.72,25,18,0
+2012,July,605656,Corktown Inn,16.2,25,19,1
+2012,July,114654,Shorecrest Motor Inn,16.041666666666668,24,20,-1
+2012,July,89999,St. Regis,15.656862745098039,102,21,1
+2012,July,89995,Milner Hotel,15.402597402597403,77,22,-1
+2012,July,95312,Stay Inn & Suites,11.235294117647058,17,23,0
+2012,July,89998,The Leland,8.60759493670886,79,24,0
+2012,July,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,July,530320,Viking Motel,8.0,16,26,0
+2012,July,1647936,Cranbrook Inn,6.0,1,27,0
+2012,August,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.337979094076655,287,1,0
+2012,August,90003,The Westin Detroit Metropolitan Airport,27.255238095238095,525,2,0
+2012,August,782678,The Westin Book Cadillac Detroit,26.980066445182725,301,3,0
+2012,August,1236680,Greektown Casino Hotel,26.929765886287626,299,4,0
+2012,August,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.47457627118644,177,5,0
+2012,August,674735,MGM Grand Detroit,24.990697674418605,215,6,0
+2012,August,114661,Courtyard by Marriott Detroit Downtown,24.57377049180328,122,7,1
+2012,August,94554,Marriott Detroit Airport,24.21875,96,8,1
+2012,August,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.8125,32,9,-2
+2012,August,242702,Inn on Ferry Street,23.525714285714287,175,10,0
+2012,August,288605,Hilton Garden Inn Detroit Downtown,23.109375,128,11,1
+2012,August,95294,The Atheneum,22.972789115646258,147,12,-1
+2012,August,674740,MotorCity Casino Hotel,22.849624060150376,133,13,0
+2012,August,224064,Detroit Marriott at the Renaissance Center,21.80108991825613,367,14,1
+2012,August,95300,Hawthorn Suites By Wyndham Dearborn,21.75,4,15,-1
+2012,August,256897,Holiday Inn Express Detroit - Downtown,21.157232704402517,159,16,0
+2012,August,95308,Detroit Regency Hotel,19.4,30,17,1
+2012,August,1190550,Super 8 Motel Taylor,19.333333333333332,3,18,-1
+2012,August,114654,Shorecrest Motor Inn,16.041666666666668,24,19,1
+2012,August,605656,Corktown Inn,15.88888888888889,27,20,-1
+2012,August,89999,St. Regis,15.788461538461538,104,21,0
+2012,August,89995,Milner Hotel,15.58974358974359,78,22,0
+2012,August,95312,Stay Inn & Suites,11.277777777777779,18,23,0
+2012,August,89998,The Leland,8.60759493670886,79,24,0
+2012,August,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,August,530320,Viking Motel,8.0,16,26,0
+2012,August,1647936,Cranbrook Inn,6.0,1,27,0
+2012,September,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.227118644067797,295,1,0
+2012,September,90003,The Westin Detroit Metropolitan Airport,27.331460674157302,534,2,0
+2012,September,782678,The Westin Book Cadillac Detroit,27.173633440514468,311,3,0
+2012,September,1236680,Greektown Casino Hotel,26.96485623003195,313,4,0
+2012,September,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.382513661202186,183,5,0
+2012,September,674735,MGM Grand Detroit,25.08219178082192,219,6,0
+2012,September,114661,Courtyard by Marriott Detroit Downtown,24.653543307086615,127,7,0
+2012,September,94554,Marriott Detroit Airport,24.383838383838384,99,8,0
+2012,September,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.82857142857143,35,9,0
+2012,September,242702,Inn on Ferry Street,23.64804469273743,179,10,0
+2012,September,288605,Hilton Garden Inn Detroit Downtown,23.426470588235293,136,11,0
+2012,September,674740,MotorCity Casino Hotel,22.9645390070922,141,12,1
+2012,September,95294,The Atheneum,22.81045751633987,153,13,-1
+2012,September,224064,Detroit Marriott at the Renaissance Center,21.908376963350786,382,14,0
+2012,September,256897,Holiday Inn Express Detroit - Downtown,21.432926829268293,164,15,1
+2012,September,1190550,Super 8 Motel Taylor,19.333333333333332,3,16,2
+2012,September,95308,Detroit Regency Hotel,19.0,31,17,0
+2012,September,95300,Hawthorn Suites By Wyndham Dearborn,18.428571428571427,7,18,-3
+2012,September,114654,Shorecrest Motor Inn,16.185185185185187,27,19,0
+2012,September,89999,St. Regis,16.18348623853211,109,20,1
+2012,September,605656,Corktown Inn,15.633333333333333,30,21,-1
+2012,September,89995,Milner Hotel,15.405063291139241,79,22,0
+2012,September,95312,Stay Inn & Suites,11.277777777777779,18,23,0
+2012,September,89998,The Leland,8.60759493670886,79,24,0
+2012,September,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,September,530320,Viking Motel,8.0,16,26,0
+2012,September,1647936,Cranbrook Inn,6.0,1,27,0
+2012,October,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.214521452145213,303,1,0
+2012,October,90003,The Westin Detroit Metropolitan Airport,27.32730560578662,553,2,0
+2012,October,782678,The Westin Book Cadillac Detroit,27.11455108359133,323,3,0
+2012,October,1236680,Greektown Casino Hotel,26.895061728395063,324,4,0
+2012,October,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.4,190,5,0
+2012,October,674735,MGM Grand Detroit,25.153846153846153,221,6,0
+2012,October,114661,Courtyard by Marriott Detroit Downtown,24.717391304347824,138,7,0
+2012,October,94554,Marriott Detroit Airport,24.436893203883496,103,8,0
+2012,October,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.725,40,9,0
+2012,October,242702,Inn on Ferry Street,23.711111111111112,180,10,0
+2012,October,288605,Hilton Garden Inn Detroit Downtown,23.617021276595743,141,11,0
+2012,October,674740,MotorCity Casino Hotel,23.406666666666666,150,12,0
+2012,October,95294,The Atheneum,22.974358974358974,156,13,0
+2012,October,224064,Detroit Marriott at the Renaissance Center,21.93,400,14,0
+2012,October,256897,Holiday Inn Express Detroit - Downtown,21.801169590643276,171,15,0
+2012,October,95300,Hawthorn Suites By Wyndham Dearborn,19.75,12,16,2
+2012,October,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,-1
+2012,October,95308,Detroit Regency Hotel,18.6875,32,18,-1
+2012,October,114654,Shorecrest Motor Inn,16.642857142857142,28,19,0
+2012,October,89999,St. Regis,16.225225225225227,111,20,0
+2012,October,605656,Corktown Inn,15.633333333333333,30,21,0
+2012,October,89995,Milner Hotel,15.25925925925926,81,22,0
+2012,October,95312,Stay Inn & Suites,11.277777777777779,18,23,0
+2012,October,89998,The Leland,8.60759493670886,79,24,0
+2012,October,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,October,530320,Viking Motel,8.0,16,26,0
+2012,October,1647936,Cranbrook Inn,6.0,1,27,0
+2012,October,95305,A Victory Inn & Suites,5.0,1,28,1
+2012,November,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.23127035830619,307,1,0
+2012,November,90003,The Westin Detroit Metropolitan Airport,27.383802816901408,568,2,0
+2012,November,782678,The Westin Book Cadillac Detroit,27.153153153153152,333,3,0
+2012,November,1236680,Greektown Casino Hotel,26.962099125364432,343,4,0
+2012,November,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.69,200,5,0
+2012,November,674735,MGM Grand Detroit,25.639004149377595,241,6,0
+2012,November,114661,Courtyard by Marriott Detroit Downtown,24.717391304347824,138,7,0
+2012,November,94554,Marriott Detroit Airport,24.528301886792452,106,8,0
+2012,November,242702,Inn on Ferry Street,24.02127659574468,188,9,1
+2012,November,288605,Hilton Garden Inn Detroit Downtown,23.685314685314687,143,10,1
+2012,November,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.340425531914892,47,11,-2
+2012,November,674740,MotorCity Casino Hotel,23.316129032258065,155,12,0
+2012,November,95294,The Atheneum,22.955974842767297,159,13,0
+2012,November,224064,Detroit Marriott at the Renaissance Center,22.065375302663437,413,14,0
+2012,November,256897,Holiday Inn Express Detroit - Downtown,21.994285714285713,175,15,0
+2012,November,95300,Hawthorn Suites By Wyndham Dearborn,21.875,16,16,0
+2012,November,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,0
+2012,November,95308,Detroit Regency Hotel,19.029411764705884,34,18,0
+2012,November,114654,Shorecrest Motor Inn,17.103448275862068,29,19,0
+2012,November,89999,St. Regis,16.345132743362832,113,20,0
+2012,November,605656,Corktown Inn,15.633333333333333,30,21,0
+2012,November,89995,Milner Hotel,15.329268292682928,82,22,0
+2012,November,95312,Stay Inn & Suites,11.277777777777779,18,23,0
+2012,November,89998,The Leland,8.60759493670886,79,24,0
+2012,November,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,November,530320,Viking Motel,8.0,16,26,0
+2012,November,1647936,Cranbrook Inn,6.0,1,27,0
+2012,November,95305,A Victory Inn & Suites,5.0,1,28,0
+2012,December,95302,Doubletree by Hilton Hotel Detroit-Dearborn,28.27741935483871,310,1,0
+2012,December,90003,The Westin Detroit Metropolitan Airport,27.41840277777778,576,2,0
+2012,December,782678,The Westin Book Cadillac Detroit,27.188790560471976,339,3,0
+2012,December,1236680,Greektown Casino Hotel,26.979942693409743,349,4,0
+2012,December,674735,MGM Grand Detroit,25.83132530120482,249,5,1
+2012,December,1230421,Doubletree by Hilton Detroit Downtown - Fort Shelby,25.63054187192118,203,6,-1
+2012,December,114661,Courtyard by Marriott Detroit Downtown,24.678571428571427,140,7,0
+2012,December,94554,Marriott Detroit Airport,24.527272727272727,110,8,0
+2012,December,242702,Inn on Ferry Street,24.105263157894736,190,9,0
+2012,December,288605,Hilton Garden Inn Detroit Downtown,23.786206896551725,145,10,0
+2012,December,674740,MotorCity Casino Hotel,23.227848101265824,158,11,1
+2012,December,95294,The Atheneum,23.01875,160,12,1
+2012,December,2156247,Roberts Riverwalk Hotel & Residence Detroit,23.0,48,13,-2
+2012,December,224064,Detroit Marriott at the Renaissance Center,22.11904761904762,420,14,0
+2012,December,256897,Holiday Inn Express Detroit - Downtown,22.096045197740114,177,15,0
+2012,December,95300,Hawthorn Suites By Wyndham Dearborn,21.88235294117647,17,16,0
+2012,December,1190550,Super 8 Motel Taylor,19.333333333333332,3,17,0
+2012,December,95308,Detroit Regency Hotel,19.029411764705884,34,18,0
+2012,December,114654,Shorecrest Motor Inn,17.103448275862068,29,19,0
+2012,December,89999,St. Regis,16.434782608695652,115,20,0
+2012,December,605656,Corktown Inn,15.633333333333333,30,21,0
+2012,December,89995,Milner Hotel,15.329268292682928,82,22,0
+2012,December,95312,Stay Inn & Suites,11.277777777777779,18,23,0
+2012,December,89998,The Leland,8.60759493670886,79,24,0
+2012,December,1901088,A Victory Inn-East Dearborn,8.0,1,25,0
+2012,December,530320,Viking Motel,8.0,16,26,0
+2012,December,1647936,Cranbrook Inn,6.0,1,27,0
+2012,December,95305,A Victory Inn & Suites,5.0,1,28,0
