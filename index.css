@@ -136,7 +136,7 @@ h2 {
 .chart-layout {
 	display: grid;
 	text-align: start;
-	grid-template-columns: 30% 70%
+	grid-template-columns: 25% 75%
 }
 
 .chart-info {

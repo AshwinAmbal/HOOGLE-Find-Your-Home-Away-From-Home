@@ -67,14 +67,38 @@ text.category{
   background-color: #f7b924;
 }
 
-.fas {
+.chart-info__buttons .fas {
   padding: 1rem;
   cursor: pointer;
   border: 2px solid white;
 }
 
-.fas:hover {
+.chart-info__buttons .fas:hover {
   align-self: baseline;
   background-color: white;
   color: #34495e;
+}
+
+text.change {
+  fill: #fff;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.change {
+  font-size:30px;
+  font-weight:  bold;
+  color:  white;
+  /* background-color:blue; */
+}
+
+.fa-angle-double-down {
+  color: red;
+}
+.fa-angle-double-up {
+  color: green;
+}
+
+.space {
+  visibility: hidden;
 }

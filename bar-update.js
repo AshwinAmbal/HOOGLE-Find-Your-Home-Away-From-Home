@@ -7,7 +7,7 @@ https://bl.ocks.org/charlesdguthrie/11356441
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 const years = ["2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012"]
 
-let delayTiming = 1500
+let delayTiming = 1800
 const MAX_TIME = 5000
 const MIN_TIME = 1200
 
@@ -33,7 +33,7 @@ function HorizontalChart(id) {
   this.margin = { top: 0, right: 0, bottom: 0, left: 0 };
   this.width = 800 - this.margin.left - this.margin.right;
   this.height = (window.innerHeight / 1.5) - this.margin.top - this.margin.bottom;
-  this.categoryIndent = 100;
+  this.categoryIndent = 110;
   this.defaultBarWidth = 2500;
 
   this.color = d3.scale.ordinal()
@@ -51,7 +51,7 @@ function HorizontalChart(id) {
   d3.select(this.id).selectAll("svg").remove();
 
   this.svg = d3.select(this.id).append("svg")
-    .attr("width", this.width + this.margin.left + this.margin.right)
+    .attr("width", this.width + this.margin.left + this.margin.right + this.categoryIndent)
     .attr("height", this.height + this.margin.top + this.margin.bottom)
     .append("g")
     .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
@@ -100,7 +100,7 @@ function HorizontalChart(id) {
     //Add rectangles
     newRow.insert("rect")
       .attr("class", "bar")
-      .attr("x", 0)
+      .attr("x", 10)
       .attr("opacity", 0)
       .style("fill", function (d, i) { return self.color(d["Hotel Name"]) })
       .attr("height", this.y.rangeBand())
@@ -116,16 +116,50 @@ function HorizontalChart(id) {
       .attr("dx", "0.5em")
       .text(function (d) { return d["Total Rating"]; });
 
+    newRow.append("foreignObject")
+      .attr("class", d => {
+        const changeValue =  parseInt(d["Change"])
+        if(changeValue < 0) {
+          return 'change change-decrease'
+        }
+        return 'change change-increase'
+      })
+      .attr("text-overflow", "ellipsis")
+      .attr("y", 0)
+      .attr("x", this.categoryIndent + 10)
+      .attr("opacity", 0)
+      .attr("width", 125)
+      .attr("height", 100)
+      .html(d => {
+        const change = parseInt(d["Change"])
+        if(change < 0) {
+          return  `<div>
+            <i class="fas fa-angle-double-down"></i>
+            <span>${d["Change"].slice(1)}</span>
+          </div>`
+        } else if(change === 0) {
+          return `<div>
+            <i class="space"></i>
+            <span>${d["Change"]}</span>
+          </div>`
+        }
+        return `<div>
+        <i class="fas fa-angle-double-up"></i>
+        <span>${d["Change"]}</span>
+      </div>`
+      });
     //Add Headlines
     newRow.append("text")
       .attr("class", "category")
       .attr("text-overflow", "ellipsis")
       .attr("y", this.y.rangeBand() / 2)
-      .attr("x", this.categoryIndent)
+      .attr("x", this.categoryIndent * 2)
       .attr("opacity", 0)
       .attr("dy", ".35em")
       .attr("dx", "0.5em")
       .text(function (d) { return d["Hotel Name"] });
+
+
 
 
     //////////
@@ -153,8 +187,29 @@ function HorizontalChart(id) {
     //Fade in categories
     chartRow.select(".category").transition()
       .duration(300)
-      .attr("y", this.y.rangeBand() / 2)
       .attr("opacity", 1);
+
+      chartRow.select(".change")
+      .attr("y", 0)
+      .attr("opacity", 1)
+      .html(d => {
+        const change = parseInt(d["Change"])
+        if(change < 0) {
+          return  `<div>
+            <i class="fas fa-angle-double-down"></i>
+            <span>${d["Change"].slice(1)}</span>
+          </div>`
+        } else if(change === 0) {
+          return `<div>
+            <i class="space">0</i>
+            <span>${d["Change"]}</span>
+          </div>`
+        }
+        return `<div>
+        <i class="fas fa-angle-double-up"></i>
+        <span>${d["Change"]}</span>
+      </div>`
+      });
 
     ////////
     //EXIT//
