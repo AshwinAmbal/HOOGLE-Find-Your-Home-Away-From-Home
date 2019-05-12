@@ -1,51 +1,51 @@
 state,visited
-Alabama,0
-Alaska,0
-Arkansas,0
-Arizona,21.64
-California,20.46
-Colorado,20.7
-Connecticut,0
-Delaware,0
-Florida,21.681
-Georgia,0
-Hawaii,0
-Iowa,0
-Idaho,0
-Illinois,22.31
-Indiana,21.328
-Kansas,0
-Kentucky,0
-Louisiana,0
-Maine,0
-Maryland,22.37085756
-Massachusetts,23.48837104
-Michigan,19.41131182
-Minnesota,0
-Missouri,0
-Mississippi,0
-Montana,0
-North Carolina,21.15392578
-North Dakota,0
-Nebraska,0
-New Hampshire,0
-New Jersey,0
-New Mexico,0
-Nevada,0
-New York,21.76472761
-Ohio,21.13030489
-Oklahoma,0
-Oregon,0
-Pennsylvania,21.41121659
-Rhode Island,0
-South Carolina,0
-South Dakota,0
-Tennessee,19.26073184
-Texas,21.73839703
-Utah,0
-Virginia,0
-Vermont,0
-Washington,22.15993453
-Wisconsin,0
-West Virginia,0
-Wyoming,0
+Alabama,-133
+Alaska,-133
+Arkansas,-133
+Arizona,18.48
+California,10.22
+Colorado,11.9
+Connecticut,-133
+Delaware,-133
+Florida,18.767
+Georgia,-133
+Hawaii,-133
+Iowa,-133
+Idaho,-133
+Illinois,23.17
+Indiana,16.296
+Kansas,-133
+Kentucky,-133
+Louisiana,-133
+Maine,-133
+Maryland,23.59600292
+Massachusetts,31.41859728
+Michigan,2.87918274
+Minnesota,-133
+Missouri,-133
+Mississippi,-133
+Montana,-133
+North Carolina,15.07748046
+North Dakota,-133
+Nebraska,-133
+New Hampshire,-133
+New Jersey,-133
+New Mexico,-133
+Nevada,-133
+New York,19.35309327
+Ohio,14.91213423
+Oklahoma,-133
+Oregon,-133
+Pennsylvania,16.87851613
+Rhode Island,-133
+South Carolina,-133
+South Dakota,-133
+Tennessee,1.82512288
+Texas,19.16877921
+Utah,-133
+Virginia,-133
+Vermont,-133
+Washington,22.11954171
+Wisconsin,-133
+West Virginia,-133
+Wyoming,-133

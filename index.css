@@ -7,7 +7,7 @@ div.tooltip
 {
  	position: absolute;
 	text-align: center;
-	width: 60px;
+	width: 90px;
 	height: 28px;
 	padding: 2px;
 	font: 12px "Bitter";
@@ -28,14 +28,6 @@ div.tooltip
 	vertical-align: baseline;
    font-family: "Bitter", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: inherit;
-}
-
-.legend
-{
-	position:absolute;
-	left:850px;
-	top:350px;
-	transform: translate(-50px, 100px);
 }
 
 section {
@@ -71,7 +63,7 @@ section {
 	height: 4rem;
 }
 
-.arrow:hover {
+.section-title .arrow:hover {
 	color: #34495e;
 	background-color: white;
 	border-radius: 2rem;
@@ -144,7 +136,7 @@ h2 {
 .chart-layout {
 	display: grid;
 	text-align: start;
-	grid-template-columns: 30% 70%
+	grid-template-columns: 25% 75%
 }
 
 .chart-info {
@@ -194,4 +186,9 @@ h2 {
 	text-align: left;
 	padding: 1rem;
 	padding-left: 0;
+}
+
+
+#heatmap_1 {
+	position: relative;
 }
